@@ -1,9 +1,9 @@
 # Azure services state
 ---
 
-**Name:** Azure Speed Test 2.0
-**Url:** http://azurespeedtest.azurewebsites.net/
-**Description:** Measuring the latency from your web browser to the Blob Storage Service in each of the Microsoft Azure Data Centers.
+**Name:** Azure Speed Test 2.0 
+**Url:** http://azurespeedtest.azurewebsites.net/  
+**Description:** Measuring the latency from your web browser to the Blob Storage Service in each of the Microsoft Azure Data Centers. 
 
 **Name:** AzureSpeed
 **Url:** https://www.azurespeed.com/
