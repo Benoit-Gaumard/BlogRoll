@@ -1,8 +1,11 @@
 # Azure services state
 ---
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-[go](http://stackoverflow.com){:target="_blank"}
+Live Demo: [demo](https://example.com){:target="_blank"} //kramdown
+
+Live Demo: [demo](https://example.com){target="_blank"} //markdown
+
+Live Demo: <a href="https://example.com" target="_blank">demo</a> //html
 
 🔗  
 **Name:** [Azure Speed Test 2.0](http://azurespeedtest.azurewebsites.net/){:target="_blank"}  
