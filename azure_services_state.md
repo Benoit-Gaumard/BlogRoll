@@ -1,6 +1,9 @@
 # Azure services state
 ---
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+[go](http://stackoverflow.com){:target="_blank"}
+
 🔗  
 **Name:** [Azure Speed Test 2.0](http://azurespeedtest.azurewebsites.net/){:target="_blank"}  
 **Description:** Measuring the latency from your web browser to the Blob Storage Service in each of the Microsoft Azure Data Centers.  
