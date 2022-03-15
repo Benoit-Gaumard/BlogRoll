@@ -1,5 +1,4 @@
 # Cloud Services Comparison
----
 
 🔗
 **Name:** <a href="https://comparecloud.in/" target="_blank">Public Cloud Services Comparison</a>  
