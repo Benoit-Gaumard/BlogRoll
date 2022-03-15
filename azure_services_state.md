@@ -20,3 +20,5 @@
 **Name:** Azure Infrastructure Map
 **Url:** https://infrastructuremap.microsoft.com/
 **Description:** Explore Azure’s global infrastructure.
+
+🌱 
