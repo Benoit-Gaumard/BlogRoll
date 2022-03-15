@@ -1,6 +1,8 @@
 # Azure services state
 ---
 
+[Duck Duck Go](https://duckduckgo.com).
+
 🔗  
 **Name:** Azure Speed Test 2.0  
 **Url:** http://azurespeedtest.azurewebsites.net/  
