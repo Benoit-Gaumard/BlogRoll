@@ -1,5 +1,4 @@
 # Azure services state
----
 
 🔗  
 **Name:** <a href="http://azurespeedtest.azurewebsites.net" target="_blank">Azure Speed Test 2.0</a>  
