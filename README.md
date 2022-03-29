@@ -1,18 +1,18 @@
-# BlogRoll
+# BlogRoll 
 
-# Azure certifications
+# Azure certifications :trophy:
 
 🔗  
 **Name:** https://aka.ms/TrainCertPoster  
 **Description:** All Microsoft certifications list.  
 
-# Azure FinOps
+# Azure FinOps :moneybag:
 
 🔗  
 **Name:** <a href="https://luke.geek.nz/azure/azure-optimization-engine" target="_blank">Azure Optimization Engine</a>  
 **Description:** The Azure Optimization Engine (AOE) is an extensible solution designed to generate optimization recommendations for your Azure environment, like a fully customizable Azure Advisor.  
 
-# Azure Informations and Services
+# Azure Informations and Services :information_source:
 
 🔗
 **Name:** <a href="https://azureinfohub.azurewebsites.net/" target="_blank">Azure Info Hub</a>  
@@ -34,7 +34,7 @@
 **Name:** <a href="https://msportals.io/" target="_blank">Microsoft Administrator Sites/a>  
 **Description:** Project to list all of Microsoft’s portals in one place.  
 
-# Azure Policies
+# Azure Policies :cop:
 
 🔗  
 **Name:** <a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026" target="_blank">Guest Configuration</a>  
@@ -52,7 +52,7 @@
 **Name:** <a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/policy-distribution-dashboard-for-microsoft-defender-for-cloud/ba-p/3264712" target="_blank">Policy Distribution Dashboard</a>  
 **Description:** Policy Distribution Dashboard for Microsoft Defender for Cloud.  
 
-# Azure services state
+# Azure services state :sun_behind_small_cloud:
 
 🔗  
 **Name:** <a href="http://azurespeedtest.azurewebsites.net" target="_blank">Azure Speed Test 2.0</a>  
@@ -70,7 +70,7 @@
 **Name:** <a href="https://infrastructuremap.microsoft.com/" target="_blank">Azure Infrastructure Map</a>  
 **Description:** Explore Azure’s global infrastructure.  
 
-# Cloud Services Comparison
+# Cloud Services Comparison :heavy_plus_sign:
 
 🔗  
 **Name:** <a href="https://comparecloud.in/" target="_blank">Public Cloud Services Comparison</a>  
@@ -79,6 +79,10 @@
 🔗  
 **Name:** <a href="https://azureprice.net/" target="_blank">Azure VM Comparison</a>  
 **Description:** Find and compare Azure Virtual Machines specs and pricing on one page across different tiers, payment types, and regions.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services  
+**Description:** Compare Azure and AWS services. 
 
 # DevOps
 
@@ -90,7 +94,36 @@
 **Name:** <a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">https://github.com/vinijmoura/Azure-DevOps</a>  
 **Description:** Code Samples (applications, scripts, PowerBI reports, demos, etc.) to apply on Azure DevOps.  
 
-# Azure AD
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started  
+**Description:** Raspberry Simulator for IOT Hub.  
+
+🔗  
+**Name:** https://azuredevopslabs.com  
+**Description:** Azure DevOps Labs.  
+
+🔗  
+**Name:** https://azuredevopsdemogenerator.azurewebsites.net  
+**Description:** Azure DevOps Demo Generator.  
+
+
+🔗  
+**Name:** https://aex.dev.azure.com/  
+**Description:** Azure DevOps Organization.  
+
+🔗  
+**Name:** https://github.com/bregman-arie/devops-resources  
+**Description:** Azure Devops Resources.  
+
+🔗  
+**Name:** http://www.devopsbookmarks.com/cloud-paas  
+**Description:** Devops Bookmark.  
+
+🔗  
+**Name:** https://roadmap.sh/  
+**Description:** Devops roadmap.  
+
+# Azure AD :rocket:
 
 🔗  
 **Name:** <a href="https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9" target="_blank">Azure AD where is your data located?</a>  
@@ -104,15 +137,50 @@
 **Name:** <a href="https://o365.rocks/" target="_blank">https://o365.rocks/</a>  
 **Description:** Tenant creation page.  
 
-# Others
+# Others :gift:
 
 🔗  
 **Name:** <a href="https://github.com/clarkio/azure-mask" target="_blank">Azure Mask</a>  
 **Description:** Browser extension to mask GUIDs (such as Subscription IDs), email addresses, keys, and connection strings with a blur.  
 
-# Sustainability
+# Sustainability :seedling:
 
 🔗  
 **Name:** <a href="https://azure.microsoft.com/es-es/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/" target="_blank">Emissions Impact Dashboard</a>  
 **Description:** Microsoft Emissions Impact Dashboard.  
+
+# Azure concepts :cloud:
+
+🔗  
+**Name:** https://azure.microsoft.com/en-us/global-infrastructure/geographies/  
+**Description:** Azure Geographies and regions.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure  
+**Description:** Azure cross regions replication.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones  
+**Description:** Azure regions and availability zones.  
+
+
+# Azure architecture :desktop_computer:
+
+🔗  
+**Name:** https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource  
+**Description:** White papers.  
+
+🔗  
+**Name:** https://feedback.azure.com/d365community  
+**Description:** Azure feedback.  
+
+🔗  
+**Name:** http://azuredatacentermap.azurewebsites.net/  
+**Description:** Azure datacenter map.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services  
+**Description:** Compare Azure and AWS services.  
+
+
 
