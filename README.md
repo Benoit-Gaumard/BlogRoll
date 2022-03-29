@@ -3,7 +3,7 @@
 # Azure certifications
 
 🔗  
-**Name:** <a href="https://aka.ms/TrainCertPoster" target="_blank">Microsoft Certification Poster</a>  
+**Name:** https://aka.ms/TrainCertPoster  
 **Description:** All Microsoft certifications list.  
 
 # Azure FinOps
@@ -103,7 +103,6 @@
 🔗  
 **Name:** <a href="https://o365.rocks/" target="_blank">https://o365.rocks/</a>  
 **Description:** Tenant creation page.  
-https://account.azure.com/organization
 
 # Others
 
