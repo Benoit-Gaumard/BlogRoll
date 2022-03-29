@@ -84,7 +84,7 @@
 **Name:** https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services  
 **Description:** Compare Azure and AWS services. 
 
-# DevOps
+# DevOps :rocket:
 
 🔗  
 **Name:** <a href="https://learngitbranching.js.org/" target="_blank">Learn Git Branching</a>  
@@ -123,7 +123,7 @@
 **Name:** https://roadmap.sh/  
 **Description:** Devops roadmap.  
 
-# Azure AD :rocket:
+# Azure AD :large_blue_diamond:
 
 🔗  
 **Name:** <a href="https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9" target="_blank">Azure AD where is your data located?</a>  
@@ -137,7 +137,7 @@
 **Name:** <a href="https://o365.rocks/" target="_blank">https://o365.rocks/</a>  
 **Description:** Tenant creation page.  
 
-# Others :gift:
+# Others :open_file_folder:
 
 🔗  
 **Name:** <a href="https://github.com/clarkio/azure-mask" target="_blank">Azure Mask</a>  
@@ -164,7 +164,7 @@
 **Description:** Azure regions and availability zones.  
 
 
-# Azure architecture :desktop_computer:
+# Azure architecture :classical_building:
 
 🔗  
 **Name:** https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource  
