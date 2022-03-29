@@ -31,7 +31,7 @@
 **Description:** A visual representation of Azure services. Services interconnections, reference to availability by regions and other quick references.  
 
 🔗  
-**Name:** <a href="https://msportals.io/" target="_blank">Microsoft Administrator Sites/a>  
+**Name:** <a href="https://msportals.io/" target="_blank">Microsoft Administrator Sites</a>  
 **Description:** Project to list all of Microsoft’s portals in one place.  
 
 # :cop: Azure Policies 
@@ -81,8 +81,8 @@
 **Description:** Find and compare Azure Virtual Machines specs and pricing on one page across different tiers, payment types, and regions.  
 
 🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services  
-**Description:** Compare Azure and AWS services. 
+**Name:** https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
+**Description:** Compare Azure and AWS services.  
 
 # :rocket: DevOps 
 
