@@ -38,7 +38,7 @@
 
 🔗  
 **Name:** <a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026" target="_blank">Guest Configuration</a>  
-**Description:** T7 steps to author, develop, and deploy custom recommendations for Windows using Guest Configuration.  
+**Description:** 7 steps to author, develop, and deploy custom recommendations for Windows using Guest Configuration.  
 
 🔗  
 **Name:** <a href="https://github.com/Azure/enterprise-azure-policy-as-code" target="_blank">enterprise-azure-policy-as-code</a>  
@@ -177,5 +177,35 @@
 **Name:** http://azuredatacentermap.azurewebsites.net/  
 **Description:** Azure datacenter map.  
 
+# :house: Governance
 
+🔗  
+**Name:** https://www.azadvertizer.net/  
+**Description:** AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases and Azure RBAC's role definitions and resource provider operations.  
+
+🔗  
+**Name:** https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting  
+**Description:** AzGovViz is a PowerShell based script that iterates your Azure Tenant´s Management Group hierarchy down to Subscription level. It captures most relevant Azure governance capabilities such as Azure Policy, RBAC and Blueprints and a lot more.  
+
+🔗  
+**Name:** https://github.com/Azure/ccodashboard  
+**Description:** The Continuous Cloud Optimization Power BI Dashboards project is a set of Power BI Desktop Reports developed using Power Query M language and DAX, that pulls information directly from different Azure REST APIs and enables monitoring, operation and infrastructure teams to quickly gain insights about their existing Azure Platform footprint and resources.  
+
+🔗  
+**Name:** https://github.com/azureinventory  
+**Description:** Powerfull Scripts to Inventory Azure.  
+
+🔗  
+**Name:** https://github.com/PrateekKumarSingh/AzViz  
+**Description:** Azure Visualizer aka 'AzViz' - PowerShell module to automatically generate Azure resource topology diagrams by just typing a PowerShell cmdlet and passing the name of one or more Azure Resource Group(s).  
+
+🔗  
+**Name:** https://github.com/microsoft/AzureMonitorCommunity  
+**Description:** This public repo serves the Azure Monitor community. It contains log queries, workbooks, and alerts, shared to help Azure Monitor users make the most of it.  
+
+# :octocat: GitHub
+
+🔗  
+**Name:** https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
+**Description:** GitHub emoji cheat sheet.  
 
