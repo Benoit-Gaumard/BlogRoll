@@ -177,6 +177,38 @@
 **Name:** http://azuredatacentermap.azurewebsites.net/  
 **Description:** Azure datacenter map.  
 
+🔗  
+**Name:** https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra  
+**Description:** Microsoft Cybersecurity Reference Architectures (MCRA).  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits  
+**Description:** Azure subscription and service limits, quotas, and constraints.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-taggings  
+**Description:** Develop your naming and tagging strategy for Azure resources.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/resources/azure-scaffold  
+**Description:** Cloud Adoption Framework (CAF).  
+
+🔗  
+**Name:** https://social.technet.microsoft.com/wiki/contents/articles/630.microsoft-azure-survival-guide.aspx  
+**Description:** Azure Survival Guide.  
+
+🔗  
+**Name:** https://social.technet.microsoft.com/wiki/contents/articles/33800.azure-iaas-v2-arm-design-series-azure-subscriptions.aspx  
+**Description:** Azure Subscription Design.  
+
+🔗  
+**Name:** https://azure.microsoft.com/en-us/support/legal/offer-details/  
+**Description:** Azure Offers.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/  
+**Description:** Subscription decision guide.  
+
 # :house: Governance
 
 🔗  
@@ -203,9 +235,80 @@
 **Name:** https://github.com/microsoft/AzureMonitorCommunity  
 **Description:** This public repo serves the Azure Monitor community. It contains log queries, workbooks, and alerts, shared to help Azure Monitor users make the most of it.  
 
+🔗  
+**Name:** https://powershell.today/2022/02/new-diagrams.net-diagram/  
+**Description:** A small Powershell module that only contains one function for creating diagrams from your Azure Managementgroups and Subscriptions hierarchy.  
+
+# :books: DashBoard
+
+🔗  
+**Name:** https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard  
+**Description:** Network Security Dashboard for Microsoft Defender for Cloud.  
+
 # :octocat: GitHub
 
 🔗  
 **Name:** https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
 **Description:** GitHub emoji cheat sheet.  
 
+# :black_nib: Visio stencils ans icons
+
+🔗  
+**Name:** https://www.microsoft.com/en-us/download/details.aspx?id=41937  
+**Description:** Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer.  
+
+🔗  
+**Name:** https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/tree/master/Azure  
+**Description:** sandroasp Icon Set.  
+
+🔗  
+**Name:** https://github.com/David-Summers/Azure-Design  
+**Description:** David-Summers Icon Set.  
+
+🔗  
+**Name:** http://code.benco.io/icon-collection/azure-docs/  
+**Description:** Azure Docs.  
+
+🔗  
+**Name:** http://code.benco.io/icon-collection/azure-icons/  
+**Description:** Azure Docs.  
+
+🔗  
+**Name:** http://code.benco.io/icon-collection/azure-patterns/  
+**Description:** Azure Patterns Collection.  
+
+🔗  
+**Name:** http://code.benco.io/icon-collection/azure-cds/  
+**Description:** Azure Patterns Collection.  
+
+# :page_with_curl: Tips and tricks
+
+🔗  
+**Name:** https://microsoft.github.io/AzureTipsAndTricks/  
+**Description:** Azure Tips and Tricks.  
+
+🔗  
+**Name:** https://microsoft.github.io/AzureTipsAndTricks/  
+**Description:** Azure Cloud Shell Web.  
+
+# :police_car: Compliance
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide  
+**Description:** Microsoft compliance offerings.  
+
+🔗  
+**Name:** https://privacy.microsoft.com/en-us/privacystatement  
+**Description:** Microsoft Privacy Statement.  
+
+🔗  
+**Name:** https://www.microsoft.com/en-us/trust-center  
+**Description:** Microsoft trust center.  
+
+🔗  
+**Name:** https://servicetrust.microsoft.com/  
+**Description:** Service trust portal.  
+
+🔗  
+**Name:** https://servicetrust.microsoft.com/ComplianceManager/V3#  
+**Description:** Compliance Manager portal.  
