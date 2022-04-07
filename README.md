@@ -12,6 +12,30 @@
 **Name:** <a href="https://luke.geek.nz/azure/azure-optimization-engine" target="_blank">Azure Optimization Engine</a>  
 **Description:** The Azure Optimization Engine (AOE) is an extensible solution designed to generate optimization recommendations for your Azure environment, like a fully customizable Azure Advisor.  
 
+🔗  
+**Name:** https://azure.microsoft.com/en-us/pricing/tco/calculator/  
+**Description:** Azure TCO calculator  
+
+🔗  
+**Name:** https://azure.microsoft.com/en-us/pricing/calculator/  
+**Description:** Pricing calculator  
+
+🔗  
+**Name:** https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure  
+**Description:** Strategies to realizing Cost Savings in Azure.  
+
+🔗  
+**Name:** https://github.com/Azure/AzureBudgetAlert-in-Teams  
+**Description:** Budget Alert in Teams  
+
+🔗  
+**Name:** https://github.com/helderpinto/AzureOptimizationEngine  
+**Description:** Azure Optimization Engine  
+
+🔗  
+**Name:** https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622  
+**Description:** Microsoft Defender for Cloud Price Estimation Dashboard  
+
 # :information_source: Azure Informations and Services 
 
 🔗
@@ -52,11 +76,39 @@
 **Name:** <a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/policy-distribution-dashboard-for-microsoft-defender-for-cloud/ba-p/3264712" target="_blank">Policy Distribution Dashboard</a>  
 **Description:** Policy Distribution Dashboard for Microsoft Defender for Cloud.  
 
+🔗  
+**Name:** https://github.com/rjygraham/AzurePolicy/tree/main/Samples  
+**Description:** Ryan Graham.  
+
+🔗  
+**Name:** https://github.com/tyconsulting/azurepolicy  
+**Description:** tyconsulting.  
+
+🔗  
+**Name:** https://github.com/Azure/Community-Policy  
+**Description:** Azure Community Policy.  
+
+🔗  
+**Name:** https://github.com/Azure/enterprise-azure-policy-as-code  
+**Description:** Enterprise azure policy as code.  
+
+🔗  
+**Name:** https://www.cloudsma.com/2021/10/build-azure-policy-compliance-workbook/  
+**Description:** Azure Policy Compliance WorkBook.  
+
+🔗  
+**Name:** https://github.com/globalbao/awesome-azure-policy  
+**Description:** AWESOME-Azure-Policy.  
+
 # :sun_behind_small_cloud: Azure services state 
 
 🔗  
 **Name:** <a href="http://azurespeedtest.azurewebsites.net" target="_blank">Azure Speed Test 2.0</a>  
 **Description:** Measuring the latency from your web browser to the Blob Storage Service in each of the Microsoft Azure Data Centers.  
+
+🔗  
+**Name:** <a href="https://github.com/devblackops/AzSpeedTest" target="_blank">AzSpeedTest Powershell</a>  
+**Description:** An Microsoft Azure speed test module for PowerShell. This module performs basic network latency tests to one or more Azure regions and returns the results.  
 
 🔗  
 **Name:** <a href="https://www.azurespeed.com/" target="_blank">AzureSpeed</a>  
@@ -81,8 +133,16 @@
 **Description:** Find and compare Azure Virtual Machines specs and pricing on one page across different tiers, payment types, and regions.  
 
 🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
+**Name:** https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services  
 **Description:** Compare Azure and AWS services.  
+
+🔗  
+**Name:** https://azuremarketplace.microsoft.com/en-us/  
+**Description:** Azure MarketPlace.  
+
+🔗  
+**Name:** https://myapps.microsoft.com/  
+**Description:** MyApps  
 
 # :rocket: DevOps 
 
@@ -135,6 +195,22 @@
 🔗  
 **Name:** <a href="https://o365.rocks/" target="_blank">https://o365.rocks/</a>  
 **Description:** Tenant creation page.  
+
+🔗  
+**Name:** https://azure.microsoft.com/en-us/pricing/details/active-directory/  
+**Description:** Azure AD pricing.  
+
+🔗  
+**Name:** https://docs.microsoft.com/fr-fr/azure/active-directory/  
+**Description:** Azure AD documentation.  
+
+🔗  
+**Name:** https://microsoft.com/devicelogin/  
+**Description:** Interactive authentication.  
+
+🔗  
+**Name:** http://aad.portal.azure.com  
+**Description:** Azure Active Directory admin center.  
 
 # :open_file_folder: Others 
 
@@ -208,6 +284,10 @@
 🔗  
 **Name:** https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/  
 **Description:** Subscription decision guide.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles  
+**Description:** Azure Built In roles.  
 
 # :house: Governance
 
@@ -312,3 +392,43 @@
 🔗  
 **Name:** https://servicetrust.microsoft.com/ComplianceManager/V3#  
 **Description:** Compliance Manager portal.  
+
+# :computer: Virtual machines
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general  
+**Description:** Azure VM sizes.  
+
+# :arrow_upper_right: Virtual Machines Scale Set (VMSS)
+
+🔗  
+**Name:** https://github.com/gbowerman/vmssdashboard  
+**Description:** Virtual machine scale set editor dashboard.  
+
+🔗  
+**Name:** https://github.com/msleal/asciivmssdashboard  
+**Description:** Virtual machine scale set editor dashboard ascii.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general  
+**Description:** Azure VM sizes.  
+
+
+# :a: ARM
+
+🔗  
+**Name:** https://azure.microsoft.com/en-us/resources/templates/  
+**Description:** Azure Quickstart Templates.  
+
+🔗  
+**Name:** http://armviz.io/designer  
+**Description:** Visualize your Azure ARM template dependencies as a tree.  
+
+🔗  
+**Name:** https://resources.azure.com/  
+**Description:** Azure resource explorer.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/rest/api/azure/  
+**Description:** Azure REST API reference documentation.  
+
