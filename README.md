@@ -51,12 +51,20 @@
 **Description:** Live visual exploration environment for Azure Cloud and ecosystem.  
 
 🔗  
+**Name:** https://azureperiodic.data3.com/  
+**Description:** Azure Periodic table.  
+
+🔗  
 **Name:** <a href="https://azureservices.io/" target="_blank">Azure Services IO</a>  
 **Description:** A visual representation of Azure services. Services interconnections, reference to availability by regions and other quick references.  
 
 🔗  
 **Name:** <a href="https://msportals.io/" target="_blank">Microsoft Administrator Sites</a>  
 **Description:** Project to list all of Microsoft’s portals in one place.  
+
+🔗  
+**Name:** https://microsoftcloudworkshop.com/  
+**Description:** Microsoft Cloud Workshop library.  
 
 # :cop: Azure Policies 
 
@@ -99,6 +107,10 @@
 🔗  
 **Name:** https://github.com/globalbao/awesome-azure-policy  
 **Description:** AWESOME-Azure-Policy.  
+
+🔗  
+**Name:** https://github.com/JimGBritt/AzurePolicy/tree/master/AzureMonitor/Scripts  
+**Description:** Azure Diagnostics Policy Generator.  
 
 # :sun_behind_small_cloud: Azure services state 
 
@@ -181,6 +193,14 @@
 🔗  
 **Name:** https://roadmap.sh/  
 **Description:** Devops roadmap.  
+
+🔗  
+**Name:** https://roadmap.sh/  
+**Description:** Devops roadmap.  
+
+🔗  
+**Name:** https://devsecopstable.z6.web.core.windows.net/  
+**Description:** DevSecOps table.  
 
 # :large_blue_diamond: Azure AD 
 
@@ -289,6 +309,66 @@
 **Name:** https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles  
 **Description:** Azure Built In roles.  
 
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/architecture/browse/  
+**Description:** Azure Reference Architectures.  
+
+🔗  
+**Name:** https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT  
+**Description:** Azure Customer Advisory Team  
+
+🔗  
+**Name:** https://azure.microsoft.com/en-us/support/legal/sla/summary/  
+**Description:** SLA for Azure services  
+
+🔗  
+**Name:** https://uptime.is/  
+**Description:** SLA Calculator  
+
+🔗  
+**Name:** https://preview.portal.azure.com  
+**Description:** Azure Preview portal  
+
+🔗  
+**Name:** https://rc.portal.azure.com/  
+**Description:** Azure RC portal  
+
+🔗  
+**Name:** https://www.nuno-silva.net/microsoft-365-portals  
+**Description:** Microsoft portals  
+
+🔗  
+**Name:** https://www.moderndeployment.com/microsoft-azure-management-urls/  
+**Description:** Microsoft portals 2  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-US/troubleshoot/azure/virtual-machines/server-software-support  
+**Description:** Azure supported workloads  
+
+# :house: Updates and RSS feeds
+
+🔗  
+**Name:** https://azure.microsoft.com/en-us/updates/  
+**Description:** Azure Updates  
+
+🔗  
+**Name:** https://azureweekly.info/  
+**Description:** Azure Weekly  
+
+🔗  
+**Name:** https://azurefeeds.com/  
+**Description:** AzureFeeds  
+
+# :house: Support
+
+🔗  
+**Name:** https://azure.microsoft.com/en-us/support/plans/  
+**Description:** Azure Support plans  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/answers/products/azure?product=all  
+**Description:** Azure community support  
+
 # :house: Governance
 
 🔗  
@@ -318,6 +398,12 @@
 🔗  
 **Name:** https://powershell.today/2022/02/new-diagrams.net-diagram/  
 **Description:** A small Powershell module that only contains one function for creating diagrams from your Azure Managementgroups and Subscriptions hierarchy.  
+
+**Name:** https://github.com/jkstant/AzureRACIToolkit  
+**Description:** Azure Raci toolkit  
+
+**Name:** https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ  
+**Description:** Azure Academy  
 
 # :books: DashBoard
 
@@ -399,6 +485,14 @@
 **Name:** https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general  
 **Description:** Azure VM sizes.  
 
+🔗  
+**Name:** https://automys.com/library/asset/scheduled-virtual-machine-shutdown-startup-microsoft-azure  
+**Description:** Start / Stop VMs .  
+
+🔗  
+**Name:** https://github.com/tomasrudh/AutoShutdownSchedule#automation-account-configuration  
+**Description:** Start / Stop VMs .  
+
 # :arrow_upper_right: Virtual Machines Scale Set (VMSS)
 
 🔗  
@@ -412,7 +506,6 @@
 🔗  
 **Name:** https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general  
 **Description:** Azure VM sizes.  
-
 
 # :a: ARM
 
@@ -429,6 +522,75 @@
 **Description:** Azure resource explorer.  
 
 🔗  
-**Name:** https://docs.microsoft.com/en-us/rest/api/azure/  
-**Description:** Azure REST API reference documentation.  
+**Name:** https://resources.azure.com/  
+**Description:** Azure Resource Explorer.  
 
+🔗  
+**Name:** https://docs.microsoft.com/en-us/rest/api/?view=Azure  
+**Description:** Rest API Browser .  
+
+# :teacher: Learning
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/learn/  
+**Description:** Microsoft Learn.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/archive/blogs/blogms/official-microsoft-team-blogs-microsoft-blogs  
+**Description:** Official Microsoft Team Blogs / Microsoft Blogs.  
+
+# :stopwatch: Analytics and monitoring
+
+🔗  
+**Name:** https://portal.loganalytics.io/demo#/query/main  
+**Description:** Log Analytics Query Portal.  
+
+🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer  
+**Description:** Kusto explorer.  
+
+🔗  
+**Name:** https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/  
+**Description:** Monitoring Azure by using Grafana dashboards.  
+
+🔗  
+**Name:** https://github.com/microsoft/AzureMonitorCommunity  
+**Description:** Azure Monitor Community.  
+
+# :ninja: Security
+
+🔗  
+**Name:** https://github.com/nccgroup/azucar  
+**Description:** Azucar Security Auditing Tool for Azure.  
+
+🔗  
+**Name:** https://github.com/azsk/DevOpsKit-docs  
+**Description:** Secure DevOps Kit for Azure.  
+
+🔗  
+**Name:** https://github.com/cyberark/SkyArk  
+**Description:** Skyark.  
+
+🔗  
+**Name:** https://github.com/NetSPI/MicroBurst  
+**Description:** MicroBurst.  
+
+🔗  
+**Name:** https://github.com/Azure/Stormspotter  
+**Description:** Stormspotter.  
+
+🔗  
+**Name:** https://github.com/Azure/Cloud-Katana  
+**Description:** Cloud Katana.  
+
+🔗  
+**Name:** https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html  
+**Description:** Azure Security Control Mappings to MITRE ATT&CK®.  
+
+🔗  
+**Name:** https://github.com/sergiomarotco/  
+**Description:** Network-segmentation-cheat-sheet.  
+
+🔗  
+**Name:** https://github.com/darkquasar/AzureHunter  
+**Description:** Azure Hunter.  
