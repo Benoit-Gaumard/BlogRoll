@@ -112,6 +112,10 @@
 **Name:** https://github.com/JimGBritt/AzurePolicy/tree/master/AzureMonitor/Scripts  
 **Description:** Azure Diagnostics Policy Generator.  
 
+🔗  
+**Name:** https://www.cloudpartner.fi/?p=7015  
+**Description:** Configure centralized policy management.  
+
 # :sun_behind_small_cloud: Azure services state 
 
 🔗  
@@ -345,6 +349,11 @@
 **Name:** https://docs.microsoft.com/en-US/troubleshoot/azure/virtual-machines/server-software-support  
 **Description:** Azure supported workloads  
 
+🔗  
+**Name:** https://github.com/lukemurraynz/awesome-azure-architecture  
+**Description:** awesome-azure-architecture  
+
+
 # :house: Updates and RSS feeds
 
 🔗  
@@ -416,6 +425,14 @@
 🔗  
 **Name:** https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
 **Description:** GitHub emoji cheat sheet.  
+
+🔗  
+**Name:** https://myoctocat.com/build-your-octocat/  
+**Description:** Build your own octocat.  
+
+🔗  
+**Name:** https://www.bitmoji.com/stickers/  
+**Description:** Bitmoji.  
 
 # :black_nib: Visio stencils ans icons
 
@@ -522,10 +539,6 @@
 **Description:** Azure resource explorer.  
 
 🔗  
-**Name:** https://resources.azure.com/  
-**Description:** Azure Resource Explorer.  
-
-🔗  
 **Name:** https://docs.microsoft.com/en-us/rest/api/?view=Azure  
 **Description:** Rest API Browser .  
 
@@ -594,3 +607,10 @@
 🔗  
 **Name:** https://github.com/darkquasar/AzureHunter  
 **Description:** Azure Hunter.  
+
+# :ninja: Terraform
+
+🔗  
+**Name:** https://github.com/Azure/aztfy  
+**Description:** A tool to bring your existing Azure resources under the management of Terraform.  
+
