@@ -414,6 +414,9 @@
 **Name:** https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ  
 **Description:** Azure Academy  
 
+**Name:** https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198  
+**Description:** Azure Orphan Resources workbook  
+
 # :books: DashBoard
 
 🔗  
