@@ -417,6 +417,9 @@
 **Name:** https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198  
 **Description:** Azure Orphan Resources workbook  
 
+**Name:** https://github.com/aznamingtool/AzureNamingTool/  
+**Description:** Azure Naming Tool  
+
 # :books: DashBoard
 
 🔗  
