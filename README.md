@@ -2,8 +2,8 @@
 
 # :trophy: Azure certifications 
 
-🔗  
-**Name:** https://aka.ms/TrainCertPoster  
+**🔗 Link:** https://aka.ms/TrainCertPoster 
+**Name:** Certifications training poster
 **Description:** All Microsoft certifications list.  
 
 # :moneybag: Azure FinOps 
