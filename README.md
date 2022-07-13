@@ -318,6 +318,10 @@
 **Description:** Azure Reference Architectures.  
 
 🔗  
+**Name:** https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/antipatterns-to-avoid  
+**Description:** Cloud adoption antipatterns.  
+
+🔗  
 **Name:** https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT  
 **Description:** Azure Customer Advisory Team  
 
