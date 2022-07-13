@@ -618,6 +618,10 @@
 **Name:** https://github.com/darkquasar/AzureHunter  
 **Description:** Azure Hunter.  
 
+🔗  
+**Name:** https://msrc.microsoft.com/update-guide/vulnerability  
+**Description:** Microsoft Security Response Center.  
+
 # :ninja: Terraform
 
 🔗  
