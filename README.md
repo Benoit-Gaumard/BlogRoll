@@ -1,64 +1,64 @@
-# BlogRoll 
+BlogRoll 
 
-# :trophy: Azure certifications 
+## :trophy: Azure certifications 
 
-🔗  
-**Name:** https://aka.ms/TrainCertPoster  
-**Description:** All Microsoft certifications list.  
+#### 🔗 Certifications training poster
+* All Microsoft certifications list.
+* https://aka.ms/TrainCertPoster
 
-# :moneybag: Azure FinOps 
+## :moneybag: Azure FinOps 
 
-🔗  
-**Name:** <a href="https://luke.geek.nz/azure/azure-optimization-engine" target="_blank">Azure Optimization Engine</a>  
-**Description:** The Azure Optimization Engine (AOE) is an extensible solution designed to generate optimization recommendations for your Azure environment, like a fully customizable Azure Advisor.  
+#### 🔗 Azure Optimization Engine
+* The Azure Optimization Engine (AOE) is an extensible solution designed to generate optimization recommendations for your Azure environment, like a fully customizable Azure Advisor.  
+* https://aka.ms/TrainCertPoster  
 
-🔗  
-**Name:** https://azure.microsoft.com/en-us/pricing/tco/calculator/  
-**Description:** Azure TCO calculator  
+#### 🔗 Azure TCO calculator  
+* Azure TCO calculator  
+* https://azure.microsoft.com/en-us/pricing/tco/calculator/  
 
-🔗  
-**Name:** https://azure.microsoft.com/en-us/pricing/calculator/  
-**Description:** Pricing calculator  
+#### 🔗 Azure Pricing calculator 
+* Azure Pricing calculator 
+* https://azure.microsoft.com/en-us/pricing/calculator/  
 
-🔗  
-**Name:** https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure  
-**Description:** Strategies to realizing Cost Savings in Azure.  
+#### 🔗 Strategies to realizing Cost Savings in Azure. 
+* Strategies to realizing Cost Savings in Azure.
+* https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure  
 
-🔗  
-**Name:** https://github.com/Azure/AzureBudgetAlert-in-Teams  
-**Description:** Budget Alert in Teams  
+#### 🔗 Budget Alert in Teams
+* Budget Alert in Teams  
+* https://github.com/Azure/AzureBudgetAlert-in-Teams  
 
-🔗  
-**Name:** https://github.com/helderpinto/AzureOptimizationEngine  
-**Description:** Azure Optimization Engine  
+#### 🔗 Azure Optimization Engine (AOE)
+*  Azure Optimization Engine (AOE) 
+* https://github.com/helderpinto/AzureOptimizationEngine  
 
-🔗  
-**Name:** https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622  
-**Description:** Microsoft Defender for Cloud Price Estimation Dashboard  
+#### 🔗 Microsoft Defender for Cloud Price Estimation Dashboard  
+*  Microsoft Defender for Cloud Price Estimation Dashboard  
+*  https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622  
 
-# :information_source: Azure Informations and Services 
+## :information_source: Azure Informations and Services 
 
-🔗
-**Name:** <a href="https://azureinfohub.azurewebsites.net/" target="_blank">Azure Info Hub</a>  
-**Description:** A resource of publicly available content about Azure.  
+#### 🔗 Azure Info Hub
+* Azure Hub Info
+* https://azureinfohub.azurewebsites.net/
 
-🔗  
+#### 🔗  
 **Name:** <a href="https://azure.microsoft.com/en-us/updates/" target="_blank">Azure updates</a>  
 **Description:** Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.  
 
-🔗  
+#### 🔗 
 **Name:** <a href="https://azurecharts.com/" target="_blank">Azure Charts</a>  
 **Description:** Live visual exploration environment for Azure Cloud and ecosystem.  
 
-🔗  
+#### 🔗 
 **Name:** https://azureperiodic.data3.com/  
 **Description:** Azure Periodic table.  
 
-🔗  
+#### 🔗 
 **Name:** <a href="https://azureservices.io/" target="_blank">Azure Services IO</a>  
 **Description:** A visual representation of Azure services. Services interconnections, reference to availability by regions and other quick references.  
 
-🔗  
+#### 🔗 
 **Name:** <a href="https://msportals.io/" target="_blank">Microsoft Administrator Sites</a>  
 **Description:** Project to list all of Microsoft’s portals in one place.  
 
@@ -66,7 +66,7 @@
 **Name:** https://microsoftcloudworkshop.com/  
 **Description:** Microsoft Cloud Workshop library.  
 
-# :cop: Azure Policies 
+## :cop: Azure Policies 
 
 🔗  
 **Name:** <a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026" target="_blank">Guest Configuration</a>  
@@ -116,7 +116,7 @@
 **Name:** https://www.cloudpartner.fi/?p=7015  
 **Description:** Configure centralized policy management.  
 
-# :sun_behind_small_cloud: Azure services state 
+## :sun_behind_small_cloud: Azure services state 
 
 🔗  
 **Name:** <a href="http://azurespeedtest.azurewebsites.net" target="_blank">Azure Speed Test 2.0</a>  
@@ -138,7 +138,7 @@
 **Name:** <a href="https://infrastructuremap.microsoft.com/" target="_blank">Azure Infrastructure Map</a>  
 **Description:** Explore Azure’s global infrastructure.  
 
-# :heavy_plus_sign: Cloud Services Comparison 
+## :heavy_plus_sign: Cloud Services Comparison 
 
 🔗  
 **Name:** <a href="https://comparecloud.in/" target="_blank">Public Cloud Services Comparison</a>  
@@ -160,7 +160,7 @@
 **Name:** https://myapps.microsoft.com/  
 **Description:** MyApps  
 
-# :rocket: DevOps 
+## :rocket: DevOps 
 
 🔗  
 **Name:** <a href="https://learngitbranching.js.org/" target="_blank">Learn Git Branching</a>  
@@ -206,7 +206,7 @@
 **Name:** https://devsecopstable.z6.web.core.windows.net/  
 **Description:** DevSecOps table.  
 
-# :large_blue_diamond: Azure AD 
+## :large_blue_diamond: Azure AD 
 
 🔗  
 **Name:** <a href="https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9" target="_blank">Azure AD where is your data located?</a>  
@@ -236,19 +236,19 @@
 **Name:** http://aad.portal.azure.com  
 **Description:** Azure Active Directory admin center.  
 
-# :open_file_folder: Others 
+## :open_file_folder: Others 
 
 🔗  
 **Name:** <a href="https://github.com/clarkio/azure-mask" target="_blank">Azure Mask</a>  
 **Description:** Browser extension to mask GUIDs (such as Subscription IDs), email addresses, keys, and connection strings with a blur.  
 
-# :seedling: Sustainability 
+## :seedling: Sustainability 
 
 🔗  
 **Name:** <a href="https://azure.microsoft.com/es-es/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/" target="_blank">Emissions Impact Dashboard</a>  
 **Description:** Microsoft Emissions Impact Dashboard.  
 
-# :cloud: Azure concepts 
+## :cloud: Azure concepts 
 
 🔗  
 **Name:** https://azure.microsoft.com/en-us/global-infrastructure/geographies/  
@@ -262,8 +262,7 @@
 **Name:** https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones  
 **Description:** Azure regions and availability zones.  
 
-
-# :classical_building: Azure architecture 
+## :classical_building: Azure architecture 
 
 🔗  
 **Name:** https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource  
@@ -357,8 +356,7 @@
 **Name:** https://github.com/lukemurraynz/awesome-azure-architecture  
 **Description:** awesome-azure-architecture  
 
-
-# :house: Updates and RSS feeds
+## :house: Updates and RSS feeds
 
 🔗  
 **Name:** https://azure.microsoft.com/en-us/updates/  
@@ -372,7 +370,7 @@
 **Name:** https://azurefeeds.com/  
 **Description:** AzureFeeds  
 
-# :house: Support
+## :house: Support
 
 🔗  
 **Name:** https://azure.microsoft.com/en-us/support/plans/  
@@ -382,7 +380,7 @@
 **Name:** https://docs.microsoft.com/en-us/answers/products/azure?product=all  
 **Description:** Azure community support  
 
-# :house: Governance
+## :house: Governance
 
 🔗  
 **Name:** https://www.azadvertizer.net/  
@@ -424,13 +422,13 @@
 **Name:** https://github.com/aznamingtool/AzureNamingTool/  
 **Description:** Azure Naming Tool  
 
-# :books: DashBoard
+## :books: DashBoard
 
 🔗  
 **Name:** https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard  
 **Description:** Network Security Dashboard for Microsoft Defender for Cloud.  
 
-# :octocat: GitHub
+## :octocat: GitHub
 
 🔗  
 **Name:** https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
@@ -474,7 +472,7 @@
 **Name:** http://code.benco.io/icon-collection/azure-cds/  
 **Description:** Azure Patterns Collection.  
 
-# :page_with_curl: Tips and tricks
+## :page_with_curl: Tips and tricks
 
 🔗  
 **Name:** https://microsoft.github.io/AzureTipsAndTricks/  
@@ -484,7 +482,7 @@
 **Name:** https://microsoft.github.io/AzureTipsAndTricks/  
 **Description:** Azure Cloud Shell Web.  
 
-# :police_car: Compliance
+## :police_car: Compliance
 
 🔗  
 **Name:** https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide  
@@ -506,7 +504,7 @@
 **Name:** https://servicetrust.microsoft.com/ComplianceManager/V3#  
 **Description:** Compliance Manager portal.  
 
-# :computer: Virtual machines
+## :computer: Virtual machines
 
 🔗  
 **Name:** https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general  
@@ -534,7 +532,7 @@
 **Name:** https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general  
 **Description:** Azure VM sizes.  
 
-# :a: ARM
+## :a: ARM
 
 🔗  
 **Name:** https://azure.microsoft.com/en-us/resources/templates/  
@@ -552,7 +550,7 @@
 **Name:** https://docs.microsoft.com/en-us/rest/api/?view=Azure  
 **Description:** Rest API Browser .  
 
-# :teacher: Learning
+## :teacher: Learning
 
 🔗  
 **Name:** https://docs.microsoft.com/en-us/learn/  
@@ -580,7 +578,7 @@
 **Name:** https://github.com/microsoft/AzureMonitorCommunity  
 **Description:** Azure Monitor Community.  
 
-# :ninja: Security
+## :ninja: Security
 
 🔗  
 **Name:** https://github.com/nccgroup/azucar  
@@ -618,11 +616,7 @@
 **Name:** https://github.com/darkquasar/AzureHunter  
 **Description:** Azure Hunter.  
 
-🔗  
-**Name:** https://msrc.microsoft.com/update-guide/vulnerability  
-**Description:** Microsoft Security Response Center.  
-
-# :ninja: Terraform
+## :ninja: Terraform
 
 🔗  
 **Name:** https://github.com/Azure/aztfy  
