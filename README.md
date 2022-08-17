@@ -66,6 +66,10 @@ BlogRoll
 **Name:** https://microsoftcloudworkshop.com/  
 **Description:** Microsoft Cloud Workshop library.  
 
+🔗  
+**Name:** Azure deprecation DashBoard  
+**Description:** https://github.com/azure-deprecation/dashboard/issues  
+
 ## :cop: Azure Policies 
 
 🔗  
@@ -632,6 +636,11 @@ BlogRoll
 🔗  
 **Name:** https://msrc.microsoft.com/update-guide/vulnerability  
 **Description:** Microsoft Security Response Center.  
+
+🔗  
+**Name:** Azure Review CheckList  
+**Description:** https://github.com/Azure/review-checklists  
+
 
 ## :ninja: Terraform
 
