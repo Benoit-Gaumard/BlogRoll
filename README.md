@@ -8,10 +8,6 @@ BlogRoll
 
 ## :moneybag: Azure FinOps 
 
-#### 🔗 Azure Optimization Engine
-* The Azure Optimization Engine (AOE) is an extensible solution designed to generate optimization recommendations for your Azure environment, like a fully customizable Azure Advisor.  
-* https://aka.ms/TrainCertPoster  
-
 #### 🔗 Azure TCO calculator  
 * Azure TCO calculator  
 * https://azure.microsoft.com/en-us/pricing/tco/calculator/  
@@ -35,6 +31,10 @@ BlogRoll
 #### 🔗 Microsoft Defender for Cloud Price Estimation Dashboard  
 *  Microsoft Defender for Cloud Price Estimation Dashboard  
 *  https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622  
+
+#### 🔗 Cost optimization pillar  
+*  Cost optimization pillar  
+*  https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview  
 
 ## :information_source: Azure Informations and Services 
 
@@ -356,6 +356,10 @@ BlogRoll
 **Name:** https://github.com/lukemurraynz/awesome-azure-architecture  
 **Description:** awesome-azure-architecture  
 
+🔗  
+**Name:** https://docs.microsoft.com/en-us/assessments/?mode=home  
+**Description:** Microsoft Assessments  
+
 ## :house: Updates and RSS feeds
 
 🔗  
@@ -512,11 +516,20 @@ BlogRoll
 
 🔗  
 **Name:** https://automys.com/library/asset/scheduled-virtual-machine-shutdown-startup-microsoft-azure  
-**Description:** Start / Stop VMs .  
+**Description:** Start / Stop VMs.  
 
 🔗  
 **Name:** https://github.com/tomasrudh/AutoShutdownSchedule#automation-account-configuration  
-**Description:** Start / Stop VMs .  
+**Description:** Start / Stop VMs.  
+
+🔗  
+**Name:** https://azureprice.net/  
+**Description:** Azure VM Comparison.  
+
+**Name:** https://azure.microsoft.com/en-us/pricing/vm-selector/  
+**Description:** Virtual machines selector.  
+
+
 
 # :arrow_upper_right: Virtual Machines Scale Set (VMSS)
 
