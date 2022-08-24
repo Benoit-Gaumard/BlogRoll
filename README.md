@@ -651,3 +651,9 @@ BlogRoll
 **Name:** https://github.com/Azure/aztfy  
 **Description:** A tool to bring your existing Azure resources under the management of Terraform.  
 
+## :ninja: Web
+
+🔗  
+**Name:** https://whirl.netlify.app/  
+**Description:** Whirl CSS loading animations.  
+
