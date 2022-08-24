@@ -430,6 +430,9 @@ BlogRoll
 **Name:** https://github.com/aznamingtool/AzureNamingTool/  
 **Description:** Azure Naming Tool  
 
+**Name:** https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/  
+**Description:** Azure Periodic Table of Resource Naming Convention  
+
 ## :books: DashBoard
 
 🔗  
