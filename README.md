@@ -364,6 +364,10 @@ BlogRoll
 **Name:** https://docs.microsoft.com/en-us/assessments/?mode=home  
 **Description:** Microsoft Assessments  
 
+#### 🔗  
+**Name:** https://github.com/milanm/azure-cheat-sheet  
+**Description:** The Microsoft Azure Developer's Cheat Sheet  
+
 ## :house: Updates and RSS feeds
 
 🔗  
