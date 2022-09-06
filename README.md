@@ -411,6 +411,11 @@ BlogRoll
 **Description:** Powerfull Scripts to Inventory Azure.  
 
 🔗  
+**Name:** https://github.com/microsoft/ARI 
+**Description:** Azure Resource Inventory is a powerful script written in powershell to generate an Excel report of any Azure Environment you have read access.  
+
+
+🔗  
 **Name:** https://github.com/PrateekKumarSingh/AzViz  
 **Description:** Azure Visualizer aka 'AzViz' - PowerShell module to automatically generate Azure resource topology diagrams by just typing a PowerShell cmdlet and passing the name of one or more Azure Resource Group(s).  
 
