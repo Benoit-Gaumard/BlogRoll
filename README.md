@@ -492,6 +492,10 @@ BlogRoll
 **Name:** http://code.benco.io/icon-collection/azure-cds/  
 **Description:** Azure Patterns Collection.  
 
+🔗  
+**Name:** https://github.com/mrpaulandrew/ContentCollateral  
+**Description:** Content Collateral. Azure Images, icons, diagram, etc for various content.  
+
 ## :page_with_curl: Tips and tricks
 
 🔗  
@@ -665,4 +669,10 @@ BlogRoll
 🔗  
 **Name:** https://whirl.netlify.app/  
 **Description:** Whirl CSS loading animations.  
+
+🔗  
+**Name:** https://jsoncrack.com/  
+**Description:** Seamlessly visualize your JSON data instantly into graphs.  
+
+
 
