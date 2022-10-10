@@ -240,6 +240,16 @@ BlogRoll
 **Name:** http://aad.portal.azure.com  
 **Description:** Azure Active Directory admin center.  
 
+🔗  
+**Name:** https://github.com/microsoft/azureadexporter/  
+**Description:** Azure AD Exporter.  
+
+🔗  
+**Name:** https://raw.githubusercontent.com/msandbu/azuread/main/AzureAD%20Big%20picture.jpg  
+**Description:** Azure AD Big Picture.  
+
+
+
 ## :open_file_folder: Others 
 
 🔗  
@@ -368,6 +378,11 @@ BlogRoll
 **Name:** https://github.com/milanm/azure-cheat-sheet  
 **Description:** The Microsoft Azure Developer's Cheat Sheet  
 
+#### 🔗  
+**Name:**  https://docsupdatetracker.net/  
+**Description:** Goal of this project is to provide a way to keep up with the ever changing Microsoft documentation on Microsoft Azure, Microsoft 365 and the Microsoft Graph.
+
+
 ## :house: Updates and RSS feeds
 
 🔗  
@@ -441,6 +456,9 @@ BlogRoll
 
 **Name:** https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/  
 **Description:** Azure Periodic Table of Resource Naming Convention  
+
+**Name:** https://sqlflow.gudusoft.com/#/  
+**Description:** Build and visualize lineage from SQL script from query history, ETL script, Github/Bitbucket, Local filesystem and remote databases.  
 
 ## :books: DashBoard
 
