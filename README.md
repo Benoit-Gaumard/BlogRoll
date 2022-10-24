@@ -467,13 +467,12 @@ BlogRoll
 **Description:** Network Security Dashboard for Microsoft Defender for Cloud.  
 
 🔗  
-**Name:** https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard
+**Name:** https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard  
 **Description:** CCO GitHub Contributions Dashboard.  
 
 🔗  
-**Name:** https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard
+**Name:** https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard  
 **Description:** CCO ADO Contributions Dashboard.  
-
 
 ## :octocat: GitHub
 
