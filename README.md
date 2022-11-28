@@ -382,6 +382,10 @@ BlogRoll
 **Name:**  https://docsupdatetracker.net/  
 **Description:** Goal of this project is to provide a way to keep up with the ever changing Microsoft documentation on Microsoft Azure, Microsoft 365 and the Microsoft Graph.
 
+#### 🔗  
+**Name:**  https://cmd.ms/  
+**Description:** Use the power of your browser's address bar to quickly get to your favorite blade in Azure, Microsoft 365, Azure AD, Intune...
+
 
 ## :house: Updates and RSS feeds
 
