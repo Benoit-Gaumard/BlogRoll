@@ -2,11 +2,9 @@ BlogRoll
 
 ## :trophy: Azure certifications 
 
-[Hello, world](http://example.com/){target="_blank"}
-
 #### 🔗 Certifications training poster
-* Url: All Microsoft certifications list.
-* Description https://aka.ms/TrainCertPoster
+* Url: https://aka.ms/TrainCertPoster
+* Description: All Microsoft certifications list.
 
 ## :moneybag: Azure FinOps 
 
