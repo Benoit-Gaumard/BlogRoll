@@ -19,39 +19,40 @@ BlogRoll
 **Strategies to realizing Cost Savings in Azure**
 * https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure
 * Strategies to realizing Cost Savings in Azure.
+
 **Budget Alert in Teams**
-* Budget Alert in Teams  
-* https://github.com/Azure/AzureBudgetAlert-in-Teams  
+* https://github.com/Azure/AzureBudgetAlert-in-Teams
+* Budget Alert in Teams
 
-#### 🔗 Azure Optimization Engine (AOE)
-*  Azure Optimization Engine (AOE) 
-* https://github.com/helderpinto/AzureOptimizationEngine  
+**Azure Optimization Engine (AOE)**
+* https://github.com/helderpinto/AzureOptimizationEngine
+* Azure Optimization Engine (AOE)
 
-#### 🔗 Microsoft Defender for Cloud Price Estimation Dashboard  
-*  Microsoft Defender for Cloud Price Estimation Dashboard  
-*  https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622  
+**Microsoft Defender for Cloud Price Estimation Dashboard**
+*  https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622
+*  Microsoft Defender for Cloud Price Estimation Dashboard
 
-#### 🔗 Cost optimization pillar  
-*  Cost optimization pillar  
-*  https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview  
+**Cost optimization pillar**
+*  https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview
+*  Cost optimization pillar
 
-## :information_source: Azure Informations and Services 
+## :information_source: Azure Informations and Services
 
-#### 🔗 Azure Info Hub
-* Azure Hub Info
+**Azure Info Hub**
 * https://azureinfohub.azurewebsites.net/
+* Azure Hub Info
 
-#### 🔗  
-**Name:** <a href="https://azure.microsoft.com/en-us/updates/" target="_blank">Azure updates</a>  
-**Description:** Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.  
+**Azure Updates**
+* https://azure.microsoft.com/en-us/updates/
+* Description:** Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.
 
-#### 🔗 
-**Name:** <a href="https://azurecharts.com/" target="_blank">Azure Charts</a>  
-**Description:** Live visual exploration environment for Azure Cloud and ecosystem.  
+**Azure Charts**
+* https://azurecharts.com/
+* azurecharts. Live visual exploration environment for Azure Cloud and ecosystem.  
 
-#### 🔗 
-**Name:** https://azureperiodic.data3.com/  
-**Description:** Azure Periodic table.  
+**Azure Periodic table**
+* https://azureperiodic.data3.com/  
+* Azure Periodic table.  
 
 #### 🔗 
 **Name:** <a href="https://azureservices.io/" target="_blank">Azure Services IO</a>  
