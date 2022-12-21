@@ -1,26 +1,25 @@
-BlogRoll 
+BlogRoll
 
-## :trophy: Azure certifications 
+## :trophy: Azure certifications
 
-#### 🔗 Certifications training poster
-* Url: https://aka.ms/TrainCertPoster
-* Description: All Microsoft certifications list.
+**Certifications training poster**
+* https://aka.ms/TrainCertPoster
+* All Microsoft certifications list.
 
-## :moneybag: Azure FinOps 
+## :moneybag: Azure FinOps
 
-#### 🔗 Azure TCO calculator  
-* Azure TCO calculator  
-* https://azure.microsoft.com/en-us/pricing/tco/calculator/  
+**Azure TCO calculator**
+* https://azure.microsoft.com/en-us/pricing/tco/calculator/
+* Azure TCO calculator
 
-#### 🔗 Azure Pricing calculator 
-* Azure Pricing calculator 
-* https://azure.microsoft.com/en-us/pricing/calculator/  
+**Azure Pricing calculator**
+* https://azure.microsoft.com/en-us/pricing/calculator/
+* Azure Pricing calculator
 
-#### 🔗 Strategies to realizing Cost Savings in Azure. 
+**Strategies to realizing Cost Savings in Azure**
+* https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure
 * Strategies to realizing Cost Savings in Azure.
-* https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure  
-
-#### 🔗 Budget Alert in Teams
+**Budget Alert in Teams**
 * Budget Alert in Teams  
 * https://github.com/Azure/AzureBudgetAlert-in-Teams  
 
