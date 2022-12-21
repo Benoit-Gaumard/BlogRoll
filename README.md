@@ -2,7 +2,7 @@ BlogRoll
 
 ## :trophy: Azure certifications 
 
-[Hello, world](http://example.com/){:target="_blank"}
+[Hello, world](http://example.com/){target="_blank"}
 
 #### 🔗 Certifications training poster
 * Url: All Microsoft certifications list.
