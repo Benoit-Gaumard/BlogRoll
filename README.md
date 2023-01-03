@@ -54,7 +54,7 @@ BlogRoll
 * https://azureperiodic.data3.com
 * Azure Periodic table.
 
-**Azureservices**
+**Azure Services**
 * https://azureservices.io
 * A visual representation of Azure services. Services interconnections, reference to availability by regions and other quick references.
 
@@ -85,7 +85,7 @@ BlogRoll
 * DevSecOps: Policy-as-code with Azure Pipelines.
 
 **Policy Distribution Dashboard for Microsoft Defender for Cloud**
-*href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/policy-distribution-dashboard-for-microsoft-defender-for-cloud/ba-p/3264712"
+* https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/policy-distribution-dashboard-for-microsoft-defender-for-cloud/ba-p/3264712
 * Policy Distribution Dashboard for Microsoft Defender for Cloud.
 
 **Ryan Graham**
@@ -118,47 +118,47 @@ BlogRoll
 
 ## :sun_behind_small_cloud: Azure services state
 
-🔗  
-**Name:** <a href="http://azurespeedtest.azurewebsites.net" target="_blank">Azure Speed Test 2.0</a>  
-**Description:** Measuring the latency from your web browser to the Blob Storage Service in each of the Microsoft Azure Data Centers.  
+**Azure Speed Test 2.0**
+* http://azurespeedtest.azurewebsites.net
+* Measuring the latency from your web browser to the Blob Storage Service in each of the Microsoft Azure Data Centers.
 
-🔗  
-**Name:** <a href="https://github.com/devblackops/AzSpeedTest" target="_blank">AzSpeedTest Powershell</a>  
-**Description:** An Microsoft Azure speed test module for PowerShell. This module performs basic network latency tests to one or more Azure regions and returns the results.  
+**AzSpeedTest Powershell**
+* https://github.com/devblackops/AzSpeedTest
+* An Microsoft Azure speed test module for PowerShell. This module performs basic network latency tests to one or more Azure regions and returns the results.
 
-🔗  
-**Name:** <a href="https://www.azurespeed.com/" target="_blank">AzureSpeed</a>  
-**Description:** This tool runs latency test from your IP location to Azure datacenters around the world.  
+**AzureSpeed**
+* https://www.azurespeed.com/
+* This tool runs latency test from your IP location to Azure datacenters around the world.
 
-🔗  
-**Name:** <a href="https://status.azure.com/" target="_blank">Azure status</a>  
-**Description:** View issues that might be impacting your services.  
+**Azure Status**
+* https://status.azure.com/
+* View issues that might be impacting your services.
 
-🔗  
-**Name:** <a href="https://infrastructuremap.microsoft.com/" target="_blank">Azure Infrastructure Map</a>  
-**Description:** Explore Azure’s global infrastructure.  
+**Azure Infrastructure Map**
+* https://infrastructuremap.microsoft.com/
+* Explore Azure’s global infrastructure.
 
-## :heavy_plus_sign: Cloud Services Comparison 
+## :heavy_plus_sign: Cloud Services Comparison
 
-🔗  
-**Name:** <a href="https://comparecloud.in/" target="_blank">Public Cloud Services Comparison</a>  
-**Description:** A simple comparison chart of all the cloud services offered by the major public cloud vendors globally.  
+**Public Cloud Services Comparison**
+* https://comparecloud.in/
+* A simple comparison chart of all the cloud services offered by the major public cloud vendors globally.
 
-🔗  
-**Name:** <a href="https://azureprice.net/" target="_blank">Azure VM Comparison</a>  
-**Description:** Find and compare Azure Virtual Machines specs and pricing on one page across different tiers, payment types, and regions.  
+**Azure VM Comparison**
+* https://azureprice.net/
+* Find and compare Azure Virtual Machines specs and pricing on one page across different tiers, payment types, and regions.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services  
-**Description:** Compare Azure and AWS services.  
+**Compare AWS and Azure services to Google Cloud**
+* https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q2-Product-Mapping-Blog&utm_content=documentation
+* Compare AWS and Azure services to Google Cloud
 
-🔗  
-**Name:** https://azuremarketplace.microsoft.com/en-us/  
-**Description:** Azure MarketPlace.  
+**Compare Azure and AWS services**
+* https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
+*  Compare Azure and AWS services.
 
-🔗  
-**Name:** https://myapps.microsoft.com/  
-**Description:** MyApps  
+**Azure MarketPlace**
+* https://azuremarketplace.microsoft.com/en-us/
+* Azure MarketPlace.
 
 ## :rocket: DevOps 
 
@@ -699,6 +699,10 @@ BlogRoll
 🔗  
 **Name:** https://jsoncrack.com/  
 **Description:** Seamlessly visualize your JSON data instantly into graphs.  
+
+🔗  
+**Name:** https://myapps.microsoft.com/  
+**Description:** MyApps  
 
 
 
