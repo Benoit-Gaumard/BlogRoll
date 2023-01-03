@@ -8,13 +8,13 @@ BlogRoll
 
 ## :moneybag: Azure FinOps
 
-**Azure TCO calculator**
+**Total Cost of Ownership (TCO) Calculator**
 * https://azure.microsoft.com/en-us/pricing/tco/calculator/
-* Azure TCO calculator
+* Estimate the cost savings you can realize by migrating your workloads to Azure
 
 **Azure Pricing calculator**
 * https://azure.microsoft.com/en-us/pricing/calculator/
-* Azure Pricing calculator
+* Calculate your estimated hourly or monthly costs for using Azure.
 
 **Strategies to realizing Cost Savings in Azure**
 * https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure
@@ -44,41 +44,41 @@ BlogRoll
 
 **Azure Updates**
 * https://azure.microsoft.com/en-us/updates/
-* Description:** Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.
+* Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.
 
 **Azure Charts**
 * https://azurecharts.com/
-* azurecharts. Live visual exploration environment for Azure Cloud and ecosystem.  
+* Live visual exploration environment for Azure Cloud and ecosystem.
 
 **Azure Periodic table**
-* https://azureperiodic.data3.com/  
-* Azure Periodic table.  
+* https://azureperiodic.data3.com
+* Azure Periodic table.
 
-#### 🔗 
-**Name:** <a href="https://azureservices.io/" target="_blank">Azure Services IO</a>  
-**Description:** A visual representation of Azure services. Services interconnections, reference to availability by regions and other quick references.  
+**Azureservices**
+* https://azureservices.io
+* A visual representation of Azure services. Services interconnections, reference to availability by regions and other quick references.
 
-#### 🔗 
-**Name:** <a href="https://msportals.io/" target="_blank">Microsoft Administrator Sites</a>  
-**Description:** Project to list all of Microsoft’s portals in one place.  
+**Microsoft Administrator Sites**
+* https://msportals.io
+* Project to list all of Microsoft’s portals in one place.
 
-🔗  
-**Name:** https://microsoftcloudworkshop.com/  
-**Description:** Microsoft Cloud Workshop library.  
+**Microsoft Cloud Workshop library**
+* *https://microsoftcloudworkshop.com/
+* Use our customer-ready content to host workshops that foster cloud learning and adoption.
 
-🔗  
-**Name:** Azure deprecation DashBoard  
-**Description:** https://github.com/azure-deprecation/dashboard/issues  
+**Azure deprecation DashBoard**
+* https://github.com/azure-deprecation/dashboard/issues
+* keep up with deprecation of Azure services & features.
 
 ## :cop: Azure Policies 
 
-🔗  
-**Name:** <a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026" target="_blank">Guest Configuration</a>  
-**Description:** 7 steps to author, develop, and deploy custom recommendations for Windows using Guest Configuration.  
+**Windows using Guest Configuration** 
+* https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026
+* 7 steps to author, develop, and deploy custom recommendations for Windows using Guest Configuration.
 
 🔗  
-**Name:** <a href="https://github.com/Azure/enterprise-azure-policy-as-code" target="_blank">enterprise-azure-policy-as-code</a>  
-**Description:** This repository contains a mature solution to manage and deploy Azure Policy at enterprise scale.  
+* https://github.com/Azure/enterprise-azure-policy-as-code
+* *This repository contains a mature solution to manage and deploy Azure Policy at enterprise scale.  
 
 🔗  
 **Name:** <a href="https://medium.com/microsoftazure/devsecops-policy-as-code-with-azure-pipelines-86cc1e27f03c" target="_blank">Policy-as-code with Azure Pipelines</a>  
