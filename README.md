@@ -160,53 +160,49 @@ BlogRoll
 * https://azuremarketplace.microsoft.com/en-us/
 * Azure MarketPlace.
 
-## :rocket: DevOps 
+## :rocket: DevOps
 
-🔗  
-**Name:** <a href="https://learngitbranching.js.org/" target="_blank">Learn Git Branching</a>  
-**Description:** Learn Git Branching is the most visual and interactive way to learn Git on the web.  
+**learn git branching.**
+* https://learngitbranching.js.org/
+* Learn Git Branching is the most visual and interactive way to learn Git on the web.
 
-🔗  
-**Name:** <a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">https://github.com/vinijmoura/Azure-DevOps</a>  
-**Description:** Code Samples (applications, scripts, PowerBI reports, demos, etc.) to apply on Azure DevOps.  
+**vinijmoura GitHub Repo**
+* https://github.com/vinijmoura/Azure-DevOps
+* Code Samples (applications, scripts, PowerBI reports, demos, etc.) to apply on Azure DevOps.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started  
-**Description:** Raspberry Simulator for IOT Hub.  
+**Raspberry Simulator for IOT Hub**
+* https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started
+* Raspberry Simulator for IOT Hub.
 
-🔗  
-**Name:** https://azuredevopslabs.com  
-**Description:** Azure DevOps Labs.  
+**Azure DevOps Labs**
+* https://azuredevopslabs.com
+* Azure DevOps Labs.
 
-🔗  
-**Name:** https://azuredevopsdemogenerator.azurewebsites.net  
-**Description:** Azure DevOps Demo Generator.  
+**Azure DevOps Demo Generator**
+* https://azuredevopsdemogenerator.azurewebsites.net
+* Azure DevOps Demo Generator.
 
-🔗  
-**Name:** https://aex.dev.azure.com/  
-**Description:** Azure DevOps Organization.  
+**Azure DevOps Organization**
+* https://aex.dev.azure.com/
+* Azure DevOps Organization.
 
-🔗  
-**Name:** https://github.com/bregman-arie/devops-resources  
-**Description:** Azure Devops Resources.  
+**Devops Resources**
+* https://github.com/bregman-arie/devops-resources
+* Devops Resources.
 
-🔗  
-**Name:** http://www.devopsbookmarks.com/cloud-paas  
-**Description:** Devops Bookmark.  
+**Devops Bookmark**
+* http://www.devopsbookmarks.com/cloud-paas
+* Devops Bookmark.
 
-🔗  
-**Name:** https://roadmap.sh/  
-**Description:** Devops roadmap.  
+**Devops roadmap**
+* https://roadmap.sh/
+* Devops roadmap.
 
-🔗  
-**Name:** https://roadmap.sh/  
-**Description:** Devops roadmap.  
+**DevSecOps table**
+* https://devsecopstable.z6.web.core.windows.net/
+* DevSecOps table.
 
-🔗  
-**Name:** https://devsecopstable.z6.web.core.windows.net/  
-**Description:** DevSecOps table.  
-
-## :large_blue_diamond: Azure AD 
+## :large_blue_diamond: Azure AD
 
 🔗  
 **Name:** <a href="https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9" target="_blank">Azure AD where is your data located?</a>  
