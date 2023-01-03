@@ -204,115 +204,109 @@ BlogRoll
 
 ## :large_blue_diamond: Azure AD
 
-🔗  
-**Name:** <a href="https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9" target="_blank">Azure AD where is your data located?</a>  
-**Description:** Azure AD where is your data located?.  
+**Azure AD where is your data located**
+* https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9
+*  Azure AD where is your data located?
 
-🔗  
-**Name:** <a href="https://account.azure.com/organization" target="_blank">https://account.azure.com/organization</a>  
-**Description:** Tenant availability check.  
+**Tenant availability check**
+* https://account.azure.com/organization
+* Tenant availability check.
 
-🔗  
-**Name:** <a href="https://o365.rocks/" target="_blank">https://o365.rocks/</a>  
-**Description:** Tenant creation page.  
+**Tenant availability check**
+* https://o365.rocks/
+* Tenant availability check.
 
-🔗  
-**Name:** https://azure.microsoft.com/en-us/pricing/details/active-directory/  
-**Description:** Azure AD pricing.  
+**Azure AD pricing**
+* https://azure.microsoft.com/en-us/pricing/details/active-directory/
+* Azure AD pricing.
 
-🔗  
-**Name:** https://docs.microsoft.com/fr-fr/azure/active-directory/  
-**Description:** Azure AD documentation.  
+**Interactive authentication**
+* https://microsoft.com/devicelogin/
+* Interactive authentication.
 
-🔗  
-**Name:** https://microsoft.com/devicelogin/  
-**Description:** Interactive authentication.  
+**Azure Active Directory admin center**
+* http://aad.portal.azure.com
+*  Azure Active Directory admin center.
 
-🔗  
-**Name:** http://aad.portal.azure.com  
-**Description:** Azure Active Directory admin center.  
+**Azure AD Exporter**
+* https://github.com/microsoft/azureadexporter/
+* Azure AD Exporter.
 
-🔗  
-**Name:** https://github.com/microsoft/azureadexporter/  
-**Description:** Azure AD Exporter.  
+**Azure AD Big Picture**
+* https://raw.githubusercontent.com/msandbu/azuread/main/AzureAD%20Big%20picture.jpg
+* Azure AD Big Picture.
 
-🔗  
-**Name:** https://raw.githubusercontent.com/msandbu/azuread/main/AzureAD%20Big%20picture.jpg  
-**Description:** Azure AD Big Picture.  
+## :open_file_folder: Others
 
+**Azure Mask**
+* https://github.com/clarkio/azure-mask
+* Browser extension to mask GUIDs (such as Subscription IDs), email addresses, keys, and connection strings with a blur.
 
+## :seedling: Sustainability
 
-## :open_file_folder: Others 
+**Microsoft Emissions Impact Dashboard**
+* https://azure.microsoft.com/es-es/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/
+* Microsoft Emissions Impact Dashboard.
 
-🔗  
-**Name:** <a href="https://github.com/clarkio/azure-mask" target="_blank">Azure Mask</a>  
-**Description:** Browser extension to mask GUIDs (such as Subscription IDs), email addresses, keys, and connection strings with a blur.  
+## :cloud: Azure HA and DR
 
-## :seedling: Sustainability 
+**Azure Geographies and regions**
+* https://azure.microsoft.com/en-us/global-infrastructure/geographies/
+* Azure Geographies and regions.
 
-🔗  
-**Name:** <a href="https://azure.microsoft.com/es-es/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/" target="_blank">Emissions Impact Dashboard</a>  
-**Description:** Microsoft Emissions Impact Dashboard.  
+**Azure cross regions replication**
+* https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure
+* Azure cross regions replication.
 
-## :cloud: Azure concepts 
+**Azure regions and availability zones**
+* https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones
+* Azure regions and availability zones.
 
-🔗  
-**Name:** https://azure.microsoft.com/en-us/global-infrastructure/geographies/  
-**Description:** Azure Geographies and regions.  
+## :classical_building: Azure architecture
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure  
-**Description:** Azure cross regions replication.  
+**White papers**
+* https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource
+* White papers.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones  
-**Description:** Azure regions and availability zones.  
+**Azure feedback**
+* https://feedback.azure.com/d365community
+* Azure feedback.
 
-## :classical_building: Azure architecture 
+**Azure datacenter map**
+* http://azuredatacentermap.azurewebsites.net/
+* Azure datacenter map.
 
-🔗  
-**Name:** https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource  
-**Description:** White papers.  
+**Microsoft Cybersecurity Reference Architectures (MCRA)**
+* https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
+* Microsoft Cybersecurity Reference Architectures (MCRA).
 
-🔗  
-**Name:** https://feedback.azure.com/d365community  
-**Description:** Azure feedback.  
+**Azure subscription and service limits, quotas, and constraints**
+* https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
+* Azure subscription and service limits, quotas, and constraints.
 
-🔗  
-**Name:** http://azuredatacentermap.azurewebsites.net/  
-**Description:** Azure datacenter map.  
+**Develop your naming and tagging strategy for Azure resources**
+* https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-taggings
+* Develop your naming and tagging strategy for Azure resources.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra  
-**Description:** Microsoft Cybersecurity Reference Architectures (MCRA).  
+**Azure Cloud Adoption Framework (CAF)**
+* https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
+* Cloud Adoption Framework (CAF).
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits  
-**Description:** Azure subscription and service limits, quotas, and constraints.  
+**Azure Survival Guide**
+* https://social.technet.microsoft.com/wiki/contents/articles/630.microsoft-azure-survival-guide.aspx
+* Azure Survival Guide.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-taggings  
-**Description:** Develop your naming and tagging strategy for Azure resources.  
+**Azure Subscription Design**
+* https://social.technet.microsoft.com/wiki/contents/articles/33800.azure-iaas-v2-arm-design-series-azure-subscriptions.aspx
+* Azure Subscription Design.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/resources/azure-scaffold  
-**Description:** Cloud Adoption Framework (CAF).  
+**Azure Offers**
+* https://azure.microsoft.com/en-us/support/legal/offer-details/  
+* Azure Offers.  
 
-🔗  
-**Name:** https://social.technet.microsoft.com/wiki/contents/articles/630.microsoft-azure-survival-guide.aspx  
-**Description:** Azure Survival Guide.  
-
-🔗  
-**Name:** https://social.technet.microsoft.com/wiki/contents/articles/33800.azure-iaas-v2-arm-design-series-azure-subscriptions.aspx  
-**Description:** Azure Subscription Design.  
-
-🔗  
-**Name:** https://azure.microsoft.com/en-us/support/legal/offer-details/  
-**Description:** Azure Offers.  
-
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/  
-**Description:** Subscription decision guide.  
+**Subscription decision guide**
+* https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/  
+* Subscription decision guide.  
 
 🔗  
 **Name:** https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles  
