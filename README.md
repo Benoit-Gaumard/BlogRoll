@@ -70,57 +70,53 @@ BlogRoll
 * https://github.com/azure-deprecation/dashboard/issues
 * keep up with deprecation of Azure services & features.
 
-## :cop: Azure Policies 
+## :cop: Azure Policies
 
-**Windows using Guest Configuration** 
+**Windows using Guest Configuration**
 * https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026
 * 7 steps to author, develop, and deploy custom recommendations for Windows using Guest Configuration.
 
-🔗  
+**Azure Policy As Code**
 * https://github.com/Azure/enterprise-azure-policy-as-code
-* *This repository contains a mature solution to manage and deploy Azure Policy at enterprise scale.  
+* *This repository contains a mature solution to manage and deploy Azure Policy at enterprise scale.
 
-🔗  
-**Name:** <a href="https://medium.com/microsoftazure/devsecops-policy-as-code-with-azure-pipelines-86cc1e27f03c" target="_blank">Policy-as-code with Azure Pipelines</a>  
-**Description:** DevSecOps: Policy-as-code with Azure Pipelines.  
+**Policy-as-code with Azure Pipelines**
+* https://medium.com/microsoftazure/devsecops-policy-as-code-with-azure-pipelines-86cc1e27f03c
+* DevSecOps: Policy-as-code with Azure Pipelines.
 
-🔗  
-**Name:** <a href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/policy-distribution-dashboard-for-microsoft-defender-for-cloud/ba-p/3264712" target="_blank">Policy Distribution Dashboard</a>  
-**Description:** Policy Distribution Dashboard for Microsoft Defender for Cloud.  
+**Policy Distribution Dashboard for Microsoft Defender for Cloud**
+*href="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/policy-distribution-dashboard-for-microsoft-defender-for-cloud/ba-p/3264712"
+* Policy Distribution Dashboard for Microsoft Defender for Cloud.
 
-🔗  
-**Name:** https://github.com/rjygraham/AzurePolicy/tree/main/Samples  
-**Description:** Ryan Graham.  
+**Ryan Graham**
+* https://github.com/rjygraham/AzurePolicy/tree/main/Samples
+* Ryan Graham GitHub repo.
 
-🔗  
-**Name:** https://github.com/tyconsulting/azurepolicy  
-**Description:** tyconsulting.  
+**tyconsulting**
+* https://github.com/tyconsulting/azurepolicy
+* tyconsulting GitHub repo.
 
-🔗  
-**Name:** https://github.com/Azure/Community-Policy  
-**Description:** Azure Community Policy.  
+**Azure Community Policy**
+* https://github.com/Azure/Community-Policy
+* Azure Community Policy GitHub Repo.
 
-🔗  
-**Name:** https://github.com/Azure/enterprise-azure-policy-as-code  
-**Description:** Enterprise azure policy as code.  
+**Azure Policy Compliance WorkBook**
+* https://www.cloudsma.com/2021/10/build-azure-policy-compliance-workbook/
+* Azure Policy Compliance WorkBook.
 
-🔗  
-**Name:** https://www.cloudsma.com/2021/10/build-azure-policy-compliance-workbook/  
-**Description:** Azure Policy Compliance WorkBook.  
+**AWESOME-Azure-Policy***
+* https://github.com/globalbao/awesome-azure-policy
+*  AWESOME-Azure-Policy
 
-🔗  
-**Name:** https://github.com/globalbao/awesome-azure-policy  
-**Description:** AWESOME-Azure-Policy.  
+**Azure Diagnostics Policy Generator**
+* https://github.com/JimGBritt/AzurePolicy/tree/master/AzureMonitor/Scripts
+* Azure Diagnostics Policy Generator.
 
-🔗  
-**Name:** https://github.com/JimGBritt/AzurePolicy/tree/master/AzureMonitor/Scripts  
-**Description:** Azure Diagnostics Policy Generator.  
+**Configure centralized policy management**
+* https://www.cloudpartner.fi/?p=7015
+* Configure centralized policy management.
 
-🔗  
-**Name:** https://www.cloudpartner.fi/?p=7015  
-**Description:** Configure centralized policy management.  
-
-## :sun_behind_small_cloud: Azure services state 
+## :sun_behind_small_cloud: Azure services state
 
 🔗  
 **Name:** <a href="http://azurespeedtest.azurewebsites.net" target="_blank">Azure Speed Test 2.0</a>  
