@@ -301,101 +301,100 @@ BlogRoll
 * Azure Subscription Design.
 
 **Azure Offers**
-* https://azure.microsoft.com/en-us/support/legal/offer-details/  
-* Azure Offers.  
+* https://azure.microsoft.com/en-us/support/legal/offer-details/
+* Azure Offers.
 
 **Subscription decision guide**
-* https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/  
-* Subscription decision guide.  
+* https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/
+* Subscription decision guide.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles  
-**Description:** Azure Built In roles.  
+**Azure Built In roles**
+* https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
+*  Azure Built In roles.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/architecture/browse/  
-**Description:** Azure Reference Architectures.  
+**Azure Reference Architectures**
+* https://docs.microsoft.com/en-us/azure/architecture/browse/
+* Azure Reference Architectures.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/antipatterns-to-avoid  
-**Description:** Cloud adoption antipatterns.  
+**Cloud adoption antipatterns**
+*  https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/antipatterns-to-avoid
+* Cloud adoption antipatterns.
 
-🔗  
-**Name:** https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT  
-**Description:** Azure Customer Advisory Team  
+**Azure Customer Advisory Team (CAT)**
+* https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT
+* Azure Customer Advisory Team
 
-🔗  
-**Name:** https://azure.microsoft.com/en-us/support/legal/sla/summary/  
-**Description:** SLA for Azure services  
+**SLA for Azure services**
+* https://azure.microsoft.com/en-us/support/legal/sla/summary/
+* SLA for Azure services
 
-🔗  
-**Name:** https://uptime.is/  
-**Description:** SLA Calculator  
+**SLA Calculator**
+* https://uptime.is/
+* SLA Calculator
 
-🔗  
-**Name:** https://preview.portal.azure.com  
-**Description:** Azure Preview portal  
+**Azure Preview portal**
+* https://preview.portal.azure.com
+* Azure Preview portal
 
-🔗  
-**Name:** https://rc.portal.azure.com/  
-**Description:** Azure RC portal  
+**Azure RC portal**
+* https://rc.portal.azure.com/
+* Azure RC portal
 
-🔗  
-**Name:** https://www.nuno-silva.net/microsoft-365-portals  
-**Description:** Microsoft portals  
+**Microsoft portals**
+* https://www.nuno-silva.net/microsoft-365-portals
+* Microsoft portals
 
-🔗  
-**Name:** https://www.moderndeployment.com/microsoft-azure-management-urls/  
-**Description:** Microsoft portals 2  
+**Microsoft portals 2**
+* https://www.moderndeployment.com/microsoft-azure-management-urls/
+* Microsoft portals 2
 
-🔗  
-**Name:** https://docs.microsoft.com/en-US/troubleshoot/azure/virtual-machines/server-software-support  
-**Description:** Azure supported workloads  
+**Azure supported workloads**
+* https://docs.microsoft.com/en-US/troubleshoot/azure/virtual-machines/server-software-support
+* Azure supported workloads
 
-🔗  
-**Name:** https://github.com/lukemurraynz/awesome-azure-architecture  
-**Description:** awesome-azure-architecture  
+**awesome-azure-architecture**
+* https://github.com/lukemurraynz/awesome-azure-architecture
+* awesome-azure-architecture
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/assessments/?mode=home  
-**Description:** Microsoft Assessments  
+**Microsoft Assessments**
+* https://docs.microsoft.com/en-us/assessments/?mode=home
+* Microsoft Assessments
 
-#### 🔗  
-**Name:** https://github.com/milanm/azure-cheat-sheet  
-**Description:** The Microsoft Azure Developer's Cheat Sheet  
+**The Microsoft Azure Developer's Cheat Sheet**
+* https://github.com/milanm/azure-cheat-sheet
+* The Microsoft Azure Developer's Cheat Sheet
 
-#### 🔗  
-**Name:**  https://docsupdatetracker.net/  
-**Description:** Goal of this project is to provide a way to keep up with the ever changing Microsoft documentation on Microsoft Azure, Microsoft 365 and the Microsoft Graph.
+**docsupdatetracker**
+* https://docsupdatetracker.net/
+* Goal of this project is to provide a way to keep up with the ever changing Microsoft documentation on Microsoft Azure, Microsoft 365 and the Microsoft Graph.
 
-#### 🔗  
-**Name:**  https://cmd.ms/  
-**Description:** Use the power of your browser's address bar to quickly get to your favorite blade in Azure, Microsoft 365, Azure AD, Intune...
-
+**Azure portals 3**
+* https://cmd.ms/
+* Use the power of your browser's address bar to quickly get to your favorite blade in Azure, Microsoft 365, Azure AD, Intune...
 
 ## :house: Updates and RSS feeds
 
-🔗  
-**Name:** https://azure.microsoft.com/en-us/updates/  
-**Description:** Azure Updates  
+**Azure Updates**
+* https://azure.microsoft.com/en-us/updates/
+* Azure Updates
 
-🔗  
-**Name:** https://azureweekly.info/  
-**Description:** Azure Weekly  
+**Azure Weekly**
+*  https://azureweekly.info/
+* Azure Weekly
 
-🔗  
-**Name:** https://azurefeeds.com/  
-**Description:** AzureFeeds  
+**AzureFeeds**
+* https://azurefeeds.com/
+* AzureFeeds
 
 ## :house: Support
 
-🔗  
-**Name:** https://azure.microsoft.com/en-us/support/plans/  
-**Description:** Azure Support plans  
+**Azure Support plans**
+* https://azure.microsoft.com/en-us/support/plans/
+* Azure Support plans
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/answers/products/azure?product=all  
-**Description:** Azure community support  
+**Azure community support**
+* https://docs.microsoft.com/en-us/answers/products/azure?product=all
+* Azure community support
 
 ## :house: Governance
 
