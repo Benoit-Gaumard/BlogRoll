@@ -575,130 +575,133 @@ BlogRoll
 
 # :arrow_upper_right: Virtual Machines Scale Set (VMSS)
 
-🔗  
-**Name:** https://github.com/gbowerman/vmssdashboard  
-**Description:** Virtual machine scale set editor dashboard.  
+**vmssdashboard**
+* https://github.com/gbowerman/vmssdashboard
+* Virtual machine scale set editor dashboard.
 
-🔗  
-**Name:** https://github.com/msleal/asciivmssdashboard  
-**Description:** Virtual machine scale set editor dashboard ascii.  
-
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general  
-**Description:** Azure VM sizes.  
+**asciivmssdashboard**
+* https://github.com/msleal/asciivmssdashboard
+* Virtual machine scale set editor dashboard ascii.
 
 ## :a: ARM
 
-🔗  
-**Name:** https://azure.microsoft.com/en-us/resources/templates/  
-**Description:** Azure Quickstart Templates.  
+**Azure Quickstart Templates**
+* https://azure.microsoft.com/en-us/resources/templates/
+* Azure Quickstart Templates.
 
-🔗  
-**Name:** http://armviz.io/designer  
-**Description:** Visualize your Azure ARM template dependencies as a tree.  
+**armviz**
+* http://armviz.io/designer
+* Visualize your Azure ARM template dependencies as a tree.
 
-🔗  
-**Name:** https://resources.azure.com/  
-**Description:** Azure resource explorer.  
+**Azure resource explorer**
+* https://resources.azure.com/
+* Azure resource explorer.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/rest/api/?view=Azure  
-**Description:** Rest API Browser .  
+**Rest API Browser**
+* https://docs.microsoft.com/en-us/rest/api/?view=Azure
+* Rest API Browser.
 
 ## :teacher: Learning
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/learn/  
-**Description:** Microsoft Learn.  
+**Microsoft Learn**
+* https://docs.microsoft.com/en-us/learn/
+* Microsoft Learn.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/archive/blogs/blogms/official-microsoft-team-blogs-microsoft-blogs  
-**Description:** Official Microsoft Team Blogs / Microsoft Blogs.  
+**Official Microsoft Team Blogs**
+* https://docs.microsoft.com/en-us/archive/blogs/blogms/official-microsoft-team-blogs-microsoft-blogs
+* Official Microsoft Team Blogs / Microsoft Blogs.
 
 # :stopwatch: Analytics and monitoring
 
-🔗  
-**Name:** https://portal.loganalytics.io/demo#/query/main  
-**Description:** Log Analytics Query Portal.  
+**Log Analytics Query Portal**
+* https://portal.loganalytics.io/demo#/query/main
+* Log Analytics Query Portal.
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer  
-**Description:** Kusto explorer.  
+**Kusto explorer**
+* https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer
+* Kusto explorer.
 
-🔗  
-**Name:** https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/  
-**Description:** Monitoring Azure by using Grafana dashboards.  
+**Monitoring Azure by using Grafana dashboards**
+* https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/
+* Monitoring Azure by using Grafana dashboards.
 
-🔗  
-**Name:** https://github.com/microsoft/AzureMonitorCommunity  
-**Description:** Azure Monitor Community.  
+**Azure Monitor Community**
+* https://github.com/microsoft/AzureMonitorCommunity
+* Azure Monitor Community.
 
 ## :ninja: Security
 
-🔗  
-**Name:** https://github.com/nccgroup/azucar  
-**Description:** Azucar Security Auditing Tool for Azure.  
+**Azucar**
+* https://github.com/nccgroup/azucar
+* Azucar Security Auditing Tool for Azure.
 
-🔗  
-**Name:** https://github.com/azsk/DevOpsKit-docs  
-**Description:** Secure DevOps Kit for Azure.  
+**Secure DevOps Kit**
+* https://github.com/azsk/DevOpsKit-docs
+* Secure DevOps Kit for Azure.
 
-🔗  
-**Name:** https://github.com/cyberark/SkyArk  
-**Description:** Skyark.  
+**Skyark**
+* https://github.com/cyberark/SkyArk
+* Skyark.
 
-🔗  
-**Name:** https://github.com/NetSPI/MicroBurst  
-**Description:** MicroBurst.  
+**MicroBurst**
+* https://github.com/NetSPI/MicroBurst
+* MicroBurst.
 
-🔗  
-**Name:** https://github.com/Azure/Stormspotter  
-**Description:** Stormspotter.  
+**Stormspotter**
+* https://github.com/Azure/Stormspotter
+* Stormspotter.
 
-🔗  
-**Name:** https://github.com/Azure/Cloud-Katana  
-**Description:** Cloud Katana.  
+**Cloud Katana**
+* https://github.com/Azure/Cloud-Katana
+* Cloud Katana.
 
-🔗  
-**Name:** https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html  
-**Description:** Azure Security Control Mappings to MITRE ATT&CK®.  
+**Azure Security Control Mappings to MITRE ATT&CK®**
+* https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html
+* Azure Security Control Mappings to MITRE ATT&CK®.
 
-🔗  
-**Name:** https://github.com/sergiomarotco/  
-**Description:** Network-segmentation-cheat-sheet.  
+**Network-segmentation-cheat-sheet**
+* https://github.com/sergiomarotco/
+* Network-segmentation-cheat-sheet.
 
-🔗  
-**Name:** https://github.com/darkquasar/AzureHunter  
-**Description:** Azure Hunter.  
+**Azure Hunter.**
+* https://github.com/darkquasar/AzureHunter
+* Azure Hunter.
 
-🔗  
-**Name:** https://msrc.microsoft.com/update-guide/vulnerability  
-**Description:** Microsoft Security Response Center.  
+**Microsoft Security Response Center (MSRC)**
+* https://msrc.microsoft.com/update-guide/vulnerability
+* Microsoft Security Response Center.
 
-🔗  
-**Name:** Azure Review CheckList  
-**Description:** https://github.com/Azure/review-checklists  
+**Azure Review CheckList**
+* https://github.com/Azure/review-checklists
+* Azure Review CheckList
 
+**CloudSploit Security Remediation Guides**
+* https://github.com/aquasecurity/cloud-security-remediation-guides
+* CloudSploit Security Remediation Guides
+
+**Identifying & Exploiting Leaked Azure Storage Keys
+* https://notsosecure.com/identifying-exploiting-leaked-azure-storage-keys
+* Identifying & Exploiting Leaked Azure Storage Keys
 
 ## :ninja: Terraform
 
-🔗  
-**Name:** https://github.com/Azure/aztfy  
-**Description:** A tool to bring your existing Azure resources under the management of Terraform.  
+**aztfy**
+* https://github.com/Azure/aztfy
+* A tool to bring your existing Azure resources under the management of Terraform.
 
 ## :ninja: Web
 
-🔗  
-**Name:** https://whirl.netlify.app/  
-**Description:** Whirl CSS loading animations.  
+**Whirl CSS**
+* https://whirl.netlify.app/
+* Whirl CSS loading animations.
 
-🔗  
-**Name:** https://jsoncrack.com/  
-**Description:** Seamlessly visualize your JSON data instantly into graphs.  
+**jsoncrack**
+* https://jsoncrack.com/
+* eamlessly visualize your JSON data instantly into graphs.
 
-🔗  
-**Name:** https://myapps.microsoft.com/  
-**Description:** MyApps  
+**MyApps**
+* https://myapps.microsoft.com/
+* MyApps
 
 
 
