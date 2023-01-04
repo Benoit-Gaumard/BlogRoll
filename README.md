@@ -398,173 +398,180 @@ BlogRoll
 
 ## :house: Governance
 
-🔗  
-**Name:** https://www.azadvertizer.net/  
-**Description:** AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases and Azure RBAC's role definitions and resource provider operations.  
+**AzAdvertizer**
+* https://www.azadvertizer.net/
+* AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases and Azure RBAC's role definitions and resource provider operations.
 
-🔗  
-**Name:** https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting  
-**Description:** AzGovViz is a PowerShell based script that iterates your Azure Tenant´s Management Group hierarchy down to Subscription level. It captures most relevant Azure governance capabilities such as Azure Policy, RBAC and Blueprints and a lot more.  
+**AzGovViz**
+* https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting
+* AzGovViz is a PowerShell based script that iterates your Azure Tenant´s Management Group hierarchy down to Subscription level. It captures most relevant Azure governance capabilities such as Azure Policy, RBAC and Blueprints and a lot more.
 
-🔗  
-**Name:** https://github.com/Azure/ccodashboard  
-**Description:** The Continuous Cloud Optimization Power BI Dashboards project is a set of Power BI Desktop Reports developed using Power Query M language and DAX, that pulls information directly from different Azure REST APIs and enables monitoring, operation and infrastructure teams to quickly gain insights about their existing Azure Platform footprint and resources.  
+**Continuous Cloud Optimization (CCO)**
+* https://github.com/Azure/ccodashboard
+* The Continuous Cloud Optimization Power BI Dashboards project is a set of Power BI Desktop Reports developed using Power Query M language and DAX, that pulls information directly from different Azure REST APIs and enables monitoring, operation and infrastructure teams to quickly gain insights about their existing Azure Platform footprint and resources.
 
-🔗  
-**Name:** https://github.com/azureinventory  
-**Description:** Powerfull Scripts to Inventory Azure.  
+**azureinventory**
+* https://github.com/azureinventory
+* Powerfull Scripts to Inventory Azure.
 
-🔗  
-**Name:** https://github.com/microsoft/ARI 
-**Description:** Azure Resource Inventory is a powerful script written in powershell to generate an Excel report of any Azure Environment you have read access.  
+**Azure Resource Inventory (ARI)**
+* https://github.com/microsoft/ARI
+* Azure Resource Inventory is a powerful script written in powershell to generate an Excel report of any Azure Environment you have read access.
 
 
-🔗  
-**Name:** https://github.com/PrateekKumarSingh/AzViz  
-**Description:** Azure Visualizer aka 'AzViz' - PowerShell module to automatically generate Azure resource topology diagrams by just typing a PowerShell cmdlet and passing the name of one or more Azure Resource Group(s).  
+**Azure Visualizer (AzViz)**
+* https://github.com/PrateekKumarSingh/AzViz
+* Azure Visualizer aka 'AzViz' - PowerShell module to automatically generate Azure resource topology diagrams by just typing a PowerShell cmdlet and passing the name of one or more Azure Resource Group(s).
 
-🔗  
-**Name:** https://github.com/microsoft/AzureMonitorCommunity  
-**Description:** This public repo serves the Azure Monitor community. It contains log queries, workbooks, and alerts, shared to help Azure Monitor users make the most of it.  
+**AzureMonitorCommunity**
+* https://github.com/microsoft/AzureMonitorCommunity
+* This public repo serves the Azure Monitor community. It contains log queries, workbooks, and alerts, shared to help Azure Monitor users make the most of it.
 
-🔗  
-**Name:** https://powershell.today/2022/02/new-diagrams.net-diagram/  
-**Description:** A small Powershell module that only contains one function for creating diagrams from your Azure Managementgroups and Subscriptions hierarchy.  
+**New (diagrams.net) diagram**
+* https://powershell.today/2022/02/new-diagrams.net-diagram/
+*  A small Powershell module that only contains one function for creating diagrams from your Azure Managementgroups and Subscriptions hierarchy.
 
-**Name:** https://github.com/jkstant/AzureRACIToolkit  
-**Description:** Azure Raci toolkit  
+**Azure Raci toolkit**
+* https://github.com/jkstant/AzureRACIToolkit
+* Azure Raci toolkit
 
-**Name:** https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ  
-**Description:** Azure Academy  
+**Azure Naming Tool**
+* https://github.com/aznamingtool/AzureNamingTool/
+* Azure Naming Tool
 
-**Name:** https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198  
-**Description:** Azure Orphan Resources workbook  
+**Azure Periodic Table of Resource Naming Convention**
+* https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/
+* Azure Periodic Table of Resource Naming Convention
 
-**Name:** https://github.com/aznamingtool/AzureNamingTool/  
-**Description:** Azure Naming Tool  
+**sqlflow**
+* https://sqlflow.gudusoft.com/#/
+* Build and visualize lineage from SQL script from query history, ETL script, Github/Bitbucket, Local filesystem and remote databases
 
-**Name:** https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/  
-**Description:** Azure Periodic Table of Resource Naming Convention  
+## :books: Videos
 
-**Name:** https://sqlflow.gudusoft.com/#/  
-**Description:** Build and visualize lineage from SQL script from query history, ETL script, Github/Bitbucket, Local filesystem and remote databases.  
+**Azure Academy**
+* https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ
+* Azure Academy
 
-## :books: DashBoard
+## :books: DashBoards
 
-🔗  
-**Name:** https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard  
-**Description:** Network Security Dashboard for Microsoft Defender for Cloud.  
+**Azure Orphan Resources workbook**
+* https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198
+* Azure Orphan Resources workbook
 
-🔗  
-**Name:** https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard  
-**Description:** CCO GitHub Contributions Dashboard.  
+**Network Security Dashboard for Microsoft Defender for Cloud**
+* https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard
+* Network Security Dashboard for Microsoft Defender for Cloud.
 
-🔗  
-**Name:** https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard  
-**Description:** CCO ADO Contributions Dashboard.  
+**CCO GitHub Contributions Dashboard**
+* https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard
+* CCO GitHub Contributions Dashboard.
+
+**CCO ADO Contributions Dashboard**
+* https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard
+* CCO ADO Contributions Dashboard.
 
 ## :octocat: GitHub
 
-🔗  
-**Name:** https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
-**Description:** GitHub emoji cheat sheet.  
+**GitHub emoji cheat sheet**
+* https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+*  GitHub emoji cheat sheet.
 
-🔗  
-**Name:** https://myoctocat.com/build-your-octocat/  
-**Description:** Build your own octocat.  
+**Build your own octocat**
+* https://myoctocat.com/build-your-octocat/
+* Build your own octocat.
 
-🔗  
-**Name:** https://www.bitmoji.com/stickers/  
-**Description:** Bitmoji.  
+**Bitmoji**
+* https://www.bitmoji.com/stickers/
+* Bitmoji.
 
 # :black_nib: Visio stencils ans icons
 
-🔗  
-**Name:** https://www.microsoft.com/en-us/download/details.aspx?id=41937  
-**Description:** Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer.  
+**Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer**
+* https://www.microsoft.com/en-us/download/details.aspx?id=41937
+* Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer.
 
-🔗  
-**Name:** https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/tree/master/Azure  
-**Description:** sandroasp Icon Set.  
+**sandroasp Icon Set**
+* https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/tree/master/Azure
+* sandroasp Icon Set.
 
-🔗  
-**Name:** https://github.com/David-Summers/Azure-Design  
-**Description:** David-Summers Icon Set.  
+**David-Summers Icon Set**
+* https://github.com/David-Summers/Azure-Design
+* David-Summers Icon Set.
 
-🔗  
-**Name:** http://code.benco.io/icon-collection/azure-docs/  
-**Description:** Azure Docs.  
+**Azure Icons 1**
+* http://code.benco.io/icon-collection/azure-docs/
+* Azure Docs collection.
 
-🔗  
-**Name:** http://code.benco.io/icon-collection/azure-icons/  
-**Description:** Azure Docs.  
+**Azure Icons collection**
+* http://code.benco.io/icon-collection/azure-icons/
+* Azure Icons collection.
 
-🔗  
-**Name:** http://code.benco.io/icon-collection/azure-patterns/  
-**Description:** Azure Patterns Collection.  
+**Azure Patterns collection**
+* http://code.benco.io/icon-collection/azure-patterns/
+* Azure Patterns Collection.
 
-🔗  
-**Name:** http://code.benco.io/icon-collection/azure-cds/  
-**Description:** Azure Patterns Collection.  
+**Azure cds Collection**
+* http://code.benco.io/icon-collection/azure-cds/
+* Azure cds Collection.
 
-🔗  
-**Name:** https://github.com/mrpaulandrew/ContentCollateral  
-**Description:** Content Collateral. Azure Images, icons, diagram, etc for various content.  
+**ContentCollateral**
+* https://github.com/mrpaulandrew/ContentCollateral
+* Content Collateral. Azure Images, icons, diagram, etc for various content.
 
 ## :page_with_curl: Tips and tricks
 
-🔗  
-**Name:** https://microsoft.github.io/AzureTipsAndTricks/  
-**Description:** Azure Tips and Tricks.  
+**Azure Tips and Tricks**
+* https://microsoft.github.io/AzureTipsAndTricks/
+* Azure Tips and Tricks.
 
-🔗  
-**Name:** https://microsoft.github.io/AzureTipsAndTricks/  
-**Description:** Azure Cloud Shell Web.  
+**Azure Cloud Shell Web**
+* https://microsoft.github.io/AzureTipsAndTricks/
+*  Azure Cloud Shell Web.
 
 ## :police_car: Compliance
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide  
-**Description:** Microsoft compliance offerings.  
+**Microsoft compliance offerings**
+* https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide
+* Microsoft compliance offerings.
 
-🔗  
-**Name:** https://privacy.microsoft.com/en-us/privacystatement  
-**Description:** Microsoft Privacy Statement.  
+**Microsoft Privacy Statement**
+* https://privacy.microsoft.com/en-us/privacystatement
+*  Microsoft Privacy Statement.
 
-🔗  
-**Name:** https://www.microsoft.com/en-us/trust-center  
-**Description:** Microsoft trust center.  
+**Microsoft trust center**
+* https://www.microsoft.com/en-us/trust-center
+* Microsoft trust center.
 
-🔗  
-**Name:** https://servicetrust.microsoft.com/  
-**Description:** Service trust portal.  
+**Service trust portal**
+* https://servicetrust.microsoft.com/
+* Service trust portal.
 
-🔗  
-**Name:** https://servicetrust.microsoft.com/ComplianceManager/V3#  
-**Description:** Compliance Manager portal.  
+**Compliance Manager portal**
+* https://servicetrust.microsoft.com/ComplianceManager/V3#
+* Compliance Manager portal.
 
 ## :computer: Virtual machines
 
-🔗  
-**Name:** https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general  
-**Description:** Azure VM sizes.  
+**Azure VM sizes**
+* https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general
+* Azure VM sizes.
 
-🔗  
-**Name:** https://automys.com/library/asset/scheduled-virtual-machine-shutdown-startup-microsoft-azure  
-**Description:** Start / Stop VMs.  
+**Start / Stop VMs 1**
+* https://automys.com/library/asset/scheduled-virtual-machine-shutdown-startup-microsoft-azure
+* Start / Stop VMs.
 
-🔗  
-**Name:** https://github.com/tomasrudh/AutoShutdownSchedule#automation-account-configuration  
-**Description:** Start / Stop VMs.  
+**Start / Stop VMs 2**
+* https://github.com/tomasrudh/AutoShutdownSchedule#automation-account-configuration
+* Start / Stop VMs.
 
-🔗  
-**Name:** https://azureprice.net/  
-**Description:** Azure VM Comparison.  
+**Azureprice**
+* https://azureprice.net/
+* Azure VM Comparison.
 
-**Name:** https://azure.microsoft.com/en-us/pricing/vm-selector/  
-**Description:** Virtual machines selector.  
-
-
+**Virtual machines selector**
+* https://azure.microsoft.com/en-us/pricing/vm-selector/
+* irtual machines selector.
 
 # :arrow_upper_right: Virtual Machines Scale Set (VMSS)
 
