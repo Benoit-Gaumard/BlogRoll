@@ -284,10 +284,6 @@ BlogRoll
 * https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
 * Azure subscription and service limits, quotas, and constraints.
 
-**Develop your naming and tagging strategy for Azure resources**
-* https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-taggings
-* Develop your naming and tagging strategy for Azure resources.
-
 **Azure Cloud Adoption Framework (CAF)**
 * https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
 * Cloud Adoption Framework (CAF).
@@ -442,6 +438,10 @@ BlogRoll
 **Azure Periodic Table of Resource Naming Convention**
 * https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/
 * Azure Periodic Table of Resource Naming Convention
+
+**Develop your naming and tagging strategy for Azure resources**
+* https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming
+* Develop your naming and tagging strategy for Azure resources.
 
 **sqlflow**
 * https://sqlflow.gudusoft.com/#/
