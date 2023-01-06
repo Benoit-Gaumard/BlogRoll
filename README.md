@@ -689,6 +689,14 @@ BlogRoll
 * https://github.com/Azure/aztfy
 * A tool to bring your existing Azure resources under the management of Terraform.
 
+**Azure terraform-azurerm-caf-enterprise-scale**
+* https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki
+* The Azure landing zones Terraform module provides an opinionated approach for deploying and managing the core platform capabilities of Azure landing zones architecture using Terraform.
+
+**Azure caf-terraform-landingzones**
+* https://github.com/azure/caf-terraform-landingzones
+* Cloud Adoption Framework for Azure Terraform landing zones
+
 ## :ninja: Web
 
 **Whirl CSS**
