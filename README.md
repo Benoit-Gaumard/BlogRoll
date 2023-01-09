@@ -55,75 +55,28 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#Table-Of-Contents)
 
 - [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
-- [Azure Updates](https://azure.microsoft.com/en-us/updates/)
+- [Azure Updates](https://azure.microsoft.com/en-us/updates/) :fire:
 - [Azure Charts](https://azurecharts.com/)
-
-**Azure Periodic table**
-* https://azureperiodic.data3.com
-* Azure Periodic table.
-
-**Azure Services**
-* https://azureservices.io
-* A visual representation of Azure services. Services interconnections, reference to availability by regions and other quick references.
-
-**Microsoft Administrator Sites**
-* https://msportals.io
-* Project to list all of Microsoft’s portals in one place.
-
-**Microsoft Cloud Workshop library**
-* *https://microsoftcloudworkshop.com/
-* Use our customer-ready content to host workshops that foster cloud learning and adoption.
-
-**Azure deprecation DashBoard**
-* https://github.com/azure-deprecation/dashboard/issues
-* keep up with deprecation of Azure services & features.
+- [Azure Periodic table](https://azureperiodic.data3.com)
+- [Azure Services io](https://azureservices.io)
+- [Microsoft Administrator Portals](https://msportals.io)
+- [Microsoft Cloud Workshop library](https://microsoftcloudworkshop.com/)
+- [Azure deprecation DashBoard](https://github.com/azure-deprecation/dashboard/issues)
 
 ## :cop: Policies
 [Back To Top](#Table-Of-Contents)
 
-**Windows using Guest Configuration**
-* https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026
-* 7 steps to author, develop, and deploy custom recommendations for Windows using Guest Configuration.
-
-**Azure Policy As Code**
-* https://github.com/Azure/enterprise-azure-policy-as-code
-* *This repository contains a mature solution to manage and deploy Azure Policy at enterprise scale.
-
-**Policy-as-code with Azure Pipelines**
-* https://medium.com/microsoftazure/devsecops-policy-as-code-with-azure-pipelines-86cc1e27f03c
-* DevSecOps: Policy-as-code with Azure Pipelines.
-
-**Policy Distribution Dashboard for Microsoft Defender for Cloud**
-* https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/policy-distribution-dashboard-for-microsoft-defender-for-cloud/ba-p/3264712
-* Policy Distribution Dashboard for Microsoft Defender for Cloud.
-
-**Ryan Graham**
-* https://github.com/rjygraham/AzurePolicy/tree/main/Samples
-* Ryan Graham GitHub repo.
-
-**tyconsulting**
-* https://github.com/tyconsulting/azurepolicy
-* tyconsulting GitHub repo.
-
-**Azure Community Policy**
-* https://github.com/Azure/Community-Policy
-* Azure Community Policy GitHub Repo.
-
-**Azure Policy Compliance WorkBook**
-* https://www.cloudsma.com/2021/10/build-azure-policy-compliance-workbook/
-* Azure Policy Compliance WorkBook.
-
-**AWESOME-Azure-Policy***
-* https://github.com/globalbao/awesome-azure-policy
-*  AWESOME-Azure-Policy
-
-**Azure Diagnostics Policy Generator**
-* https://github.com/JimGBritt/AzurePolicy/tree/master/AzureMonitor/Scripts
-* Azure Diagnostics Policy Generator.
-
-**Configure centralized policy management**
-* https://www.cloudpartner.fi/?p=7015
-* Configure centralized policy management.
+- [Windows using Guest Configuration](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026)
+- [Azure Policy As Code](https://github.com/Azure/enterprise-azure-policy-as-code)
+- [Policy-as-code with Azure Pipelines](https://medium.com/microsoftazure/devsecops-policy-as-code-with-azure-pipelines-86cc1e27f03c)
+- [Policy Distribution Dashboard for Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/policy-distribution-dashboard-for-microsoft-defender-for-cloud/ba-p/3264712)
+- [Ryan Graham GitHub Repo](https://github.com/rjygraham/AzurePolicy/tree/main/Samples)
+- [tyconsulting GitHub Repo](https://github.com/tyconsulting/azurepolicy)
+- [Azure Community Policy GitHub Repo](https://github.com/Azure/Community-Policy) :fire:
+- [Azure Policy Compliance WorkBook](https://www.cloudsma.com/2021/10/build-azure-policy-compliance-workbook/)
+- [AWESOME-Azure-Policy[(https://github.com/globalbao/awesome-azure-policy)
+- [Azure Diagnostics Policy Generator](https://github.com/JimGBritt/AzurePolicy/tree/master/AzureMonitor/Scripts)
+- [Configure centralized policy management](https://www.cloudpartner.fi/?p=7015)
 
 ## :sun_behind_small_cloud: Services state
 
