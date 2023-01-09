@@ -20,13 +20,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 > Links below are from official and custom sources.
 
-### :trophy: Certifications
+### Certifications
 [Back To Top](#Table-Of-Contents)
 
 - [Official certifications training poster](https://aka.ms/TrainCertPoster)
 - [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
 
-### :moneybag: FinOps
+## FinOps
 [Back To Top](#Table-Of-Contents)
 
 - Total Cost of Ownership (TCO) Calculator**
