@@ -30,39 +30,16 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Meetups](#Community-Meetups)
   - [Community Lists](#Community-Lists)
 
-## Official
+> Links below are from official and custom sources.
 
-> Links below are from official Microsoft sources, websites, and channels.
-
-### Official MSLearn
-[Back To Top](#Table-Of-Contents)
-
-- [AZ-305: Design business continuity solutions](https://learn.microsoft.com/en-us/training/paths/design-business-continuity-solutions/?WT.mc_id=AZ-MVP-5004796)
-- [AZ-305: Design data storage solutions](https://learn.microsoft.com/en-us/training/paths/design-data-storage-solutions/?WT.mc_id=AZ-MVP-5004796)
-- [AZ-305: Design identity, governance, and monitor solutions](https://learn.microsoft.com/en-us/training/paths/design-identity-governance-monitor-solutions/?WT.mc_id=AZ-MVP-5004796)
-- [AZ-305: Design infrastructure solutions](https://learn.microsoft.com/en-us/training/paths/design-infranstructure-solutions/?WT.mc_id=AZ-MVP-5004796)
-- [AZ-700 Designing and Implementing Microsoft Azure Networking Solutions](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/?WT.mc_id=AZ-MVP-5004796)
-- [AZ-720: Azure Support Engineer for Connectivity Specialty](https://learn.microsoft.com/en-us/training/paths/azure-support-engineer-for-connectivity-specialty/?WT.mc_id=AZ-MVP-5004796)
-- [Control Azure spending and manage bills with Microsoft Cost Management + Billing](https://learn.microsoft.com/en-us/training/paths/control-spending-manage-bills/?WT.mc_id=AZ-MVP-5004796)
-- [Describe core Azure architectural components](https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/?WT.mc_id=AZ-MVP-5004796)
-- [Design an enterprise governance strategy](https://learn.microsoft.com/en-us/training/modules/enterprise-governance/?WT.mc_id=AZ-MVP-5004796)
-- [FastTrack for Azure Live](https://fasttrack.azure.com/live/language/en)
-- [Linux on Azure](https://learn.microsoft.com/en-us/learn/paths/azure-linux/?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Azure - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/azure-linux/?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Partner - Training Center - Role Based](https://partner.microsoft.com/en-us/training/training-center?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Technical Quest](https://mtq.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
-
-
-## BLogRoll
-
-### :trophy: Azure certifications
+## :trophy: Azure certifications
 [Back To Top](#Table-Of-Contents)
 
 - [Official certifications training poster](https://aka.ms/TrainCertPoster)
 - [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
 
 ## :moneybag: Azure FinOps
+[Back To Top](#Table-Of-Contents)
 
 - Total Cost of Ownership (TCO) Calculator**
   - https://azure.microsoft.com/en-us/pricing/tco/calculator/
@@ -93,6 +70,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 *  Cost optimization pillar
 
 ## :information_source: Azure Informations and Services
+[Back To Top](#Table-Of-Contents)
 
 **Azure Info Hub**
 * https://azureinfohub.azurewebsites.net/
@@ -127,6 +105,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * keep up with deprecation of Azure services & features.
 
 ## :cop: Azure Policies
+[Back To Top](#Table-Of-Contents)
 
 **Windows using Guest Configuration**
 * https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026
