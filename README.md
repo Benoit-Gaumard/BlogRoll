@@ -54,13 +54,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Technical Quest](https://mtq.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
 
 
+## BLogRoll
 
+### :trophy: Azure certifications
+[Back To Top](#Table-Of-Contents)
 
-## :trophy: Azure certifications
-
-- Certifications training poster**
-  - https://aka.ms/TrainCertPoster
-    - All Microsoft certifications list.
+- [Official certifications training poster](https://aka.ms/TrainCertPoster)
+- [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
 
 ## :moneybag: Azure FinOps
 
