@@ -8,25 +8,25 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## Table Of Contents
 
-- [Certifications](##Certifications)
-- [FinOps](##FinOps)
-- [Informations and Services](##Informations-and-Services)
-- [Policies](##Policies)
-- [Services state](##Services-state)
-- [Cloud Services Comparison](##Cloud-Services-Comparison)
-- [DevOps](##DevOps)
-- [Azure Active Directory](##Azure-Active-Directory)
-- [Misc](##Misc)
+- [Certifications](#Certifications)
+- [FinOps](#FinOps)
+- [Informations and Services](#Informations-and-Services)
+- [Policies](#Policies)
+- [Services state](#Services-state)
+- [Cloud Services Comparison](#Cloud-Services-Comparison)
+- [DevOps](#DevOps)
+- [Azure Active Directory](#Azure-Active-Directory)
+- [Misc](#Misc)
 
 > Links below are from official and custom sources.
 
-## :trophy: Certifications
+### :trophy: Certifications
 [Back To Top](#Table-Of-Contents)
 
 - [Official certifications training poster](https://aka.ms/TrainCertPoster)
 - [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
 
-## :moneybag: FinOps
+### :moneybag: FinOps
 [Back To Top](#Table-Of-Contents)
 
 - Total Cost of Ownership (TCO) Calculator**
@@ -57,7 +57,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 *  https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview
 *  Cost optimization pillar
 
-## :information_source: Informations and Services
+### :information_source: Informations and Services
 [Back To Top](#Table-Of-Contents)
 
 **Azure Info Hub**
@@ -92,7 +92,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * https://github.com/azure-deprecation/dashboard/issues
 * keep up with deprecation of Azure services & features.
 
-## :cop: Policies
+### :cop: Policies
 [Back To Top](#Table-Of-Contents)
 
 **Windows using Guest Configuration**
