@@ -45,24 +45,17 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 - [Azure Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
-
 - [Strategies to realizing Cost Savings in Azure](https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure)
-
 - [Budget Alert in Teams](https://github.com/Azure/AzureBudgetAlert-in-Teams)
-
 - [Azure Optimization Engine (AOE)](https://github.com/helderpinto/AzureOptimizationEngine)
-
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622)
-
 - [Cost optimization pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview)
 
 ## :information_source: Informations and Services
 [Back To Top](#Table-Of-Contents)
 
 - [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
-
 - [Azure Updates](https://azure.microsoft.com/en-us/updates/)
-
 - [Azure Charts](https://azurecharts.com/)
 
 **Azure Periodic table**
