@@ -31,48 +31,27 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 [Back To Top](#Table-Of-Contents)
 
-- Total Cost of Ownership (TCO) Calculator**
-  - https://azure.microsoft.com/en-us/pricing/tco/calculator/
-    - Estimate the cost savings you can realize by migrating your workloads to Azure
+- [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
+- [Azure Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 
-**Azure Pricing calculator**
-* https://azure.microsoft.com/en-us/pricing/calculator/
-* Calculate your estimated hourly or monthly costs for using Azure.
+- [Strategies to realizing Cost Savings in Azure](https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure)
 
-**Strategies to realizing Cost Savings in Azure**
-* https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure
-* Strategies to realizing Cost Savings in Azure.
+- [Budget Alert in Teams](https://github.com/Azure/AzureBudgetAlert-in-Teams)
 
-**Budget Alert in Teams**
-* https://github.com/Azure/AzureBudgetAlert-in-Teams
-* Budget Alert in Teams
+- [Azure Optimization Engine (AOE)](https://github.com/helderpinto/AzureOptimizationEngine)
 
-**Azure Optimization Engine (AOE)**
-* https://github.com/helderpinto/AzureOptimizationEngine
-* Azure Optimization Engine (AOE)
+- [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622)
 
-**Microsoft Defender for Cloud Price Estimation Dashboard**
-*  https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622
-*  Microsoft Defender for Cloud Price Estimation Dashboard
-
-**Cost optimization pillar**
-*  https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview
-*  Cost optimization pillar
+- [Cost optimization pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview)
 
 ## :information_source: Informations and Services
 [Back To Top](#Table-Of-Contents)
 
-**Azure Info Hub**
-* https://azureinfohub.azurewebsites.net/
-* Azure Hub Info
+- [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
 
-**Azure Updates**
-* https://azure.microsoft.com/en-us/updates/
-* Get the latest updates on Azure products and features to meet your cloud investment needs. Subscribe to notifications to stay informed.
+- [Azure Updates](https://azure.microsoft.com/en-us/updates/)
 
-**Azure Charts**
-* https://azurecharts.com/
-* Live visual exploration environment for Azure Cloud and ecosystem.
+- [Azure Charts](https://azurecharts.com/)
 
 **Azure Periodic table**
 * https://azureperiodic.data3.com
