@@ -8,15 +8,15 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## Table Of Contents
 
-- [Certifications](#Certifications)
-- [FinOps](#FinOps)
-- [Informations and Services](#Informations-and-Services)
-- [Policies](#Policies)
-- [Services state](#Services-state)
-- [Cloud Services Comparison](#Cloud-Services-Comparison)
-- [DevOps](#DevOps)
-- [Azure Active Directory](#Azure-Active-Directory)
-- [Misc](#Misc)
+- [Certifications](##Certifications)
+- [FinOps](##FinOps)
+- [Informations and Services](##Informations-and-Services)
+- [Policies](##Policies)
+- [Services state](##Services-state)
+- [Cloud Services Comparison](##Cloud-Services-Comparison)
+- [DevOps](##DevOps)
+- [Azure Active Directory](##Azure-Active-Directory)
+- [Misc](##Misc)
 
 > Links below are from official and custom sources.
 
