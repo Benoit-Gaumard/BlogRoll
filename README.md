@@ -1,4 +1,60 @@
-BlogRoll
+# BlogRoll
+
+A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
+
+This list contains anything that can help with your **Microsoft Azure architecture** and quickly get you up and running when designing, planning, and implementing services that empower organisations around the planet to achieve more.
+
+> Community contributions are most welcome! Feel free to submit a **pull request** with any adds/removes/changes to content!
+
+## Table Of Contents
+
+- [Official](#Official)
+  - [Learn](#Official-MSLearn)
+  - [Docs](#Official-Docs)
+  - [Videos](#Official-Videos)
+  - [Announcements and Articles](#Official-Announcements-and-Articles)
+  - [Books](#Official-Books)
+  - [Repositories and Tools](#Official-Repositories-and-Tools)
+  - [Forums and Feedback](#Official-Forums-and-Feedback)
+  - [Official Podcasts](#Official-Podcasts)
+- [Community](#Community)
+  - [Videos](#Community-Videos)
+  - [Podcasts](#Community-Podcasts)
+  - [Books](#Community-Books)
+  - [Articles](#Community-Articles)
+  - [Tools](#Community-Tools)
+  - [Repositories](#Community-Repositories)
+  - [Forums](#Community-Forums)
+  - [Discord](#Community-Discord)
+  - [Slack](#Community-Slack)
+  - [Meetups](#Community-Meetups)
+  - [Community Lists](#Community-Lists)
+
+## Official
+
+> Links below are from official Microsoft sources, websites, and channels.
+
+### Official MSLearn
+[Back To Top](#Table-Of-Contents)
+
+- [AZ-305: Design business continuity solutions](https://learn.microsoft.com/en-us/training/paths/design-business-continuity-solutions/?WT.mc_id=AZ-MVP-5004796)
+- [AZ-305: Design data storage solutions](https://learn.microsoft.com/en-us/training/paths/design-data-storage-solutions/?WT.mc_id=AZ-MVP-5004796)
+- [AZ-305: Design identity, governance, and monitor solutions](https://learn.microsoft.com/en-us/training/paths/design-identity-governance-monitor-solutions/?WT.mc_id=AZ-MVP-5004796)
+- [AZ-305: Design infrastructure solutions](https://learn.microsoft.com/en-us/training/paths/design-infranstructure-solutions/?WT.mc_id=AZ-MVP-5004796)
+- [AZ-700 Designing and Implementing Microsoft Azure Networking Solutions](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/?WT.mc_id=AZ-MVP-5004796)
+- [AZ-720: Azure Support Engineer for Connectivity Specialty](https://learn.microsoft.com/en-us/training/paths/azure-support-engineer-for-connectivity-specialty/?WT.mc_id=AZ-MVP-5004796)
+- [Control Azure spending and manage bills with Microsoft Cost Management + Billing](https://learn.microsoft.com/en-us/training/paths/control-spending-manage-bills/?WT.mc_id=AZ-MVP-5004796)
+- [Describe core Azure architectural components](https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/?WT.mc_id=AZ-MVP-5004796)
+- [Design an enterprise governance strategy](https://learn.microsoft.com/en-us/training/modules/enterprise-governance/?WT.mc_id=AZ-MVP-5004796)
+- [FastTrack for Azure Live](https://fasttrack.azure.com/live/language/en)
+- [Linux on Azure](https://learn.microsoft.com/en-us/learn/paths/azure-linux/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Azure - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/azure-linux/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Partner - Training Center - Role Based](https://partner.microsoft.com/en-us/training/training-center?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Technical Quest](https://mtq.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
+
+
+
 
 ## :trophy: Azure certifications
 
