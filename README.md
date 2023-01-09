@@ -8,26 +8,38 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## Table Of Contents
 
-- [Certifications](#trophy-Certifications)
-- [FinOps](#moneybag-FinOps)
+- [Certifications](#medal_sports-Certifications)
+- [FinOps](#euro-FinOps)
 - [Informations and Services](#information_source-Informations-and-Services)
-- [Policies](#Policies)
-- [Services state](#Services-state)
-- [Cloud Services Comparison](#Cloud-Services-Comparison)
-- [DevOps](#DevOps)
-- [Azure Active Directory](#Azure-Active-Directory)
-- [Misc](#Misc)
+- [Policies](#cop-Policies)
+- [Services state](#sun_behind_small_cloud-Services-state)
+- [Cloud Services Comparison](#heavy_plus_sign-Cloud-Services-Comparison)
+- [DevOps](#rocket-DevOps)
+- [Azure Active Directory](#large_blue_diamond-Azure-Active-Directory)
+- [Misc](#open_file_folder-Misc)
+- [Sustainability](#seedling-Sustainability)
+- [HA-and-DR](#cloud-HA-and-DR)
+- [Architecture](#classical_building-Architecture)
+- [Updates and RSS feeds](#house-Updates-and-RSS-feeds)
+- [Support](#house-Support)
+- [Governance](#house-Governance)
+- [Videos](#books-Videos)
+- [DashBoards](#books-DashBoards)
+- [GitHub](#octocat-GitHub)
+- [Stencils and icons](#black_nib-Stencils-and-icons)
+- [Virtual Machines Scale Set (VMSS)](#arrow_upper_right-Virtual-Machines-Scale-Set-(VMSS))
+- [Analytics and monitoring](#stopwatch-Analytics-and-monitoring)
 
 > Links below are from official and custom sources.
 
-## :trophy: Certifications
+## :medal_sports: Certifications
 
 [Back To Top](#Table-Of-Contents)
 
 - [Official certifications training poster](https://aka.ms/TrainCertPoster)
 - [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
 
-## :moneybag: FinOps
+## :euro: FinOps
 
 [Back To Top](#Table-Of-Contents)
 
@@ -73,7 +85,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * https://github.com/azure-deprecation/dashboard/issues
 * keep up with deprecation of Azure services & features.
 
-### :cop: Policies
+## :cop: Policies
 [Back To Top](#Table-Of-Contents)
 
 **Windows using Guest Configuration**
@@ -252,7 +264,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * https://azure.microsoft.com/es-es/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/
 * Microsoft Emissions Impact Dashboard.
 
-## :cloud: Azure HA and DR
+## :cloud: HA and DR
 
 **Azure Geographies and regions**
 * https://azure.microsoft.com/en-us/global-infrastructure/geographies/
@@ -266,7 +278,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones
 * Azure regions and availability zones.
 
-## :classical_building: Azure architecture
+## :classical_building:  Architecture
 
 **White papers**
 * https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource
