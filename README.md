@@ -58,15 +58,15 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :trophy: Azure certifications
 
-**Certifications training poster**
-* https://aka.ms/TrainCertPoster
-* All Microsoft certifications list.
+- Certifications training poster**
+  - https://aka.ms/TrainCertPoster
+    - All Microsoft certifications list.
 
 ## :moneybag: Azure FinOps
 
-**Total Cost of Ownership (TCO) Calculator**
-* https://azure.microsoft.com/en-us/pricing/tco/calculator/
-* Estimate the cost savings you can realize by migrating your workloads to Azure
+- Total Cost of Ownership (TCO) Calculator**
+  - https://azure.microsoft.com/en-us/pricing/tco/calculator/
+    - Estimate the cost savings you can realize by migrating your workloads to Azure
 
 **Azure Pricing calculator**
 * https://azure.microsoft.com/en-us/pricing/calculator/
