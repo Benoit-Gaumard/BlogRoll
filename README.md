@@ -54,8 +54,10 @@ This list contains anything that can help with your **Microsoft Azure architectu
 ## :information_source: Informations and Services
 [Back To Top](#Table-Of-Contents)
 
-- [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
 - [Azure Updates](https://azure.microsoft.com/en-us/updates/) :fire:
+- [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
+- [Azure Weekly](https://azureweekly.info/)
+- [AzureFeeds](https://azurefeeds.com/)
 - [Azure Charts](https://azurecharts.com/)
 - [Azure Periodic table](https://azureperiodic.data3.com)
 - [Azure Services io](https://azureservices.io)
@@ -274,20 +276,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * https://cmd.ms/
 * Use the power of your browser's address bar to quickly get to your favorite blade in Azure, Microsoft 365, Azure AD, Intune...
 
-## :house: Updates and RSS feeds
-
-**Azure Updates**
-* https://azure.microsoft.com/en-us/updates/
-* Azure Updates
-
-**Azure Weekly**
-*  https://azureweekly.info/
-* Azure Weekly
-
-**AzureFeeds**
-* https://azurefeeds.com/
-* AzureFeeds
-
 ## :house: Support
 
 **Azure Support plans**
@@ -391,7 +379,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * https://www.bitmoji.com/stickers/
 * Bitmoji.
 
-# :black_nib: Visio stencils ans icons
+## :black_nib: Visio stencils ans icons
 
 **Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer**
 * https://www.microsoft.com/en-us/download/details.aspx?id=41937
@@ -479,7 +467,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * https://azure.microsoft.com/en-us/pricing/vm-selector/
 * irtual machines selector.
 
-# :arrow_upper_right: Virtual Machines Scale Set (VMSS)
+## :arrow_upper_right: Virtual Machines Scale Set (VMSS)
 
 **vmssdashboard**
 * https://github.com/gbowerman/vmssdashboard
@@ -517,7 +505,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * https://docs.microsoft.com/en-us/archive/blogs/blogms/official-microsoft-team-blogs-microsoft-blogs
 * Official Microsoft Team Blogs / Microsoft Blogs.
 
-# :stopwatch: Analytics and monitoring
+## :stopwatch: Analytics and monitoring
 
 **Log Analytics Query Portal**
 * https://portal.loganalytics.io/demo#/query/main
