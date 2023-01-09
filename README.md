@@ -36,7 +36,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 [Back To Top](#Table-Of-Contents)
 
-- [Official certifications training poster](https://aka.ms/TrainCertPoster)
+- [Official certifications training poster](https://aka.ms/TrainCertPoster) :fire:
 - [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
 
 ## :euro: FinOps
@@ -74,95 +74,39 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [tyconsulting GitHub Repo](https://github.com/tyconsulting/azurepolicy)
 - [Azure Community Policy GitHub Repo](https://github.com/Azure/Community-Policy) :fire:
 - [Azure Policy Compliance WorkBook](https://www.cloudsma.com/2021/10/build-azure-policy-compliance-workbook/)
-- [AWESOME-Azure-Policy[(https://github.com/globalbao/awesome-azure-policy)
+- [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
 - [Azure Diagnostics Policy Generator](https://github.com/JimGBritt/AzurePolicy/tree/master/AzureMonitor/Scripts)
 - [Configure centralized policy management](https://www.cloudpartner.fi/?p=7015)
 
 ## :sun_behind_small_cloud: Services state
+[Back To Top](#Table-Of-Contents)
 
-**Azure Speed Test 2.0**
-* http://azurespeedtest.azurewebsites.net
-* Measuring the latency from your web browser to the Blob Storage Service in each of the Microsoft Azure Data Centers.
-
-**AzSpeedTest Powershell**
-* https://github.com/devblackops/AzSpeedTest
-* An Microsoft Azure speed test module for PowerShell. This module performs basic network latency tests to one or more Azure regions and returns the results.
-
-**AzureSpeed**
-* https://www.azurespeed.com/
-* This tool runs latency test from your IP location to Azure datacenters around the world.
-
-**Azure Status**
-* https://status.azure.com/
-* View issues that might be impacting your services.
-
-**Azure Infrastructure Map**
-* https://infrastructuremap.microsoft.com/
-* Explore Azure’s global infrastructure.
+- [Azure Status](https://status.azure.com/) :fire:
+- [Azure Infrastructure Map](https://infrastructuremap.microsoft.com/) :fire:
+- [Azure Speed Test 2.0](http://azurespeedtest.azurewebsites.net)
+- [AzSpeedTest Powershell](https://github.com/devblackops/AzSpeedTest)
+- [AzureSpeed](https://www.azurespeed.com/)
 
 ## :heavy_plus_sign: Cloud Services Comparison
 
-**Public Cloud Services Comparison**
-* https://comparecloud.in/
-* A simple comparison chart of all the cloud services offered by the major public cloud vendors globally.
-
-**Azure VM Comparison**
-* https://azureprice.net/
-* Find and compare Azure Virtual Machines specs and pricing on one page across different tiers, payment types, and regions.
-
-**Compare AWS and Azure services to Google Cloud**
-* https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q2-Product-Mapping-Blog&utm_content=documentation
-* Compare AWS and Azure services to Google Cloud
-
-**Compare Azure and AWS services**
-* https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
-*  Compare Azure and AWS services.
-
-**Azure MarketPlace**
-* https://azuremarketplace.microsoft.com/en-us/
-* Azure MarketPlace.
+- [Public Cloud Services Comparison](https://comparecloud.in/)
+- [Azure VM Comparison](https://azureprice.net/)
+- [Compare AWS and Azure services to Google Cloud](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q2-Product-Mapping-Blog&utm_content=documentation)
+- [Compare Azure and AWS services](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
+- [Azure MarketPlace](https://azuremarketplace.microsoft.com/en-us/)
 
 ## :rocket: DevOps
 
-**learn git branching.**
-* https://learngitbranching.js.org/
-* Learn Git Branching is the most visual and interactive way to learn Git on the web.
-
-**vinijmoura GitHub Repo**
-* https://github.com/vinijmoura/Azure-DevOps
-* Code Samples (applications, scripts, PowerBI reports, demos, etc.) to apply on Azure DevOps.
-
-**Raspberry Simulator for IOT Hub**
-* https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started
-* Raspberry Simulator for IOT Hub.
-
-**Azure DevOps Labs**
-* https://azuredevopslabs.com
-* Azure DevOps Labs.
-
-**Azure DevOps Demo Generator**
-* https://azuredevopsdemogenerator.azurewebsites.net
-* Azure DevOps Demo Generator.
-
-**Azure DevOps Organization**
-* https://aex.dev.azure.com/
-* Azure DevOps Organization.
-
-**Devops Resources**
-* https://github.com/bregman-arie/devops-resources
-* Devops Resources.
-
-**Devops Bookmark**
-* http://www.devopsbookmarks.com/cloud-paas
-* Devops Bookmark.
-
-**Devops roadmap**
-* https://roadmap.sh/
-* Devops roadmap.
-
-**DevSecOps table**
-* https://devsecopstable.z6.web.core.windows.net/
-* DevSecOps table.
+- [learn git branching](https://learngitbranching.js.org/)
+- [Vinijmoura GitHub Repo](https://github.com/vinijmoura/Azure-DevOps)
+- [Raspberry Simulator for IOT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
+- [Azure DevOps Labs](https://azuredevopslabs.com)
+- [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.ne)
+- [Azure DevOps Organization](https://aex.dev.azure.com/) :fire:
+- [Devops Resources](https://github.com/bregman-arie/devops-resources)
+- [Devops Bookmark](http://www.devopsbookmarks.com/cloud-paas)
+- [Devops roadmap](https://roadmap.sh/)
+- [DevSecOps table](https://devsecopstable.z6.web.core.windows.net/)
 
 ## :large_blue_diamond: Azure Active Directory
 
