@@ -8,7 +8,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## Table Of Contents
 
-- [Certifications](#Certifications)
+- [Certifications](#Certifications-:trophy:)
 - [FinOps](#FinOps)
 - [Informations and Services](#Informations-and-Services)
 - [Policies](#Policies)
@@ -20,8 +20,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 > Links below are from official and custom sources.
 
-### Certifications
-:trophy:
+### Certifications :trophy:
+
 [Back To Top](#Table-Of-Contents)
 
 - [Official certifications training poster](https://aka.ms/TrainCertPoster)
