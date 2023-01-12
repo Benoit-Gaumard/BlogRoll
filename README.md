@@ -120,8 +120,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Devops roadmap](https://roadmap.sh/)
 - [The Microsoft Azure Developer's Cheat Sheet](https://github.com/milanm/azure-cheat-sheet)
 
-
 ## :large_blue_diamond: Azure Active Directory
+
+[Back To Top](#Table-Of-Contents)
 
 - [Azure AD where is your data located](https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
 - [Tenant availability check 1](https://account.azure.com/organization)
@@ -134,14 +135,21 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :open_file_folder: Misc
 
+[Back To Top](#Table-Of-Contents)
+
 - [Azure Mask](https://github.com/clarkio/azure-mask)
 - [Raspberry Simulator for IOT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
+- [sqlflow](https://sqlflow.gudusoft.com/#/)
 
 ## :seedling: Sustainability
+
+[Back To Top](#Table-Of-Contents)
 
 - [Microsoft Emissions Impact Dashboard](https://azure.microsoft.com/es-es/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/)
 
 ## :cloud: HA and DR
+
+[Back To Top](#Table-Of-Contents)
 
 - [Azure Geographies and regions](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
 - [Azure cross regions replication](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure)
@@ -180,66 +188,31 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :house: Support
 
+[Back To Top](#Table-Of-Contents)
+
 - [Azure Support plans](https://azure.microsoft.com/en-us/support/plans/)
 - [Azure community support](https://docs.microsoft.com/en-us/answers/products/azure?product=all)
 - [Azure feedback](https://feedback.azure.com/d365community) :fire:
 
 ## :house: Governance
 
-**AzAdvertizer**
-* https://www.azadvertizer.net/
-* AzAdvertizer helps you to keep up with the pace by providing overview and insights on new releases and changes/updates for Azure Governance capabilities such as Azure Policy's policy definitions, initiatives (set definitions), aliases and Azure RBAC's role definitions and resource provider operations.
+[Back To Top](#Table-Of-Contents)
 
-**AzGovViz**
-* https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting
-* AzGovViz is a PowerShell based script that iterates your Azure Tenant´s Management Group hierarchy down to Subscription level. It captures most relevant Azure governance capabilities such as Azure Policy, RBAC and Blueprints and a lot more.
-
-**Continuous Cloud Optimization (CCO)**
-* https://github.com/Azure/ccodashboard
-* The Continuous Cloud Optimization Power BI Dashboards project is a set of Power BI Desktop Reports developed using Power Query M language and DAX, that pulls information directly from different Azure REST APIs and enables monitoring, operation and infrastructure teams to quickly gain insights about their existing Azure Platform footprint and resources.
-
-**azureinventory**
-* https://github.com/azureinventory
-* Powerfull Scripts to Inventory Azure.
-
-**Azure Resource Inventory (ARI)**
-* https://github.com/microsoft/ARI
-* Azure Resource Inventory is a powerful script written in powershell to generate an Excel report of any Azure Environment you have read access.
-
-
-**Azure Visualizer (AzViz)**
-* https://github.com/PrateekKumarSingh/AzViz
-* Azure Visualizer aka 'AzViz' - PowerShell module to automatically generate Azure resource topology diagrams by just typing a PowerShell cmdlet and passing the name of one or more Azure Resource Group(s).
-
-**AzureMonitorCommunity**
-* https://github.com/microsoft/AzureMonitorCommunity
-* This public repo serves the Azure Monitor community. It contains log queries, workbooks, and alerts, shared to help Azure Monitor users make the most of it.
-
-**New (diagrams.net) diagram**
-* https://powershell.today/2022/02/new-diagrams.net-diagram/
-*  A small Powershell module that only contains one function for creating diagrams from your Azure Managementgroups and Subscriptions hierarchy.
-
-**Azure Raci toolkit**
-* https://github.com/jkstant/AzureRACIToolkit
-* Azure Raci toolkit
-
-**Azure Naming Tool**
-* https://github.com/aznamingtool/AzureNamingTool/
-* Azure Naming Tool
-
-**Azure Periodic Table of Resource Naming Convention**
-* https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/
-* Azure Periodic Table of Resource Naming Convention
-
-**Develop your naming and tagging strategy for Azure resources**
-* https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming
-* Develop your naming and tagging strategy for Azure resources.
-
-**sqlflow**
-* https://sqlflow.gudusoft.com/#/
-* Build and visualize lineage from SQL script from query history, ETL script, Github/Bitbucket, Local filesystem and remote databases
+- [AzAdvertizer](https://www.azadvertizer.net/) :fire:
+- [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
+- [Continuous Cloud Optimization (CCO)](https://github.com/Azure/ccodashboard) :fire:
+- [AzureSecurityCenterInventory](https://github.com/ASCI)
+- [Azure Resource Inventory (ARI)](https://github.com/microsoft/ARI)
+- [Azure Visualizer (AzViz)](https://github.com/PrateekKumarSingh/AzViz)
+- [New (diagrams.net) diagram](https://powershell.today/2022/02/new-diagrams.net-diagram/)
+- [Azure Raci toolkit](https://github.com/jkstant/AzureRACIToolkit)
+- [Azure Naming Tool](https://github.com/microsoft/CloudAdoptionFramework/tree/master/ready/AzNamingTool)
+- [Azure Periodic Table of Resource Naming Convention](https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/) :fire:
+- [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 
 ## :books: Videos
+
+[Back To Top](#Table-Of-Contents)
 
 **Azure Academy**
 * https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ
@@ -415,6 +388,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 **Azure Monitor Community**
 * https://github.com/microsoft/AzureMonitorCommunity
 * Azure Monitor Community.
+
+
 
 ## :ninja: Security
 
