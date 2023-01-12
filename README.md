@@ -10,7 +10,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Certifications](#medal_sports-Certifications)
 - [FinOps](#euro-FinOps)
-- [Informations and Services](#information_source-Informations-and-Services)
+- [Informations](#information_source-Informations)
+- [Services](#information_source-Services)
 - [Policies](#cop-Policies)
 - [Services state](#sun_behind_small_cloud-Services-state)
 - [Cloud Services Comparison](#heavy_plus_sign-Cloud-Services-Comparison)
@@ -44,25 +45,27 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#Table-Of-Contents)
 
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
-- [Azure Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+- [Azure Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/) :fire:
 - [Strategies to realizing Cost Savings in Azure](https://docs.microsoft.com/fr-fr/archive/blogs/girishp/strategies-to-realizing-cost-savings-in-azure)
 - [Budget Alert in Teams](https://github.com/Azure/AzureBudgetAlert-in-Teams)
 - [Azure Optimization Engine (AOE)](https://github.com/helderpinto/AzureOptimizationEngine)
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622)
 - [Cost optimization pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview)
 
-## :information_source: Informations and Services
+## :information_source: Informations
 [Back To Top](#Table-Of-Contents)
 
 - [Azure Updates](https://azure.microsoft.com/en-us/updates/) :fire:
 - [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
 - [Azure Weekly](https://azureweekly.info/)
 - [AzureFeeds](https://azurefeeds.com/)
+
+## :information_source: Services
+[Back To Top](#Table-Of-Contents)
+
 - [Azure Charts](https://azurecharts.com/)
 - [Azure Periodic table](https://azureperiodic.data3.com)
 - [Azure Services io](https://azureservices.io)
-- [Microsoft Administrator Portals](https://msportals.io)
-- [Microsoft Cloud Workshop library](https://microsoftcloudworkshop.com/)
 - [Azure deprecation DashBoard](https://github.com/azure-deprecation/dashboard/issues)
 
 ## :cop: Policies
@@ -174,6 +177,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 [Back To Top](#Table-Of-Contents)
 
+- [Microsoft Cloud Workshop library](https://microsoftcloudworkshop.com/)
+
 **White papers**
 * https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource
 * White papers.
@@ -197,6 +202,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 **Azure Cloud Adoption Framework (CAF)**
 * https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
 * Cloud Adoption Framework (CAF).
+
+- [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/)
 
 **Azure Survival Guide**
 * https://social.technet.microsoft.com/wiki/contents/articles/630.microsoft-azure-survival-guide.aspx
@@ -253,6 +260,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 **Microsoft portals 2**
 * https://www.moderndeployment.com/microsoft-azure-management-urls/
 * Microsoft portals 2
+
+- [Microsoft Administrator Portals](https://msportals.io)
 
 **Azure supported workloads**
 * https://docs.microsoft.com/en-US/troubleshoot/azure/virtual-machines/server-software-support
