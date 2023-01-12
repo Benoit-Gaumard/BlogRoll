@@ -1,6 +1,6 @@
 # BlogRoll
 
-A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
+A curated list of  blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 
 This list contains anything that can help with your **Microsoft Azure architecture** and quickly get you up and running when designing, planning, and implementing services that empower organisations around the planet to achieve more.
 
@@ -412,6 +412,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 **ContentCollateral**
 * https://github.com/mrpaulandrew/ContentCollateral
 * Content Collateral. Azure Images, icons, diagram, etc for various content.
+
+- [Azure Icons Libraries for Diagrams.net (Draw.io)](https://pacodelacruz.io/azure-icons-library-diagrams-net)
 
 ## :page_with_curl: Tips and tricks
 
