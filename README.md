@@ -228,15 +228,15 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#Table-Of-Contents)
 
 - [Azure Orphan Resources workbook](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198)
-- [Network Security Dashboard for Microsoft Defender for Cloud*](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard)
-- [CCO GitHub Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard)
+- [Network Security Dashboard for Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard)
+- [CCO GitHub Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard) :fire:
 - [CCO ADO Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard)
 
 ## :octocat: GitHub
 
 [Back To Top](#Table-Of-Contents)
 
-- [GitHub emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [GitHub emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :fire:
 - [Build your own octocat](https://myoctocat.com/build-your-octocat/)
 - [Bitmoji](https://www.bitmoji.com/stickers/)
 
@@ -246,45 +246,30 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer](https://www.microsoft.com/en-us/download/details.aspx?id=41937)
 - [sandroasp Icon Set](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/tree/master/Azure)
-- [David-Summers Icon Set](https://github.com/David-Summers/Azure-Design)
-- [*Azure Docs collection](http://code.benco.io/icon-collection/azure-docs/)
-- [Azure Icons collection**](http://code.benco.io/icon-collection/azure-icons/)
-- [Azure Patterns collection**](http://code.benco.io/icon-collection/azure-patterns/)
+- [David-Summers Icon Set](https://github.com/David-Summers/Azure-Design) :fire:
+- [Azure Docs collection](http://code.benco.io/icon-collection/azure-docs/)
+- [Azure Icons collection](http://code.benco.io/icon-collection/azure-icons/) :fire:
+- [Azure Patterns collection](http://code.benco.io/icon-collection/azure-patterns/)
 - [Azure cds Collection](http://code.benco.io/icon-collection/azure-cds/)
 - [ContentCollateral](https://github.com/mrpaulandrew/ContentCollateral)
-- [Azure Icons Libraries for Diagrams.net (Draw.io)](https://pacodelacruz.io/azure-icons-library-diagrams-net)
+- [Azure Icons Libraries for Diagrams.net (Draw.io)](https://pacodelacruz.io/azure-icons-library-diagrams-net) :fire:
 
 ## :page_with_curl: Tips and tricks
 
-**Azure Tips and Tricks**
-* https://microsoft.github.io/AzureTipsAndTricks/
-* Azure Tips and Tricks.
+[Back To Top](#Table-Of-Contents)
 
-**Azure Cloud Shell Web**
-* https://microsoft.github.io/AzureTipsAndTricks/
-*  Azure Cloud Shell Web.
+- [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
+- [Azure Cloud Shell Web](https://shell.azure.com/)
 
 ## :police_car: Compliance
 
-**Microsoft compliance offerings**
-* https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide
-* Microsoft compliance offerings.
+[Back To Top](#Table-Of-Contents)
 
-**Microsoft Privacy Statement**
-* https://privacy.microsoft.com/en-us/privacystatement
-*  Microsoft Privacy Statement.
-
-**Microsoft trust center**
-* https://www.microsoft.com/en-us/trust-center
-* Microsoft trust center.
-
-**Service trust portal**
-* https://servicetrust.microsoft.com/
-* Service trust portal.
-
-**Compliance Manager portal**
-* https://servicetrust.microsoft.com/ComplianceManager/V3#
-* Compliance Manager portal.
+- [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide)
+- [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement)
+- [Microsoft trust center](https://www.microsoft.com/en-us/trust-center)
+- [Service trust portal](https://servicetrust.microsoft.com/)
+- [Compliance Manager portal](https://servicetrust.microsoft.com/ComplianceManager/V3#)
 
 ## :computer: Virtual machines
 
