@@ -53,6 +53,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Cost optimization pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview)
 
 ## :information_source: Informations
+
 [Back To Top](#Table-Of-Contents)
 
 - [Azure Updates](https://azure.microsoft.com/en-us/updates/) :fire:
@@ -61,14 +62,16 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [AzureFeeds](https://azurefeeds.com/)
 
 ## :information_source: Services
+
 [Back To Top](#Table-Of-Contents)
 
-- [Azure Charts](https://azurecharts.com/)
+- [Azure Charts](https://azurecharts.com/) :fire:
 - [Azure Periodic table](https://azureperiodic.data3.com)
 - [Azure Services io](https://azureservices.io)
 - [Azure deprecation DashBoard](https://github.com/azure-deprecation/dashboard/issues)
 
 ## :cop: Policies
+
 [Back To Top](#Table-Of-Contents)
 
 - [Windows using Guest Configuration](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026)
@@ -84,6 +87,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Configure centralized policy management](https://www.cloudpartner.fi/?p=7015)
 
 ## :sun_behind_small_cloud: Services state
+
 [Back To Top](#Table-Of-Contents)
 
 - [Azure Status](https://status.azure.com/) :fire:
@@ -94,6 +98,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :heavy_plus_sign: Cloud Services Comparison
 
+[Back To Top](#Table-Of-Contents)
+
 - [Public Cloud Services Comparison](https://comparecloud.in/)
 - [Azure VM Comparison](https://azureprice.net/)
 - [Compare AWS and Azure services to Google Cloud](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q2-Product-Mapping-Blog&utm_content=documentation)
@@ -102,200 +108,81 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :rocket: DevOps
 
-- [learn git branching](https://learngitbranching.js.org/)
+[Back To Top](#Table-Of-Contents)
+
+- [Learn git branching](https://learngitbranching.js.org/) :fire:
 - [Vinijmoura GitHub Repo](https://github.com/vinijmoura/Azure-DevOps)
-- [Raspberry Simulator for IOT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
 - [Azure DevOps Labs](https://azuredevopslabs.com)
-- [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.ne)
+- [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net)
 - [Azure DevOps Organization](https://aex.dev.azure.com/) :fire:
 - [Devops Resources](https://github.com/bregman-arie/devops-resources)
 - [Devops Bookmark](http://www.devopsbookmarks.com/cloud-paas)
 - [Devops roadmap](https://roadmap.sh/)
-- [DevSecOps table](https://devsecopstable.z6.web.core.windows.net/)
+- [The Microsoft Azure Developer's Cheat Sheet](https://github.com/milanm/azure-cheat-sheet)
+
 
 ## :large_blue_diamond: Azure Active Directory
 
-**Azure AD where is your data located**
-* https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9
-*  Azure AD where is your data located?
-
-**Tenant availability check**
-* https://account.azure.com/organization
-* Tenant availability check.
-
-**Tenant availability check**
-* https://o365.rocks/
-* Tenant availability check.
-
-**Azure AD pricing**
-* https://azure.microsoft.com/en-us/pricing/details/active-directory/
-* Azure AD pricing.
-
-**Interactive authentication**
-* https://microsoft.com/devicelogin/
-* Interactive authentication.
-
-**Azure Active Directory admin center**
-* http://aad.portal.azure.com
-*  Azure Active Directory admin center.
-
-**Azure AD Exporter**
-* https://github.com/microsoft/azureadexporter/
-* Azure AD Exporter.
-
-**Azure AD Big Picture**
-* https://raw.githubusercontent.com/msandbu/azuread/main/AzureAD%20Big%20picture.jpg
-* Azure AD Big Picture.
+- [Azure AD where is your data located](https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
+- [Tenant availability check 1](https://account.azure.com/organization)
+- [Tenant availability check 2](https://o365.rocks/)
+- [Azure AD pricing](https://azure.microsoft.com/en-us/pricing/details/active-directory/)
+- [Interactive authentication](https://microsoft.com/devicelogin/)
+- [Azure Active Directory admin center](http://aad.portal.azure.com) :fire:
+- [Azure AD Exporter](https://github.com/microsoft/azureadexporter/)
+- [Azure AD Big Picture](https://raw.githubusercontent.com/msandbu/azuread/main/)AzureAD%20Big%20picture.jpg
 
 ## :open_file_folder: Misc
 
-**Azure Mask**
-* https://github.com/clarkio/azure-mask
-* Browser extension to mask GUIDs (such as Subscription IDs), email addresses, keys, and connection strings with a blur.
+- [Azure Mask](https://github.com/clarkio/azure-mask)
+- [Raspberry Simulator for IOT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
 
 ## :seedling: Sustainability
 
-**Microsoft Emissions Impact Dashboard**
-* https://azure.microsoft.com/es-es/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/
-* Microsoft Emissions Impact Dashboard.
+- [Microsoft Emissions Impact Dashboard](https://azure.microsoft.com/es-es/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/)
 
 ## :cloud: HA and DR
 
-**Azure Geographies and regions**
-* https://azure.microsoft.com/en-us/global-infrastructure/geographies/
-* Azure Geographies and regions.
-
-**Azure cross regions replication**
-* https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure
-* Azure cross regions replication.
-
-**Azure regions and availability zones**
-* https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones
-* Azure regions and availability zones.
+- [Azure Geographies and regions](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
+- [Azure cross regions replication](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure)
+- [Azure regions and availability zones](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
 
 ## :classical_building:  Architecture
 
 [Back To Top](#Table-Of-Contents)
 
 - [Microsoft Cloud Workshop library](https://microsoftcloudworkshop.com/)
-
-**White papers**
-* https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource
-* White papers.
-
-**Azure feedback**
-* https://feedback.azure.com/d365community
-* Azure feedback.
-
-**Azure datacenter map**
-* http://azuredatacentermap.azurewebsites.net/
-* Azure datacenter map.
-
-**Microsoft Cybersecurity Reference Architectures (MCRA)**
-* https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
-* Microsoft Cybersecurity Reference Architectures (MCRA).
-
-**Azure subscription and service limits, quotas, and constraints**
-* https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
-* Azure subscription and service limits, quotas, and constraints.
-
-**Azure Cloud Adoption Framework (CAF)**
-* https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
-* Cloud Adoption Framework (CAF).
-
+- [White papers](https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource)
+- [Microsoft Cybersecurity Reference Architectures (MCRA)](https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra) :fire:
+- [Azure subscription and service limits, quotas, and constraints](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
+- [Azure Cloud Adoption Framework (CAF)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) :fire:
 - [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/)
-
-**Azure Survival Guide**
-* https://social.technet.microsoft.com/wiki/contents/articles/630.microsoft-azure-survival-guide.aspx
-* Azure Survival Guide.
-
-**Azure Subscription Design**
-* https://social.technet.microsoft.com/wiki/contents/articles/33800.azure-iaas-v2-arm-design-series-azure-subscriptions.aspx
-* Azure Subscription Design.
-
-**Azure Offers**
-* https://azure.microsoft.com/en-us/support/legal/offer-details/
-* Azure Offers.
-
-**Subscription decision guide**
-* https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/
-* Subscription decision guide.
-
-**Azure Built In roles**
-* https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
-*  Azure Built In roles.
-
-**Azure Reference Architectures**
-* https://docs.microsoft.com/en-us/azure/architecture/browse/
-* Azure Reference Architectures.
-
-**Cloud adoption antipatterns**
-*  https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/antipatterns-to-avoid
-* Cloud adoption antipatterns.
-
-**Azure Customer Advisory Team (CAT)**
-* https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT
-* Azure Customer Advisory Team
-
-**SLA for Azure services**
-* https://azure.microsoft.com/en-us/support/legal/sla/summary/
-* SLA for Azure services
-
-**SLA Calculator**
-* https://uptime.is/
-* SLA Calculator
-
-**Azure Preview portal**
-* https://preview.portal.azure.com
-* Azure Preview portal
-
-**Azure RC portal**
-* https://rc.portal.azure.com/
-* Azure RC portal
-
-**Microsoft portals**
-* https://www.nuno-silva.net/microsoft-365-portals
-* Microsoft portals
-
-**Microsoft portals 2**
-* https://www.moderndeployment.com/microsoft-azure-management-urls/
-* Microsoft portals 2
-
+- [Azure Survival Guide](https://social.technet.microsoft.com/wiki/contents/articles/630.microsoft-azure-survival-guide.aspx)
+- [Azure Subscription Design](https://social.technet.microsoft.com/wiki/contents/articles/33800.azure-iaas-v2-arm-design-series-azure-subscriptions.aspx)
+- [Azure Offers](https://azure.microsoft.com/en-us/support/legal/offer-details/)
+- [Subscription decision guide](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/)
+- [Azure Built In roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
+- [Azure Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/browse/) :fire:
+- [Cloud adoption antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/antipatterns-to-avoid)
+- [Azure Customer Advisory Team (CAT)](https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT)
+- [SLA for Azure services](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
+- [SLA Calculator](https://uptime.is/)
+- [Azure Preview portal](https://preview.portal.azure.com)
+- [Azure RC portal](https://rc.portal.azure.com/)
+- [Microsoft portals](https://www.nuno-silva.net/microsoft-365-portals)
+- [Microsoft portals 2](https://www.moderndeployment.com/microsoft-azure-management-urls/)
+- [Azure portals 3](https://cmd.ms/)
 - [Microsoft Administrator Portals](https://msportals.io)
-
-**Azure supported workloads**
-* https://docs.microsoft.com/en-US/troubleshoot/azure/virtual-machines/server-software-support
-* Azure supported workloads
-
-**awesome-azure-architecture**
-* https://github.com/lukemurraynz/awesome-azure-architecture
-* awesome-azure-architecture
-
-**Microsoft Assessments**
-* https://docs.microsoft.com/en-us/assessments/?mode=home
-* Microsoft Assessments
-
-**The Microsoft Azure Developer's Cheat Sheet**
-* https://github.com/milanm/azure-cheat-sheet
-* The Microsoft Azure Developer's Cheat Sheet
-
-**docsupdatetracker**
-* https://docsupdatetracker.net/
-* Goal of this project is to provide a way to keep up with the ever changing Microsoft documentation on Microsoft Azure, Microsoft 365 and the Microsoft Graph.
-
-**Azure portals 3**
-* https://cmd.ms/
-* Use the power of your browser's address bar to quickly get to your favorite blade in Azure, Microsoft 365, Azure AD, Intune...
+- [Azure supported workloads](https://docs.microsoft.com/en-US/troubleshoot/azure/virtual-machines/server-software-support)
+- [awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture)
+- [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/?mode=home)
+- [docsupdatetracker](https://docsupdatetracker.net/)
 
 ## :house: Support
 
-**Azure Support plans**
-* https://azure.microsoft.com/en-us/support/plans/
-* Azure Support plans
-
-**Azure community support**
-* https://docs.microsoft.com/en-us/answers/products/azure?product=all
-* Azure community support
+- [Azure Support plans](https://azure.microsoft.com/en-us/support/plans/)
+- [Azure community support](https://docs.microsoft.com/en-us/answers/products/azure?product=all)
+- [Azure feedback](https://feedback.azure.com/d365community) :fire:
 
 ## :house: Governance
 
