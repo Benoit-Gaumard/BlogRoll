@@ -19,17 +19,24 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Active Directory](#large_blue_diamond-Azure-Active-Directory)
 - [Misc](#open_file_folder-Misc)
 - [Sustainability](#seedling-Sustainability)
-- [HA-and-DR](#cloud-HA-and-DR)
+- [HA and DR](#cloud-HA-and-DR)
 - [Architecture](#classical_building-Architecture)
-- [Updates and RSS feeds](#house-Updates-and-RSS-feeds)
 - [Support](#house-Support)
 - [Governance](#house-Governance)
 - [Videos](#books-Videos)
 - [DashBoards](#books-DashBoards)
 - [GitHub](#octocat-GitHub)
 - [Stencils and icons](#black_nib-Stencils-and-icons)
+- [Tips and tricks](#page_with_curl-tips-and-tricks)
+- [Compliance](#police_car-compliance)
+- [Virtual Machines](#computer-virtual-machines)
 - [Virtual Machines Scale Set (VMSS)](#arrow_upper_right-Virtual-Machines-Scale-Set-(VMSS))
+- [ARM](#a-arm)
+- [Learning](#teacher-learning)
 - [Analytics and monitoring](#stopwatch-Analytics-and-monitoring)
+- [Security](#ninja-security)
+- [Terraform](#ninja-terraform)
+- [Web](#ninja-web)
 
 > Links below are from official and custom sources.
 
@@ -214,68 +221,36 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 [Back To Top](#Table-Of-Contents)
 
-**Azure Academy**
-* https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ
-* Azure Academy
+- [Azure Academy](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
 
 ## :books: DashBoards
 
-**Azure Orphan Resources workbook**
-* https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198
-* Azure Orphan Resources workbook
+[Back To Top](#Table-Of-Contents)
 
-**Network Security Dashboard for Microsoft Defender for Cloud**
-* https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard
-* Network Security Dashboard for Microsoft Defender for Cloud.
-
-**CCO GitHub Contributions Dashboard**
-* https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard
-* CCO GitHub Contributions Dashboard.
-
-**CCO ADO Contributions Dashboard**
-* https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard
-* CCO ADO Contributions Dashboard.
+- [Azure Orphan Resources workbook](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198)
+- [Network Security Dashboard for Microsoft Defender for Cloud*](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard)
+- [CCO GitHub Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard)
+- [CCO ADO Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard)
 
 ## :octocat: GitHub
 
-**GitHub emoji cheat sheet**
-* https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-*  GitHub emoji cheat sheet.
+[Back To Top](#Table-Of-Contents)
 
-**Build your own octocat**
-* https://myoctocat.com/build-your-octocat/
-* Build your own octocat.
-
-**Bitmoji**
-* https://www.bitmoji.com/stickers/
-* Bitmoji.
+- [GitHub emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Build your own octocat](https://myoctocat.com/build-your-octocat/)
+- [Bitmoji](https://www.bitmoji.com/stickers/)
 
 ## :black_nib: Visio stencils ans icons
 
 [Back To Top](#Table-Of-Contents)
 
-- [Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer](https://www.microsoft.com/en-us/download/details.aspx?id=41937
-* Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer.
-
-- [sandroasp Icon Set](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/tree/master/Azure
-* sandroasp Icon Set.
-
-- [David-Summers Icon Set](https://github.com/David-Summers/Azure-Design
-* David-Summers Icon Set.
-
-- [*Azure Icons 1**
-* http://code.benco.io/icon-collection/azure-docs/
-* Azure Docs collection.
-
-- [Azure Icons collection**](http://code.benco.io/icon-collection/azure-icons/
-* Azure Icons collection.
-
-- [Azure Patterns collection**](http://code.benco.io/icon-collection/azure-patterns/
-* Azure Patterns Collection.
-
-- [Azure cds Collection](http://code.benco.io/icon-collection/azure-cds/
-* Azure cds Collection.
-
+- [Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer](https://www.microsoft.com/en-us/download/details.aspx?id=41937)
+- [sandroasp Icon Set](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/tree/master/Azure)
+- [David-Summers Icon Set](https://github.com/David-Summers/Azure-Design)
+- [*Azure Docs collection](http://code.benco.io/icon-collection/azure-docs/)
+- [Azure Icons collection**](http://code.benco.io/icon-collection/azure-icons/)
+- [Azure Patterns collection**](http://code.benco.io/icon-collection/azure-patterns/)
+- [Azure cds Collection](http://code.benco.io/icon-collection/azure-cds/)
 - [ContentCollateral](https://github.com/mrpaulandrew/ContentCollateral)
 - [Azure Icons Libraries for Diagrams.net (Draw.io)](https://pacodelacruz.io/azure-icons-library-diagrams-net)
 
