@@ -172,6 +172,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :classical_building:  Architecture
 
+[Back To Top](#Table-Of-Contents)
+
 **White papers**
 * https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource
 * White papers.
@@ -381,38 +383,31 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :black_nib: Visio stencils ans icons
 
-**Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer**
-* https://www.microsoft.com/en-us/download/details.aspx?id=41937
+[Back To Top](#Table-Of-Contents)
+
+- [Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer](https://www.microsoft.com/en-us/download/details.aspx?id=41937
 * Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer.
 
-**sandroasp Icon Set**
-* https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/tree/master/Azure
+- [sandroasp Icon Set](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/tree/master/Azure
 * sandroasp Icon Set.
 
-**David-Summers Icon Set**
-* https://github.com/David-Summers/Azure-Design
+- [David-Summers Icon Set](https://github.com/David-Summers/Azure-Design
 * David-Summers Icon Set.
 
-**Azure Icons 1**
+- [*Azure Icons 1**
 * http://code.benco.io/icon-collection/azure-docs/
 * Azure Docs collection.
 
-**Azure Icons collection**
-* http://code.benco.io/icon-collection/azure-icons/
+- [Azure Icons collection**](http://code.benco.io/icon-collection/azure-icons/
 * Azure Icons collection.
 
-**Azure Patterns collection**
-* http://code.benco.io/icon-collection/azure-patterns/
+- [Azure Patterns collection**](http://code.benco.io/icon-collection/azure-patterns/
 * Azure Patterns Collection.
 
-**Azure cds Collection**
-* http://code.benco.io/icon-collection/azure-cds/
+- [Azure cds Collection](http://code.benco.io/icon-collection/azure-cds/
 * Azure cds Collection.
 
-**ContentCollateral**
-* https://github.com/mrpaulandrew/ContentCollateral
-* Content Collateral. Azure Images, icons, diagram, etc for various content.
-
+- [ContentCollateral](https://github.com/mrpaulandrew/ContentCollateral)
 - [Azure Icons Libraries for Diagrams.net (Draw.io)](https://pacodelacruz.io/azure-icons-library-diagrams-net)
 
 ## :page_with_curl: Tips and tricks
@@ -607,5 +602,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * https://myapps.microsoft.com/
 * MyApps
 
+## Fun Images
+- [Goodtechthings.com](https://www.goodtechthings.com/)
 
 
