@@ -34,8 +34,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [ARM](#a-arm)
 - [Analytics and monitoring](#stopwatch-Analytics-and-monitoring)
 - [Security](#ninja-security)
-- [Terraform](#ninja-terraform)
-- [Web](#computer-web)
+- [Terraform](#technologist-terraform)
+- [Web](#globe_with_meridians-web)
 
 > Links below are from official and custom sources.
 
@@ -309,73 +309,31 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :ninja: Security
 
-**Azucar**
-* https://github.com/nccgroup/azucar
-* Azucar Security Auditing Tool for Azure.
+[Back To Top](#Table-Of-Contents)
 
-**Secure DevOps Kit**
-* https://github.com/azsk/DevOpsKit-docs
-* Secure DevOps Kit for Azure.
+- [Azucar](https://github.com/nccgroup/azucar)
+- [Secure DevOps Kit](https://github.com/azsk/DevOpsKit-docs)
+- [Skyark](https://github.com/cyberark/SkyArk)
+- [MicroBurst](https://github.com/NetSPI/MicroBurst)
+- [Stormspotter](https://github.com/Azure/Stormspotter)
+- [Cloud Katana](https://github.com/Azure/Cloud-Katana)
+- [Azure Security Control Mappings to MITRE ATT&CK®](https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html)
+- [Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/)
+- [Azure Hunter](https://github.com/darkquasar/AzureHunter)
+- [Microsoft Security Response Center (MSRC)](https://msrc.microsoft.com/update-guide/vulnerability)
+- [Azure Review CheckList](https://github.com/Azure/review-checklists)
+- [CloudSploit Security Remediation Guides](https://github.com/aquasecurity/cloud-security-remediation-guides)
+- [Identifying & Exploiting Leaked Azure Storage Keys](https://notsosecure.com/identifying-exploiting-leaked-azure-storage-keys)
 
-**Skyark**
-* https://github.com/cyberark/SkyArk
-* Skyark.
+## :technologist: Terraform
 
-**MicroBurst**
-* https://github.com/NetSPI/MicroBurst
-* MicroBurst.
+[Back To Top](#Table-Of-Contents)
 
-**Stormspotter**
-* https://github.com/Azure/Stormspotter
-* Stormspotter.
+- [aztfy](https://github.com/Azure/aztfy)
+- [Azure terraform-azurerm-caf-enterprise-scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki)
+- [Azure caf-terraform-landingzones](https://github.com/azure/caf-terraform-landingzones)
 
-**Cloud Katana**
-* https://github.com/Azure/Cloud-Katana
-* Cloud Katana.
-
-**Azure Security Control Mappings to MITRE ATT&CK®**
-* https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html
-* Azure Security Control Mappings to MITRE ATT&CK®.
-
-**Network-segmentation-cheat-sheet**
-* https://github.com/sergiomarotco/
-* Network-segmentation-cheat-sheet.
-
-**Azure Hunter.**
-* https://github.com/darkquasar/AzureHunter
-* Azure Hunter.
-
-**Microsoft Security Response Center (MSRC)**
-* https://msrc.microsoft.com/update-guide/vulnerability
-* Microsoft Security Response Center.
-
-**Azure Review CheckList**
-* https://github.com/Azure/review-checklists
-* Azure Review CheckList
-
-**CloudSploit Security Remediation Guides**
-* https://github.com/aquasecurity/cloud-security-remediation-guides
-* CloudSploit Security Remediation Guides
-
-**Identifying & Exploiting Leaked Azure Storage Keys
-* https://notsosecure.com/identifying-exploiting-leaked-azure-storage-keys
-* Identifying & Exploiting Leaked Azure Storage Keys
-
-## :ninja: Terraform
-
-**aztfy**
-* https://github.com/Azure/aztfy
-* A tool to bring your existing Azure resources under the management of Terraform.
-
-**Azure terraform-azurerm-caf-enterprise-scale**
-* https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki
-* The Azure landing zones Terraform module provides an opinionated approach for deploying and managing the core platform capabilities of Azure landing zones architecture using Terraform.
-
-**Azure caf-terraform-landingzones**
-* https://github.com/azure/caf-terraform-landingzones
-* Cloud Adoption Framework for Azure Terraform landing zones
-
-## :computer: Web
+## :globe_with_meridians: Web
 
 [Back To Top](#Table-Of-Contents)
 
@@ -384,6 +342,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [MyApps](https://myapps.microsoft.com/)
 
 ## Fun Images
+
 - [Goodtechthings.com](https://www.goodtechthings.com/)
 
 
