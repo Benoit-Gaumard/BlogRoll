@@ -292,12 +292,16 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :a: ARM
 
+[Back To Top](#Table-Of-Contents)
+
 - [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
 - [ARMViz](http://armviz.io)
 - [Azure resource explorer](https://resources.azure.com/)
 - [Rest API Browser](https://docs.microsoft.com/en-us/rest/api/?view=Azure) :fire:
 
 ## :stopwatch: Analytics and monitoring
+
+[Back To Top](#Table-Of-Contents)
 
 - [Log Analytics Query Portal](https://portal.loganalytics.io/demo#/query/main)
 - [Kusto explorer](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer)
