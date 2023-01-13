@@ -32,11 +32,10 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Virtual Machines](#computer-virtual-machines)
 - [Virtual Machines Scale Set (VMSS)](#arrow_upper_right-Virtual-Machines-Scale-Set-(VMSS))
 - [ARM](#a-arm)
-- [Learning](#teacher-learning)
 - [Analytics and monitoring](#stopwatch-Analytics-and-monitoring)
 - [Security](#ninja-security)
 - [Terraform](#ninja-terraform)
-- [Web](#ninja-web)
+- [Web](#computer-web)
 
 > Links below are from official and custom sources.
 
@@ -376,19 +375,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 * https://github.com/azure/caf-terraform-landingzones
 * Cloud Adoption Framework for Azure Terraform landing zones
 
-## :ninja: Web
+## :computer: Web
 
-**Whirl CSS**
-* https://whirl.netlify.app/
-* Whirl CSS loading animations.
+[Back To Top](#Table-Of-Contents)
 
-**jsoncrack**
-* https://jsoncrack.com/
-* eamlessly visualize your JSON data instantly into graphs.
-
-**MyApps**
-* https://myapps.microsoft.com/
-* MyApps
+- [Whirl CSS](https://whirl.netlify.app/)
+- [jsoncrack](https://jsoncrack.com/)
+- [MyApps](https://myapps.microsoft.com/)
 
 ## Fun Images
 - [Goodtechthings.com](https://www.goodtechthings.com/)
