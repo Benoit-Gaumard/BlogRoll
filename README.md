@@ -46,6 +46,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Official certifications training poster](https://aka.ms/TrainCertPoster) :fire:
 - [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 ## :euro: FinOps
 
@@ -67,6 +68,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
 - [Azure Weekly](https://azureweekly.info/)
 - [AzureFeeds](https://azurefeeds.com/)
+- [Official Microsoft Team Blogs](https://docs.microsoft.com/en-us/archive/blogs/blogms/official-microsoft-team-blogs-microsoft-blogs) :fire:
 
 ## :information_source: Services
 
@@ -273,83 +275,34 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :computer: Virtual machines
 
-**Azure VM sizes**
-* https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general
-* Azure VM sizes.
+[Back To Top](#Table-Of-Contents)
 
-**Start / Stop VMs 1**
-* https://automys.com/library/asset/scheduled-virtual-machine-shutdown-startup-microsoft-azure
-* Start / Stop VMs.
-
-**Start / Stop VMs 2**
-* https://github.com/tomasrudh/AutoShutdownSchedule#automation-account-configuration
-* Start / Stop VMs.
-
-**Azureprice**
-* https://azureprice.net/
-* Azure VM Comparison.
-
-**Virtual machines selector**
-* https://azure.microsoft.com/en-us/pricing/vm-selector/
-* irtual machines selector.
+- [Azure VM sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general)
+- [Start / Stop VMs 1](https://automys.com/library/asset/scheduled-virtual-machine-shutdown-startup-microsoft-azure)
+- [*Start / Stop VMs 2](https://github.com/tomasrudh/AutoShutdownSchedule#automation-account-configuration)
+- [Azureprice](https://azureprice.net/)
+- [Virtual machines selector](https://azure.microsoft.com/en-us/pricing/vm-selector/) :fire:
 
 ## :arrow_upper_right: Virtual Machines Scale Set (VMSS)
 
-**vmssdashboard**
-* https://github.com/gbowerman/vmssdashboard
-* Virtual machine scale set editor dashboard.
+[Back To Top](#Table-Of-Contents)
 
-**asciivmssdashboard**
-* https://github.com/msleal/asciivmssdashboard
-* Virtual machine scale set editor dashboard ascii.
+- [vmssdashboard](https://github.com/gbowerman/vmssdashboard)
+- [asciivmssdashboard](https://github.com/msleal/asciivmssdashboard)
 
 ## :a: ARM
 
-**Azure Quickstart Templates**
-* https://azure.microsoft.com/en-us/resources/templates/
-* Azure Quickstart Templates.
-
-**armviz**
-* http://armviz.io/designer
-* Visualize your Azure ARM template dependencies as a tree.
-
-**Azure resource explorer**
-* https://resources.azure.com/
-* Azure resource explorer.
-
-**Rest API Browser**
-* https://docs.microsoft.com/en-us/rest/api/?view=Azure
-* Rest API Browser.
-
-## :teacher: Learning
-
-**Microsoft Learn**
-* https://docs.microsoft.com/en-us/learn/
-* Microsoft Learn.
-
-**Official Microsoft Team Blogs**
-* https://docs.microsoft.com/en-us/archive/blogs/blogms/official-microsoft-team-blogs-microsoft-blogs
-* Official Microsoft Team Blogs / Microsoft Blogs.
+- [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
+- [ARMViz](http://armviz.io)
+- [Azure resource explorer](https://resources.azure.com/)
+- [Rest API Browser](https://docs.microsoft.com/en-us/rest/api/?view=Azure) :fire:
 
 ## :stopwatch: Analytics and monitoring
 
-**Log Analytics Query Portal**
-* https://portal.loganalytics.io/demo#/query/main
-* Log Analytics Query Portal.
-
-**Kusto explorer**
-* https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer
-* Kusto explorer.
-
-**Monitoring Azure by using Grafana dashboards**
-* https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/
-* Monitoring Azure by using Grafana dashboards.
-
-**Azure Monitor Community**
-* https://github.com/microsoft/AzureMonitorCommunity
-* Azure Monitor Community.
-
-
+- [Log Analytics Query Portal](https://portal.loganalytics.io/demo#/query/main)
+- [Kusto explorer](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer)
+- [Monitoring Azure by using Grafana dashboards](https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/)
+- [Azure Monitor Community](https://github.com/microsoft/AzureMonitorCommunity) :fire:
 
 ## :ninja: Security
 
