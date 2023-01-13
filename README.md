@@ -312,6 +312,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#Table-Of-Contents)
 
 - [Azucar](https://github.com/nccgroup/azucar)
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 - [Secure DevOps Kit](https://github.com/azsk/DevOpsKit-docs)
 - [Skyark](https://github.com/cyberark/SkyArk)
 - [MicroBurst](https://github.com/NetSPI/MicroBurst)
