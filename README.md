@@ -189,6 +189,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft portals 2](https://www.moderndeployment.com/microsoft-azure-management-urls/)
 - [Azure portals 3](https://cmd.ms/)
 - [Microsoft Administrator Portals](https://msportals.io)
+- [MyApps](https://myapps.microsoft.com/)
 - [Azure supported workloads](https://docs.microsoft.com/en-US/troubleshoot/azure/virtual-machines/server-software-support)
 - [awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture)
 - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/?mode=home)
@@ -340,7 +341,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Whirl CSS](https://whirl.netlify.app/)
 - [jsoncrack](https://jsoncrack.com/)
-- [MyApps](https://myapps.microsoft.com/)
+- [CSS Tree exemple](https://onaircode.com/html-css-tree-view-examples/)
 
 ## Fun Images
 
