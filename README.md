@@ -46,6 +46,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Official certifications training poster](https://aka.ms/TrainCertPoster) :fire:
 - [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+- [Exam Sandbox, demo the Microsoft exam experience](https://aka.ms/examdemo)
 
 ## :euro: FinOps
 
@@ -194,6 +195,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture)
 - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/?mode=home)
 - [docsupdatetracker](https://docsupdatetracker.net/)
+- [Landing Zone mission-critical](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
 
 ## :house: Support
 
@@ -218,6 +220,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Naming Tool](https://github.com/microsoft/CloudAdoptionFramework/tree/master/ready/AzNamingTool)
 - [Azure Periodic Table of Resource Naming Convention](https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/) :fire:
 - [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+- [The perfect Azure naming convention](https://www.devjev.nl/posts/2022/the-perfect-azure-naming-convention/)
 
 ## :books: Videos
 
