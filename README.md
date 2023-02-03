@@ -100,6 +100,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#Table-Of-Contents)
 
 - [Azure Status](https://status.azure.com/) :fire:
+- [New Azure Status](https://azure.status.microsoft/en-us/status) :fire:
 - [Azure Infrastructure Map](https://infrastructuremap.microsoft.com/) :fire:
 - [Azure Speed Test 2.0](http://azurespeedtest.azurewebsites.net)
 - [AzSpeedTest Powershell](https://github.com/devblackops/AzSpeedTest)
@@ -196,6 +197,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/?mode=home)
 - [docsupdatetracker](https://docsupdatetracker.net/)
 - [Landing Zone mission-critical](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
+- [Azure Networking Map](https://techcommunity.microsoft.com/t5/azure-networking-blog/the-azure-networking-map/ba-p/3706001)
+
 
 ## :house: Support
 
@@ -329,6 +332,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Review CheckList](https://github.com/Azure/review-checklists)
 - [CloudSploit Security Remediation Guides](https://github.com/aquasecurity/cloud-security-remediation-guides)
 - [Identifying & Exploiting Leaked Azure Storage Keys](https://notsosecure.com/identifying-exploiting-leaked-azure-storage-keys)
+- [cloud security vulnerabilities](https://github.com/hashishrajan/cloud-security-vulnerabilities)
 
 ## :technologist: Terraform
 
