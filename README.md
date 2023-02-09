@@ -59,6 +59,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Optimization Engine (AOE)](https://github.com/helderpinto/AzureOptimizationEngine)
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622)
 - [Cost optimization pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview)
+- [Azure Cost Reporting PBI](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
 
 ## :information_source: Informations
 
