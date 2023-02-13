@@ -35,7 +35,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Analytics and monitoring](#stopwatch-Analytics-and-monitoring)
 - [Security](#ninja-security)
 - [Terraform](#technologist-terraform)
-- [Web](#globe_with_meridians-web)
+- [Web](#earth_africa-web)
+- [Network](#globe_with_meridians-network)
 
 > Links below are from official and custom sources.
 
@@ -198,7 +199,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/?mode=home)
 - [docsupdatetracker](https://docsupdatetracker.net/)
 - [Landing Zone mission-critical](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
-- [Azure Networking Map](https://techcommunity.microsoft.com/t5/azure-networking-blog/the-azure-networking-map/ba-p/3706001)
+
 
 
 ## :house: Support
@@ -262,6 +263,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure cds Collection](http://code.benco.io/icon-collection/azure-cds/)
 - [ContentCollateral](https://github.com/mrpaulandrew/ContentCollateral)
 - [Azure Icons Libraries for Diagrams.net (Draw.io)](https://pacodelacruz.io/azure-icons-library-diagrams-net) :fire:
+- [Azure architecture SVG icons](https://learn.microsoft.com/en-us/azure/architecture/icons/) :fire:
 
 ## :page_with_curl: Tips and tricks
 
@@ -314,6 +316,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Kusto explorer](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer)
 - [Monitoring Azure by using Grafana dashboards](https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/)
 - [Azure Monitor Community](https://github.com/microsoft/AzureMonitorCommunity) :fire:
+- [Log Analytics cost](https://trstringer.com/log-analytics-expensive-part-1-discovery/)
 
 ## :ninja: Security
 
@@ -327,7 +330,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Stormspotter](https://github.com/Azure/Stormspotter)
 - [Cloud Katana](https://github.com/Azure/Cloud-Katana)
 - [Azure Security Control Mappings to MITRE ATT&CK®](https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html)
-- [Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/)
 - [Azure Hunter](https://github.com/darkquasar/AzureHunter)
 - [Microsoft Security Response Center (MSRC)](https://msrc.microsoft.com/update-guide/vulnerability)
 - [Azure Review CheckList](https://github.com/Azure/review-checklists)
@@ -342,8 +344,10 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [aztfy](https://github.com/Azure/aztfy)
 - [Azure terraform-azurerm-caf-enterprise-scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki)
 - [Azure caf-terraform-landingzones](https://github.com/azure/caf-terraform-landingzones)
+- [Terraform from 0 to hero flaviusdinu](https://techblog.flaviusdinu.com/terraform-from-0-to-hero-0-i-like-to-start-counting-from-0-maybe-i-enjoy-lists-too-much-72cd0b86ebcd
+)
 
-## :globe_with_meridians: Web
+## :earth_africa: Web
 
 [Back To Top](#Table-Of-Contents)
 
@@ -351,8 +355,15 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [jsoncrack](https://jsoncrack.com/)
 - [CSS Tree exemple](https://onaircode.com/html-css-tree-view-examples/)
 
+## :globe_with_meridians: Network
+
+[Back To Top](#Table-Of-Contents)
+
+- [Azure Networking Map](https://techcommunity.microsoft.com/t5/azure-networking-blog/the-azure-networking-map/ba-p/3706001)
+- [Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/)
+- [Azure Network-Security GitHub Repo](https://github.com/Azure/Azure-Network-Security)
+- [Azure Networking GitHub Repo](https://github.com/nehalineogi/azure-networking)
+
 ## Fun Images
 
 - [Goodtechthings.com](https://www.goodtechthings.com/)
-
-
