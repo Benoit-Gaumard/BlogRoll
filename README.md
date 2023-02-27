@@ -61,6 +61,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622)
 - [Cost optimization pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview)
 - [Azure Cost Reporting PBI](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
+- [Project Bose: Cost of an Enterprise by cost centers, divisions](https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295)
+
+
 
 ## :information_source: Informations
 
@@ -143,7 +146,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Interactive authentication](https://microsoft.com/devicelogin/)
 - [Azure Active Directory admin center](http://aad.portal.azure.com) :fire:
 - [Azure AD Exporter](https://github.com/microsoft/azureadexporter/)
-- [Azure AD Big Picture](https://raw.githubusercontent.com/msandbu/azuread/main/)AzureAD%20Big%20picture.jpg
+- [Azure AD Big Picture](https://raw.githubusercontent.com/msandbu/azuread/main/AzureAD%20Big%20picture.jpg)
+- [Microsoft Graph Changelog](https://developer.microsoft.com/en-us/graph/changelog/?search=)
 
 ## :open_file_folder: Misc
 
@@ -363,6 +367,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/)
 - [Azure Network-Security GitHub Repo](https://github.com/Azure/Azure-Network-Security)
 - [Azure Networking GitHub Repo](https://github.com/nehalineogi/azure-networking)
+- [Azure Ipam](https://github.com/Azure/ipam)
+
 
 ## Fun Images
 
