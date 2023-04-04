@@ -23,11 +23,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Architecture](#classical_building-Architecture)
 - [Support](#house-Support)
 - [Governance](#house-Governance)
+- [Tags](#label-Tags)
 - [Videos](#books-Videos)
 - [DashBoards](#books-DashBoards)
 - [GitHub](#octocat-GitHub)
 - [Stencils and icons](#black_nib-Stencils-and-icons)
 - [Tips and tricks](#page_with_curl-tips-and-tricks)
+- [LightHouse](#statue_of_liberty-lighthouse)
 - [Compliance](#police_car-compliance)
 - [Virtual Machines](#computer-virtual-machines)
 - [Virtual Machines Scale Set (VMSS)](#arrow_upper_right-Virtual-Machines-Scale-Set-(VMSS))
@@ -35,6 +37,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Analytics and monitoring](#stopwatch-Analytics-and-monitoring)
 - [Security](#ninja-security)
 - [Terraform](#technologist-terraform)
+- [Bicep](#muscle-bicep)
 - [Web](#earth_africa-web)
 - [Network](#globe_with_meridians-network)
 
@@ -48,6 +51,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 - [Exam Sandbox, demo the Microsoft exam experience](https://aka.ms/examdemo)
+-[Microsoft learn community](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn)
 
 ## :euro: FinOps
 
@@ -148,6 +152,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure AD Exporter](https://github.com/microsoft/azureadexporter/)
 - [Azure AD Big Picture](https://raw.githubusercontent.com/msandbu/azuread/main/AzureAD%20Big%20picture.jpg)
 - [Microsoft Graph Changelog](https://developer.microsoft.com/en-us/graph/changelog/?search=)
+- [Azure AD Security Config Analyzer (AADSCA)](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)
 
 ## :open_file_folder: Misc
 
@@ -228,8 +233,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Raci toolkit](https://github.com/jkstant/AzureRACIToolkit)
 - [Azure Naming Tool](https://github.com/microsoft/CloudAdoptionFramework/tree/master/ready/AzNamingTool)
 - [Azure Periodic Table of Resource Naming Convention](https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/) :fire:
-- [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 - [The perfect Azure naming convention](https://www.devjev.nl/posts/2022/the-perfect-azure-naming-convention/)
+
+## :label: Tags
+
+[Back To Top](#Table-Of-Contents)
+
+- [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 
 ## :books: Videos
 
@@ -245,6 +255,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Network Security Dashboard for Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard)
 - [CCO GitHub Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard) :fire:
 - [CCO ADO Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard)
+- [Azure Hybrid Benefit Workbook](https://github.com/arthurclares/AzureHybridBenefitWorkbook)
 
 ## :octocat: GitHub
 
@@ -275,6 +286,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
 - [Azure Cloud Shell Web](https://shell.azure.com/)
+
+## :statue_of_liberty: LightHouse
+
+[Back To Top](#Table-Of-Contents)
+
+- [Securing Azure Lighthouse with Azure Policy and PIM](https://securecloud.blog/2020/11/13/securing-azure-lighthouse-with-azure-policy-and-azure-privileged-identity-management-for-msps-and-customers/)
+
 
 ## :police_car: Compliance
 
@@ -340,6 +358,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [CloudSploit Security Remediation Guides](https://github.com/aquasecurity/cloud-security-remediation-guides)
 - [Identifying & Exploiting Leaked Azure Storage Keys](https://notsosecure.com/identifying-exploiting-leaked-azure-storage-keys)
 - [cloud security vulnerabilities](https://github.com/hashishrajan/cloud-security-vulnerabilities)
+- [Windows AppLocker Bypass] regsvr32.exe /s /u /i:test.sct scrobj.dll
+- [Cybersecurity-jobs-skills-workshop](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop)
+- [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 
 ## :technologist: Terraform
 
@@ -350,6 +371,14 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure caf-terraform-landingzones](https://github.com/azure/caf-terraform-landingzones)
 - [Terraform from 0 to hero flaviusdinu](https://techblog.flaviusdinu.com/terraform-from-0-to-hero-0-i-like-to-start-counting-from-0-maybe-i-enjoy-lists-too-much-72cd0b86ebcd
 )
+
+- [azure-network-terraform](https://github.com/kaysalawu/azure-network-terraform)
+
+## :muscle:	Bicep
+
+[Back To Top](#Table-Of-Contents)
+
+- [Bicep from 0 to hero](https://github.com/rchaganti/bicepbookexamples)
 
 ## :earth_africa: Web
 
