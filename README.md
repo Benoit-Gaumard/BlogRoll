@@ -37,7 +37,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Analytics and monitoring](#stopwatch-Analytics-and-monitoring)
 - [Security](#ninja-security)
 - [Terraform](#technologist-terraform)
-- [Bicep](#muscle-bicep)
+- [Bicep](#muscle-Bicep)
 - [Web](#earth_africa-web)
 - [Network](#globe_with_meridians-network)
 
@@ -371,10 +371,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure caf-terraform-landingzones](https://github.com/azure/caf-terraform-landingzones)
 - [Terraform from 0 to hero flaviusdinu](https://techblog.flaviusdinu.com/terraform-from-0-to-hero-0-i-like-to-start-counting-from-0-maybe-i-enjoy-lists-too-much-72cd0b86ebcd
 )
-
 - [azure-network-terraform](https://github.com/kaysalawu/azure-network-terraform)
 
-## :muscle:	Bicep
+## :muscle: Bicep
 
 [Back To Top](#Table-Of-Contents)
 
