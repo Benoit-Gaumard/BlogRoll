@@ -51,7 +51,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 - [Exam Sandbox, demo the Microsoft exam experience](https://aka.ms/examdemo)
--[Microsoft learn community](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn)
+- [Microsoft learn community](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn)
+- [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
+- [Practice Assessments for Microsoft Certifications 2](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/prep-for-certification-exams-with-free-practice-assessments-on/ba-p/3666866)
 
 ## :euro: FinOps
 
@@ -256,6 +258,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [CCO GitHub Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard) :fire:
 - [CCO ADO Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard)
 - [Azure Hybrid Benefit Workbook](https://github.com/arthurclares/AzureHybridBenefitWorkbook)
+- [AKS Security Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-azure-kubernetes-service-aks-security-workbook/ba-p/1867134
 
 ## :octocat: GitHub
 
@@ -361,6 +364,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Windows AppLocker Bypass] regsvr32.exe /s /u /i:test.sct scrobj.dll
 - [Cybersecurity-jobs-skills-workshop](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop)
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
+
 
 ## :technologist: Terraform
 
