@@ -68,7 +68,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Cost optimization pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview)
 - [Azure Cost Reporting PBI](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
 - [Project Bose: Cost of an Enterprise by cost centers, divisions](https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295)
-- [The Azure FinOps guide]((https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
+- [The Azure FinOps guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
 
 ## :information_source: Informations
 
