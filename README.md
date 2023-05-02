@@ -69,6 +69,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Cost Reporting PBI](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
 - [Project Bose: Cost of an Enterprise by cost centers, divisions](https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295)
 - [The Azure FinOps guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
+- [Azure Cost Cli](https://github.com/mivano/azure-cost-cli)
 
 ## :information_source: Informations
 
@@ -88,6 +89,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Periodic table](https://azureperiodic.data3.com)
 - [Azure Services io](https://azureservices.io)
 - [Azure deprecation DashBoard](https://github.com/azure-deprecation/dashboard/issues)
+- [Azure Charts Deprecations](https://azurecharts.com/timeboards/deprecations)
+- [Azure Charts Arrivals](https://azurecharts.com/timeboards/arrivals)
+
 
 ## :cop: Policies
 
@@ -209,8 +213,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/?mode=home)
 - [docsupdatetracker](https://docsupdatetracker.net/)
 - [Landing Zone mission-critical](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
-
-
+- [Azure Quick Review](https://github.com/Azure/azqr)
 
 ## :house: Support
 
@@ -341,6 +344,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Monitoring Azure by using Grafana dashboards](https://devblogs.microsoft.com/devops/monitoring-azure-by-using-grafana-dashboards/)
 - [Azure Monitor Community](https://github.com/microsoft/AzureMonitorCommunity) :fire:
 - [Log Analytics cost](https://trstringer.com/log-analytics-expensive-part-1-discovery/)
+- [azure-monitoring-certificates](https://blog.smartcloudarchitect.fr/azure-monitoring-certificates)
 
 ## :ninja: Security
 
