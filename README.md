@@ -392,6 +392,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Johan Vanneuville](https://github.com/JohanVanneuville/Azure-Terraform)
 - [Terraform and Azure DevOps pipelines](https://build5nines.com/deploy-terraform-using-azure-devops-yaml-pipelines/
 )
+- [Deploying Azure Hub-Spoke Networking](https://www.jorgebernhardt.com/terraform-azure-vnet-hub-spoke/)
 
 
 ## :muscle: Bicep
@@ -418,6 +419,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Networking GitHub Repo](https://github.com/nehalineogi/azure-networking)
 - [Azure Ipam](https://github.com/Azure/ipam)
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
+- [NVA Redundancy](https://nwktimes.blogspot.com/2023/05/azure-nva-redundancy-part-I.html)
+
 
 ## :page_with_curl: KQL Queries
 
