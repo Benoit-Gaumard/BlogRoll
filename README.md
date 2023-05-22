@@ -40,6 +40,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Bicep](#muscle-Bicep)
 - [Web](#earth_africa-web)
 - [Network](#globe_with_meridians-network)
+- [KQL Queries](#page_with_curl-kql_queries)
 
 > Links below are from official and custom sources.
 
@@ -70,6 +71,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Project Bose: Cost of an Enterprise by cost centers, divisions](https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295)
 - [The Azure FinOps guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
 - [Azure Cost Cli](https://github.com/mivano/azure-cost-cli)
+
 
 ## :information_source: Informations
 
@@ -143,6 +145,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Devops Bookmark](http://www.devopsbookmarks.com/cloud-paas)
 - [Devops roadmap](https://roadmap.sh/)
 - [The Microsoft Azure Developer's Cheat Sheet](https://github.com/milanm/azure-cheat-sheet)
+- [awesome-french-devops](https://github.com/stephrobert/awesome-french-devops/)
+- [Stéphane Robert Blog](https://blog.stephane-robert.info/)
 
 ## :large_blue_diamond: Azure Active Directory
 
@@ -166,6 +170,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Mask](https://github.com/clarkio/azure-mask)
 - [Raspberry Simulator for IOT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
 - [sqlflow](https://sqlflow.gudusoft.com/#/)
+- [Nuage de mots](https://nuagedemots.co/)
 
 ## :seedling: Sustainability
 
@@ -214,6 +219,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [docsupdatetracker](https://docsupdatetracker.net/)
 - [Landing Zone mission-critical](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
 - [Azure Quick Review](https://github.com/Azure/azqr)
+- [Azure Sandbox Architecture](https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox)
 
 ## :house: Support
 
@@ -261,6 +267,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [CCO ADO Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard)
 - [Azure Hybrid Benefit Workbook](https://github.com/arthurclares/AzureHybridBenefitWorkbook)
 - [AKS Security Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-azure-kubernetes-service-aks-security-workbook/ba-p/1867134
+- [Azure Hybrid Benefits Workbook](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-hybrid-benefit-using-azure-workbooks/ba-p/3798857)
+- [Azure Saving Plans Dashboard](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131)
+- [Azure Cost Management Dashboard](https://github.com/sairashaik6677/azure-costmanagement-dashboard)
 
 ## :octocat: GitHub
 
@@ -379,6 +388,11 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Terraform from 0 to hero flaviusdinu](https://techblog.flaviusdinu.com/terraform-from-0-to-hero-0-i-like-to-start-counting-from-0-maybe-i-enjoy-lists-too-much-72cd0b86ebcd
 )
 - [azure-network-terraform](https://github.com/kaysalawu/azure-network-terraform)
+- [Infracost](https://www.infracost.io/)
+- [Johan Vanneuville](https://github.com/JohanVanneuville/Azure-Terraform)
+- [Terraform and Azure DevOps pipelines](https://build5nines.com/deploy-terraform-using-azure-devops-yaml-pipelines/
+)
+
 
 ## :muscle: Bicep
 
@@ -403,6 +417,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Network-Security GitHub Repo](https://github.com/Azure/Azure-Network-Security)
 - [Azure Networking GitHub Repo](https://github.com/nehalineogi/azure-networking)
 - [Azure Ipam](https://github.com/Azure/ipam)
+- [Submarine Cable Map](https://www.submarinecablemap.com/)
+
+## :page_with_curl: KQL Queries
+
+[Back To Top](#Table-Of-Contents)
+
+- [Query collection](https://github.com/globalbao/azure-resource-graph)
 
 
 ## Fun Images
