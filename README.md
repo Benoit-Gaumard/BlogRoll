@@ -256,6 +256,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 - [Naming and tagging conventions tracking template](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates#ready)
+- [How to tag your resources on AWS / GCP / Azure?](https://lota.cloud/en/bien-taguer/)
 
 
 ## :books: Videos
