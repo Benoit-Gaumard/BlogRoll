@@ -55,6 +55,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft learn community](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn)
 - [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Practice Assessments for Microsoft Certifications 2](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/prep-for-certification-exams-with-free-practice-assessments-on/ba-p/3666866)
+- [Azure Deployment Environments](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-azure-deployment-environments/ba-p/3412095)
 
 
 ## :euro: FinOps
@@ -280,7 +281,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Saving Plans Dashboard](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131)
 - [Azure Cost Management Dashboard](https://github.com/sairashaik6677/azure-costmanagement-dashboard)
 - [Cloud Roles and Operations Management DashBoard](https://github.com/Azure/cloud-rolesandops)
--[Azure Service Retirement Workbook](https://learn.microsoft.com/en-us/azure/advisor/advisor-how-to-plan-migration-workloads-service-retirement)
+- [Azure Service Retirement Workbook](https://learn.microsoft.com/en-us/azure/advisor/advisor-how-to-plan-migration-workloads-service-retirement)
 
 
 ## :octocat: GitHub
