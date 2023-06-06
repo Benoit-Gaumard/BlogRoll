@@ -56,6 +56,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Practice Assessments for Microsoft Certifications 2](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/prep-for-certification-exams-with-free-practice-assessments-on/ba-p/3666866)
 
+
 ## :euro: FinOps
 
 [Back To Top](#Table-Of-Contents)
@@ -110,6 +111,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
 - [Azure Diagnostics Policy Generator](https://github.com/JimGBritt/AzurePolicy/tree/master/AzureMonitor/Scripts)
 - [Configure centralized policy management](https://www.cloudpartner.fi/?p=7015)
+- [Policies Aliases List](https://policyalias.mats.codes/)
 
 ## :sun_behind_small_cloud: Services state
 
@@ -162,6 +164,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure AD Big Picture](https://raw.githubusercontent.com/msandbu/azuread/main/AzureAD%20Big%20picture.jpg)
 - [Microsoft Graph Changelog](https://developer.microsoft.com/en-us/graph/changelog/?search=)
 - [Azure AD Security Config Analyzer (AADSCA)](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)
+- [Azure-AccessPermissions](https://github.com/csandker/Azure-AccessPermissions)
 
 ## :open_file_folder: Misc
 
@@ -219,7 +222,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [docsupdatetracker](https://docsupdatetracker.net/)
 - [Landing Zone mission-critical](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
 - [Azure Quick Review](https://github.com/Azure/azqr)
-- [Azure Sandbox Architecture](https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox)
+- [Cloud Adoption Framework Tools and Templates](https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox)
+- [](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/staying-current?tabs=AdditionalResources#tabpanel_1_AdditionalResources)
+-[CAF Additionnal resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates)
 
 ## :house: Support
 
@@ -250,6 +255,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#Table-Of-Contents)
 
 - [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+- [Naming and tagging conventions tracking template](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates#ready)
+
 
 ## :books: Videos
 
@@ -270,6 +277,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Hybrid Benefits Workbook](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-hybrid-benefit-using-azure-workbooks/ba-p/3798857)
 - [Azure Saving Plans Dashboard](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131)
 - [Azure Cost Management Dashboard](https://github.com/sairashaik6677/azure-costmanagement-dashboard)
+- [Cloud Roles and Operations Management DashBoard](https://github.com/Azure/cloud-rolesandops)
+-[Azure Service Retirement Workbook](https://learn.microsoft.com/en-us/azure/advisor/advisor-how-to-plan-migration-workloads-service-retirement)
+
 
 ## :octocat: GitHub
 
