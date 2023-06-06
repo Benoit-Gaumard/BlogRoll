@@ -249,6 +249,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Naming Tool](https://github.com/microsoft/CloudAdoptionFramework/tree/master/ready/AzNamingTool)
 - [Azure Periodic Table of Resource Naming Convention](https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/) :fire:
 - [The perfect Azure naming convention](https://www.devjev.nl/posts/2022/the-perfect-azure-naming-convention/)
+- [Variables naming convention](https://juniortoexpert.com/fr/convention-de-denomination-des-variables/)
 
 ## :label: Tags
 
