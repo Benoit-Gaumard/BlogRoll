@@ -223,9 +223,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [docsupdatetracker](https://docsupdatetracker.net/)
 - [Landing Zone mission-critical](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
 - [Azure Quick Review](https://github.com/Azure/azqr)
-- [Cloud Adoption Framework Tools and Templates](https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox)
-- [](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/staying-current?tabs=AdditionalResources#tabpanel_1_AdditionalResources)
--[CAF Additionnal resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates)
+- [Azure Sandbox](https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox)
+- [CAF Additionnal resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/staying-current?tabs=AdditionalResources#tabpanel_1_AdditionalResources)
+- [Cloud Adoption Framework Tools and Templates](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates)
 
 ## :house: Support
 
@@ -276,7 +276,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [CCO GitHub Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-github-contributions-dashboard) :fire:
 - [CCO ADO Contributions Dashboard](https://github.com/Azure/CCOInsights#cco-ado-contributions-dashboard)
 - [Azure Hybrid Benefit Workbook](https://github.com/arthurclares/AzureHybridBenefitWorkbook)
-- [AKS Security Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-azure-kubernetes-service-aks-security-workbook/ba-p/1867134
+- [AKS Security Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-azure-kubernetes-service-aks-security-workbook/ba-p/1867134)
 - [Azure Hybrid Benefits Workbook](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-hybrid-benefit-using-azure-workbooks/ba-p/3798857)
 - [Azure Saving Plans Dashboard](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131)
 - [Azure Cost Management Dashboard](https://github.com/sairashaik6677/azure-costmanagement-dashboard)
