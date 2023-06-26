@@ -73,6 +73,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Project Bose: Cost of an Enterprise by cost centers, divisions](https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295)
 - [The Azure FinOps guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
 - [Azure Cost Cli](https://github.com/mivano/azure-cost-cli)
+- [FinOps whitepaper](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/)
 
 
 ## :information_source: Informations
@@ -150,6 +151,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [The Microsoft Azure Developer's Cheat Sheet](https://github.com/milanm/azure-cheat-sheet)
 - [awesome-french-devops](https://github.com/stephrobert/awesome-french-devops/)
 - [Stéphane Robert Blog](https://blog.stephane-robert.info/)
+- [Secret scanning in Azure DevOps](https://johnlokerse.dev/2023/05/24/secret-scanning-in-azure-devops-with-defender-for-devops/)
 
 ## :large_blue_diamond: Azure Active Directory
 
@@ -227,6 +229,12 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Sandbox](https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox)
 - [CAF Additionnal resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/staying-current?tabs=AdditionalResources#tabpanel_1_AdditionalResources)
 - [Cloud Adoption Framework Tools and Templates](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates)
+- [MOAW](https://microsoft.github.io/moaw/) :fire:
+- [Cellenza comment-deployer-une-architecture-hub-and-spoke-avec-azure-firewall](https://blog.cellenza.com/cloud-2/comment-deployer-une-architecture-hub-and-spoke-avec-azure-firewall/)
+- [Blog Cloud63 Vincent Misson](https://blog.cloud63.fr/)
+- [Azure Landing Zone catalog](https://github.com/oliverlabs/alz-catalogue)
+- [Azure Talk Blog](https://blog.zuehlke.cloud/)
+- [Achraf Ben Alaya](https://achrafbenalaya.com/)
 
 ## :house: Support
 
@@ -252,6 +260,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Periodic Table of Resource Naming Convention](https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/) :fire:
 - [The perfect Azure naming convention](https://www.devjev.nl/posts/2022/the-perfect-azure-naming-convention/)
 - [Variables naming convention](https://juniortoexpert.com/fr/convention-de-denomination-des-variables/)
+- [remove Unauthorized Role Assignments](https://github.com/basvanbennekommsft/Blog-Posts/tree/main/Use%20Azure%20Functions%20to%20remove%20Unauthorized%20Role%20Assignments)
+- [Azure Analytics Architecture Advisor](https://azurediagrams.com/)
 
 ## :label: Tags
 
@@ -283,7 +293,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Cost Management Dashboard](https://github.com/sairashaik6677/azure-costmanagement-dashboard)
 - [Cloud Roles and Operations Management DashBoard](https://github.com/Azure/cloud-rolesandops)
 - [Azure Service Retirement Workbook](https://learn.microsoft.com/en-us/azure/advisor/advisor-how-to-plan-migration-workloads-service-retirement)
-
 
 ## :octocat: GitHub
 
@@ -341,6 +350,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [*Start / Stop VMs 2](https://github.com/tomasrudh/AutoShutdownSchedule#automation-account-configuration)
 - [Azureprice](https://azureprice.net/)
 - [Virtual machines selector](https://azure.microsoft.com/en-us/pricing/vm-selector/) :fire:
+- [Automanage Machine Configuration](https://github.com/HolgerWache/MachineConfiguration)
 
 ## :arrow_upper_right: Virtual Machines Scale Set (VMSS)
 
@@ -390,7 +400,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Windows AppLocker Bypass] regsvr32.exe /s /u /i:test.sct scrobj.dll
 - [Cybersecurity-jobs-skills-workshop](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop)
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
-
+- [Azure Secret Rotation](https://github.com/Thialala/automatic-secrets-rotation)
+- [Depix is a tool for recovering passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
 
 ## :technologist: Terraform
 
@@ -399,15 +410,22 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [aztfy](https://github.com/Azure/aztfy)
 - [Azure terraform-azurerm-caf-enterprise-scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki)
 - [Azure caf-terraform-landingzones](https://github.com/azure/caf-terraform-landingzones)
-- [Terraform from 0 to hero flaviusdinu](https://techblog.flaviusdinu.com/terraform-from-0-to-hero-0-i-like-to-start-counting-from-0-maybe-i-enjoy-lists-too-much-72cd0b86ebcd
-)
+- [Terraform from 0 to hero flaviusdinu](https://techblog.flaviusdinu.com/terraform-from-0-to-hero-0-i-like-to-start-counting-from-0-maybe-i-enjoy-lists-too-much-72cd0b86ebcd)
 - [azure-network-terraform](https://github.com/kaysalawu/azure-network-terraform)
 - [Infracost](https://www.infracost.io/)
 - [Johan Vanneuville](https://github.com/JohanVanneuville/Azure-Terraform)
-- [Terraform and Azure DevOps pipelines](https://build5nines.com/deploy-terraform-using-azure-devops-yaml-pipelines/
-)
-- [Deploying Azure Hub-Spoke Networking](https://www.jorgebernhardt.com/terraform-azure-vnet-hub-spoke/)
+- [Terraform and Azure DevOps pipelines](https://build5nines.com/deploy-terraform-using-azure-devops-yaml-pipelines/)
+- [Terraform labs](https://github.com/letmetechyou/terraform)
+- [How to run PowerShell scripts on Azure VMs with Terraform](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-run-powershell-scripts-on-azure-vms-with-terraform/ba-p/3827573)
 
+## :technologist: Terraform Deployment
+
+[Back To Top](#Table-Of-Contents)
+
+- [Deploying terraform-azure-vnet-hub-spoke](https://www.jorgebernhardt.com/terraform-azure-vnet-hub-spoke/)
+- [Deploying azurefirewall-hub-spoke-demo](https://github.com/mddazure/azurefirewall-hub-spoke-demo)
+- [Deploying deploying-and-configuring-azure-firewall-using-terraform](https://jakewalsh.co.uk/deploying-and-configuring-azure-firewall-using-terraform/)
+- [Firewall As Code](https://gitlab.com/VincentMisson/firewall-as-code) :fire:
 
 ## :muscle: Bicep
 
@@ -433,8 +451,17 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Networking GitHub Repo](https://github.com/nehalineogi/azure-networking)
 - [Azure Ipam](https://github.com/Azure/ipam)
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
-- [NVA Redundancy](https://nwktimes.blogspot.com/2023/05/azure-nva-redundancy-part-I.html)
+- [Azure Vnet  Overlap](https://github.com/ElanShudnow/AzureCode/tree/main/PowerShell/AzVNETOverlap)
+- [Azure Demo Labs Network Journey](https://github.com/mattfeltonma/azure-network-journey)
 
+## :globe_with_meridians: Routing and NVA
+
+[Back To Top](#Table-Of-Contents)
+
+- [NVA Redundancy](https://nwktimes.blogspot.com/2023/05/azure-nva-redundancy-part-I.html)
+- [Hub-spoke network topology in Azure](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke) :fire: :fire:
+- [NVA Redundancy](https://anktsrkr.github.io/post/connect-azure-with-your-on-prem-network-part-1/) :fire: :fire:
+- [VPN And Load balancer](https://medium.com/@andragabr/enabling-direct-onprem-site-access-to-azure-private-vmss-resources-via-internal-load-balancer-a-118f13f4ca18)
 
 ## :page_with_curl: KQL Queries
 
@@ -442,6 +469,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Query collection](https://github.com/globalbao/azure-resource-graph)
 
+## :page_with_curl: Others
+
+[Back To Top](#Table-Of-Contents)
+
+- [Wiki Tech](https://wiki-tech.io/)
+
+https://wiki-tech.io/
 
 ## Fun Images
 
