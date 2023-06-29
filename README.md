@@ -354,8 +354,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :arrow_upper_right: Virtual Machines Scale Set
 
-- [Virtual Machines Scale Set](#arrow_upper_right-Virtual-Machines-Scale-Set)
-
 [Back To Top](#Table-Of-Contents)
 
 - [vmssdashboard](https://github.com/gbowerman/vmssdashboard)
