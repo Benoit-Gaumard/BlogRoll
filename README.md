@@ -193,7 +193,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure cross regions replication](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure)
 - [Azure regions and availability zones](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
 
-## :classical_building:  Architecture
+## :classical_building: Architecture
 
 [Back To Top](#Table-Of-Contents)
 
@@ -302,7 +302,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Build your own octocat](https://myoctocat.com/build-your-octocat/)
 - [Bitmoji](https://www.bitmoji.com/stickers/)
 
-## :black_nib: Visio stencils ans icons
+## :black_nib: Stencils and icons
 
 [Back To Top](#Table-Of-Contents)
 
