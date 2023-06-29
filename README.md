@@ -352,7 +352,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Virtual machines selector](https://azure.microsoft.com/en-us/pricing/vm-selector/) :fire:
 - [Automanage Machine Configuration](https://github.com/HolgerWache/MachineConfiguration)
 
-## :arrow_upper_right: Virtual Machines Scale Set (VMSS)
+## :arrow_upper_right: Virtual Machines Scale Set
+
+- [Virtual Machines Scale Set](#arrow_upper_right-Virtual-Machines-Scale-Set)
 
 [Back To Top](#Table-Of-Contents)
 
