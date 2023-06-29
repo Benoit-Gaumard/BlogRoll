@@ -40,7 +40,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Bicep](#muscle-Bicep)
 - [Web](#earth_africa-web)
 - [Network](#globe_with_meridians-network)
-- [KQL Queries](#page_with_curl-kql_queries)
+- [KQL Queries](#page_with_curl-KQL-queries)
 
 > Links below are from official and custom sources.
 
