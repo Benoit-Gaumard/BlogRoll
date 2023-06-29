@@ -97,7 +97,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Charts Deprecations](https://azurecharts.com/timeboards/deprecations)
 - [Azure Charts Arrivals](https://azurecharts.com/timeboards/arrivals)
 
-
 ## :cop: Policies
 
 [Back To Top](#Table-Of-Contents)
@@ -475,8 +474,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Wiki Tech](https://wiki-tech.io/)
 
-https://wiki-tech.io/
-
 ## Fun Images
+
+[Back To Top](#Table-Of-Contents)
 
 - [Goodtechthings.com](https://www.goodtechthings.com/)
