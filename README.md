@@ -32,7 +32,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [LightHouse](#statue_of_liberty-lighthouse)
 - [Compliance](#police_car-compliance)
 - [Virtual Machines](#computer-virtual-machines)
-- [Virtual Machines Scale Set (VMSS)](#arrow_upper_right-Virtual-Machines-Scale-Set-(VMSS))
+- [Virtual Machines Scale Set](#arrow_upper_right-Virtual-Machines-Scale-Set)
 - [ARM](#a-arm)
 - [Analytics and monitoring](#stopwatch-Analytics-and-monitoring)
 - [Security](#ninja-security)
