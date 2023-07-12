@@ -401,6 +401,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 - [Azure Secret Rotation](https://github.com/Thialala/automatic-secrets-rotation)
 - [Depix is a tool for recovering passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
+- [Snoop](https://github.com/snooppr/snoop/blob/master/README.fr.md)
+- [Get Azure bearer token](https://resources.azure.com/api/token?plaintext=true)
 
 ## :technologist: Terraform
 
