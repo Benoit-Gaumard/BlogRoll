@@ -168,6 +168,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure AD Security Config Analyzer (AADSCA)](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)
 - [Azure-AccessPermissions](https://github.com/csandker/Azure-AccessPermissions)
 - [Decode, verify and generate Token](https://jwt.io/)
+- [AAD Osint tool](https://aadinternals.com/osint/)
 
 ## :open_file_folder: Misc
 
