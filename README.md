@@ -8,44 +8,43 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## Table Of Contents
 
-- [New To Check](#new-to-check)
+- [New To Check](#new-wew-to-check)
 - [Certifications](#medal_sports-certifications)
 - [FinOps](#dollar-finops)
 - [Informations](#information_source-informations)
-- [Services](#information_source-services)
-- [Policies](#cop-Policies)
-- [Services state](#sun_behind_small_cloud-Services-state)
-- [Cloud Services Comparison](#heavy_plus_sign-Cloud-Services-Comparison)
-- [DevOps](#rocket-DevOps)
-- [Azure Active Directory](#large_blue_diamond-Azure-Active-Directory)
-- [Misc](#open_file_folder-Misc)
-- [Sustainability](#seedling-Sustainability)
-- [HA and DR](#cloud-HA-and-DR)
-- [Architecture](#classical_building-Architecture)
-- [Support](#house-Support)
-- [Governance](#house-Governance)
-- [Tags](#label-Tags)
-- [Videos](#books-Videos)
-- [DashBoards](#books-DashBoards)
-- [GitHub](#octocat-GitHub)
-- [Stencils and icons](#black_nib-Stencils-and-icons)
+- [Services](#chart-with-upwards-trend-services)
+- [Policies](#cop-policies)
+- [Cloud Services Comparison](#heavy_plus_sign-cloud-services-comparison)
+- [DevOps](#rocket-devops)
+- [Azure Active Directory](#large_blue_diamond-azure-active-directory)
+- [Misc](#open_file_folder-misc)
+- [Sustainability](#seedling-sustainability)
+- [HA and DR](#cloud-ha-and-dr)
+- [Architecture](#classical_building-architecture)
+- [Support](#house-support)
+- [Governance](#house-governance)
+- [Tags](#label-tags)
+- [Videos](#books-videos)
+- [DashBoards](#books-dashBoards)
+- [GitHub](#octocat-gitHub)
+- [Stencils and icons](#black_nib-stencils-and-icons)
 - [Tips and tricks](#page_with_curl-tips-and-tricks)
 - [LightHouse](#statue_of_liberty-lighthouse)
 - [Compliance](#police_car-compliance)
 - [Virtual Machines](#computer-virtual-machines)
-- [Virtual Machines Scale Set](#arrow_upper_right-Virtual-Machines-Scale-Set)
+- [Virtual Machines Scale Set](#arrow_upper_right-virtual-machines-scale-set)
 - [ARM](#a-arm)
-- [Analytics and monitoring](#stopwatch-Analytics-and-monitoring)
+- [Analytics and monitoring](#stopwatch-analytics-and-monitoring)
 - [Security](#ninja-security)
 - [Terraform](#technologist-terraform)
-- [Bicep](#muscle-Bicep)
+- [Bicep](#muscle-bicep)
 - [Web](#earth_africa-web)
 - [Network](#globe_with_meridians-network)
-- [KQL Queries](#page_with_curl-KQL-queries)
+- [KQL Queries](#page_with_curl-kql-queries)
 
 > Links below are from official and custom sources.
 
-## :new: To Check
+## :new: New To Check
 
 [Back To Top](#table-of-contents)
 
@@ -90,16 +89,22 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [AzureFeeds](https://azurefeeds.com/)
 - [Official Microsoft Team Blogs](https://docs.microsoft.com/en-us/archive/blogs/blogms/official-microsoft-team-blogs-microsoft-blogs)
 
-## :information_source: Services
+## :chart_with_upwards_trend: Services
 
 [Back To Top](#table-of-contents)
 
 - [Azure Charts](https://azurecharts.com/) :fire:
 - [Azure Periodic table](https://azureperiodic.data3.com)
 - [Azure Services io](https://azureservices.io)
-- [Azure deprecation DashBoard](https://github.com/azure-deprecation/dashboard/issues)
-- [Azure Charts Deprecations](https://azurecharts.com/timeboards/deprecations)
-- [Azure Charts Arrivals](https://azurecharts.com/timeboards/arrivals)
+- [Azure Deprecation DashBoard](https://github.com/azure-deprecation/dashboard/issues)
+- [Azure Charts Deprecations](https://azurecharts.com/timeboards/deprecations) :fire:
+- [Azure Charts Arrivals](https://azurecharts.com/timeboards/arrivals) :fire:
+- [Azure Status](https://status.azure.com/) :fire:
+- [New Azure Status](https://azure.status.microsoft/en-us/status) :fire:
+- [Azure Infrastructure Map](https://infrastructuremap.microsoft.com/) :fire:
+- [Azure Speed Test 2.0](http://azurespeedtest.azurewebsites.net)
+- [AzSpeedTest Powershell](https://github.com/devblackops/AzSpeedTest)
+- [AzureSpeed](https://www.azurespeed.com/)
 
 ## :cop: Policies
 
@@ -118,22 +123,11 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Configure centralized policy management](https://www.cloudpartner.fi/?p=7015)
 - [Policies Aliases List](https://policyalias.mats.codes/)
 
-## :sun_behind_small_cloud: Services state
-
-[Back To Top](#table-of-contents)
-
-- [Azure Status](https://status.azure.com/) :fire:
-- [New Azure Status](https://azure.status.microsoft/en-us/status) :fire:
-- [Azure Infrastructure Map](https://infrastructuremap.microsoft.com/) :fire:
-- [Azure Speed Test 2.0](http://azurespeedtest.azurewebsites.net)
-- [AzSpeedTest Powershell](https://github.com/devblackops/AzSpeedTest)
-- [AzureSpeed](https://www.azurespeed.com/)
-
 ## :heavy_plus_sign: Cloud Services Comparison
 
 [Back To Top](#table-of-contents)
 
-- [Public Cloud Services Comparison](https://comparecloud.in/)
+- [Public Cloud Services Comparison](https://comparecloud.in/) :fire:
 - [Azure VM Comparison](https://azureprice.net/)
 - [Compare AWS and Azure services to Google Cloud](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q2-Product-Mapping-Blog&utm_content=documentation)
 - [Compare Azure and AWS services](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
@@ -167,7 +161,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Interactive authentication](https://microsoft.com/devicelogin/)
 - [Azure Active Directory admin center](http://aad.portal.azure.com) :fire:
 - [Azure AD Exporter](https://github.com/microsoft/azureadexporter/)
-- [Azure AD Big Picture](https://raw.githubusercontent.com/msandbu/azuread/main/AzureAD%20Big%20picture.jpg)
+- [Azure AD Big Picture](https://raw.githubusercontent.com/msandbu/azuread/main/AzureAD%20Big%20picture.jpg) :fire:
 - [Microsoft Graph Changelog](https://developer.microsoft.com/en-us/graph/changelog/?search=)
 - [Azure AD Security Config Analyzer (AADSCA)](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)
 - [Azure-AccessPermissions](https://github.com/csandker/Azure-AccessPermissions)
