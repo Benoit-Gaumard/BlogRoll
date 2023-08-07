@@ -46,7 +46,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :medal_sports: Certifications
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Official certifications training poster](https://aka.ms/TrainCertPoster) :fire:
 - [Browse Certifications by roles](https://learn.microsoft.com/en-us/certifications/)
@@ -60,7 +60,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :euro: FinOps
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 - [Azure Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/) :fire:
@@ -78,7 +78,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :information_source: Informations
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Updates](https://azure.microsoft.com/en-us/updates/) :fire:
 - [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
@@ -88,7 +88,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :information_source: Services
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Charts](https://azurecharts.com/) :fire:
 - [Azure Periodic table](https://azureperiodic.data3.com)
@@ -99,7 +99,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :cop: Policies
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Windows using Guest Configuration](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/7-steps-to-author-develop-and-deploy-custom-recommendations-for/ba-p/3166026)
 - [Azure Policy As Code](https://github.com/Azure/enterprise-azure-policy-as-code)
@@ -116,7 +116,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :sun_behind_small_cloud: Services state
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Status](https://status.azure.com/) :fire:
 - [New Azure Status](https://azure.status.microsoft/en-us/status) :fire:
@@ -127,7 +127,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :heavy_plus_sign: Cloud Services Comparison
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Public Cloud Services Comparison](https://comparecloud.in/)
 - [Azure VM Comparison](https://azureprice.net/)
@@ -137,7 +137,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :rocket: DevOps
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Learn git branching](https://learngitbranching.js.org/) :fire:
 - [Vinijmoura GitHub Repo](https://github.com/vinijmoura/Azure-DevOps)
@@ -154,7 +154,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :large_blue_diamond: Azure Active Directory
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure AD where is your data located](https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
 - [Tenant availability check 1](https://account.azure.com/organization)
@@ -172,7 +172,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :open_file_folder: Misc
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Mask](https://github.com/clarkio/azure-mask)
 - [Raspberry Simulator for IOT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
@@ -181,13 +181,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :seedling: Sustainability
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Microsoft Emissions Impact Dashboard](https://azure.microsoft.com/es-es/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/)
 
 ## :cloud: HA and DR
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Geographies and regions](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
 - [Azure cross regions replication](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure)
@@ -195,7 +195,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :classical_building: Architecture
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Microsoft Cloud Workshop library](https://microsoftcloudworkshop.com/)
 - [White papers](https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource)
@@ -238,7 +238,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :house: Support
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Support plans](https://azure.microsoft.com/en-us/support/plans/)
 - [Azure community support](https://docs.microsoft.com/en-us/answers/products/azure?product=all)
@@ -246,7 +246,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :house: Governance
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [AzAdvertizer](https://www.azadvertizer.net/) :fire:
 - [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
@@ -265,7 +265,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :label: Tags
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 - [Naming and tagging conventions tracking template](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates#ready)
@@ -274,13 +274,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :books: Videos
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Academy](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
 
 ## :books: DashBoards
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Orphan Resources workbook](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198)
 - [Network Security Dashboard for Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Network%20Security%20Dashboard)
@@ -296,7 +296,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :octocat: GitHub
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [GitHub emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :fire:
 - [Build your own octocat](https://myoctocat.com/build-your-octocat/)
@@ -304,7 +304,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :black_nib: Stencils and icons
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Official Microsoft Azure Cloud and AI Symbol / Icon Set - SVG - Pointer](https://www.microsoft.com/en-us/download/details.aspx?id=41937)
 - [sandroasp Icon Set](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/tree/master/Azure)
@@ -319,21 +319,21 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :page_with_curl: Tips and tricks
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
 - [Azure Cloud Shell Web](https://shell.azure.com/)
 
 ## :statue_of_liberty: LightHouse
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Securing Azure Lighthouse with Azure Policy and PIM](https://securecloud.blog/2020/11/13/securing-azure-lighthouse-with-azure-policy-and-azure-privileged-identity-management-for-msps-and-customers/)
 
 
 ## :police_car: Compliance
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide)
 - [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement)
@@ -343,7 +343,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :computer: Virtual machines
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure VM sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general)
 - [Start / Stop VMs 1](https://automys.com/library/asset/scheduled-virtual-machine-shutdown-startup-microsoft-azure)
@@ -354,14 +354,14 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :arrow_upper_right: Virtual Machines Scale Set
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [vmssdashboard](https://github.com/gbowerman/vmssdashboard)
 - [asciivmssdashboard](https://github.com/msleal/asciivmssdashboard)
 
 ## :a: ARM
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
 - [ARMViz](http://armviz.io)
@@ -370,7 +370,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :stopwatch: Analytics and monitoring
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Log Analytics Query Portal](https://portal.loganalytics.io/demo#/query/main)
 - [Kusto explorer](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/tools/kusto-explorer)
@@ -381,7 +381,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :ninja: Security
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azucar](https://github.com/nccgroup/azucar)
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
@@ -407,7 +407,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :technologist: Terraform
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [aztfy](https://github.com/Azure/aztfy)
 - [Azure terraform-azurerm-caf-enterprise-scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki)
@@ -422,7 +422,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :technologist: Terraform Deployment
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Deploying terraform-azure-vnet-hub-spoke](https://www.jorgebernhardt.com/terraform-azure-vnet-hub-spoke/)
 - [Deploying azurefirewall-hub-spoke-demo](https://github.com/mddazure/azurefirewall-hub-spoke-demo)
@@ -431,13 +431,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :muscle: Bicep
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Bicep from 0 to hero](https://github.com/rchaganti/bicepbookexamples)
 
 ## :earth_africa: Web
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Whirl CSS](https://whirl.netlify.app/)
 - [jsoncrack](https://jsoncrack.com/)
@@ -445,7 +445,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :globe_with_meridians: Network
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Networking Map](https://techcommunity.microsoft.com/t5/azure-networking-blog/the-azure-networking-map/ba-p/3706001)
 - [Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/)
@@ -460,7 +460,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :globe_with_meridians: Routing and NVA
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [NVA Redundancy](https://nwktimes.blogspot.com/2023/05/azure-nva-redundancy-part-I.html)
 - [Hub-spoke network topology in Azure](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke) :fire: :fire:
@@ -469,18 +469,18 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## :page_with_curl: KQL Queries
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Query collection](https://github.com/globalbao/azure-resource-graph)
 
 ## :page_with_curl: Others
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Wiki Tech](https://wiki-tech.io/)
 
 ## Fun Images
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Goodtechthings.com](https://www.goodtechthings.com/)
