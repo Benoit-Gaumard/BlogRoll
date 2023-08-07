@@ -8,7 +8,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## Table Of Contents
 
-- [New To Check](#new-wew-to-check)
+- [New To Check](#new-new-to-check)
 - [Certifications](#medal_sports-certifications)
 - [FinOps](#dollar-finops)
 - [Informations](#information_source-informations)
@@ -41,6 +41,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Bicep](#muscle-bicep)
 - [Web](#earth_africa-web)
 - [Network](#globe_with_meridians-network)
+- [Routing and NVA](#bricks-routing-and-nva)
 
 > Links below are from official and custom sources.
 
@@ -457,7 +458,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Using Azure Firewall with Web Application behind WAF/Application Gateway?](https://learn.microsoft.com/en-us/answers/questions/774683/using-azure-firewall-with-web-application-behind-w)
 - [Cellenza comment-deployer-une-architecture-hub-and-spoke-avec-azure-firewall](https://blog.cellenza.com/cloud-2/comment-deployer-une-architecture-hub-and-spoke-avec-azure-firewall/)
 
-## :globe_with_meridians: Routing and NVA
+## :bricks: Routing and NVA
 
 [Back To Top](#table-of-contents)
 
@@ -466,13 +467,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [NVA Redundancy](https://anktsrkr.github.io/post/connect-azure-with-your-on-prem-network-part-1/) :fire: :fire:
 - [VPN And Load balancer](https://medium.com/@andragabr/enabling-direct-onprem-site-access-to-azure-private-vmss-resources-via-internal-load-balancer-a-118f13f4ca18)
 
-## :page_with_curl: KQL Queries
-
-[Back To Top](#table-of-contents)
-
-
-
-## :page_with_curl: Migration
+## :book: Migration
 
 [Back To Top](#table-of-contents)
 
