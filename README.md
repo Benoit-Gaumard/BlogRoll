@@ -20,9 +20,10 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Misc](#open_file_folder-misc)
 - [Sustainability](#seedling-sustainability)
 - [HA and DR](#cloud-ha-and-dr)
+- [HA and DR](#classical_building-portals)
 - [Architecture](#classical_building-architecture)
-- [Support](#house-support)
-- [Governance](#house-governance)
+- [Support](#fire-engine-support)
+- [Governance](#school-governance)
 - [Tags](#label-tags)
 - [Videos](#books-videos)
 - [DashBoards](#books-dashBoards)
@@ -40,7 +41,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Bicep](#muscle-bicep)
 - [Web](#earth_africa-web)
 - [Network](#globe_with_meridians-network)
-- [KQL Queries](#page_with_curl-kql-queries)
 
 > Links below are from official and custom sources.
 
@@ -105,6 +105,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Speed Test 2.0](http://azurespeedtest.azurewebsites.net)
 - [AzSpeedTest Powershell](https://github.com/devblackops/AzSpeedTest)
 - [AzureSpeed](https://www.azurespeed.com/)
+- [SLA for Azure services](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
+- [SLA Calculator](https://uptime.is/)
 
 ## :cop: Policies
 
@@ -176,6 +178,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Raspberry Simulator for IOT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
 - [sqlflow](https://sqlflow.gudusoft.com/#/)
 - [Nuage de mots](https://nuagedemots.co/)
+- [Wiki Tech](https://wiki-tech.io/)
+- [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
 
 ## :seedling: Sustainability
 
@@ -191,13 +195,25 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure cross regions replication](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure)
 - [Azure regions and availability zones](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
 
+## :classical_building: Portals
+
+[Back To Top](#table-of-contents)
+
+- [Azure Preview portal](https://preview.portal.azure.com)
+- [Azure RC portal](https://rc.portal.azure.com/)
+- [Microsoft portals](https://www.nuno-silva.net/microsoft-365-portals)
+- [Microsoft portals 2](https://www.moderndeployment.com/microsoft-azure-management-urls/)
+- [Azure portals 3](https://cmd.ms/)
+- [Microsoft Administrator Portals](https://msportals.io)
+- [MyApps](https://myapps.microsoft.com/)
+- [Azure Cloud Shell Web](https://shell.azure.com/)
+
 ## :classical_building: Architecture
 
 [Back To Top](#table-of-contents)
 
 - [Microsoft Cloud Workshop library](https://microsoftcloudworkshop.com/)
 - [White papers](https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=WhitePaperResource)
-- [Microsoft Cybersecurity Reference Architectures (MCRA)](https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra) :fire:
 - [Azure subscription and service limits, quotas, and constraints](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
 - [Azure Cloud Adoption Framework (CAF)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) :fire:
 - [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/)
@@ -209,15 +225,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/browse/) :fire:
 - [Cloud adoption antipatterns](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/antipatterns-to-avoid)
 - [Azure Customer Advisory Team (CAT)](https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT)
-- [SLA for Azure services](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
-- [SLA Calculator](https://uptime.is/)
-- [Azure Preview portal](https://preview.portal.azure.com)
-- [Azure RC portal](https://rc.portal.azure.com/)
-- [Microsoft portals](https://www.nuno-silva.net/microsoft-365-portals)
-- [Microsoft portals 2](https://www.moderndeployment.com/microsoft-azure-management-urls/)
-- [Azure portals 3](https://cmd.ms/)
-- [Microsoft Administrator Portals](https://msportals.io)
-- [MyApps](https://myapps.microsoft.com/)
 - [Azure supported workloads](https://docs.microsoft.com/en-US/troubleshoot/azure/virtual-machines/server-software-support)
 - [awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture)
 - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/?mode=home)
@@ -229,13 +236,12 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [CAF Additionnal resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/staying-current?tabs=AdditionalResources#tabpanel_1_AdditionalResources)
 - [Cloud Adoption Framework Tools and Templates](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates)
 - [MOAW](https://microsoft.github.io/moaw/) :fire:
-- [Cellenza comment-deployer-une-architecture-hub-and-spoke-avec-azure-firewall](https://blog.cellenza.com/cloud-2/comment-deployer-une-architecture-hub-and-spoke-avec-azure-firewall/)
 - [Blog Cloud63 Vincent Misson](https://blog.cloud63.fr/)
 - [Azure Landing Zone catalog](https://github.com/oliverlabs/alz-catalogue)
 - [Azure Talk Blog](https://blog.zuehlke.cloud/)
 - [Achraf Ben Alaya](https://achrafbenalaya.com/)
 
-## :house: Support
+## :fire_engine: Support
 
 [Back To Top](#table-of-contents)
 
@@ -243,7 +249,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure community support](https://docs.microsoft.com/en-us/answers/products/azure?product=all)
 - [Azure feedback](https://feedback.azure.com/d365community) :fire:
 
-## :house: Governance
+## :school: Governance
 
 [Back To Top](#table-of-contents)
 
@@ -269,7 +275,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 - [Naming and tagging conventions tracking template](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates#ready)
 - [How to tag your resources on AWS / GCP / Azure?](https://lota.cloud/en/bien-taguer/)
-
 
 ## :books: Videos
 
@@ -316,19 +321,11 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Icons Libraries for Diagrams.net (Draw.io)](https://pacodelacruz.io/azure-icons-library-diagrams-net) :fire:
 - [Azure architecture SVG icons](https://learn.microsoft.com/en-us/azure/architecture/icons/) :fire:
 
-## :page_with_curl: Tips and tricks
-
-[Back To Top](#table-of-contents)
-
-- [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
-- [Azure Cloud Shell Web](https://shell.azure.com/)
-
 ## :statue_of_liberty: LightHouse
 
 [Back To Top](#table-of-contents)
 
 - [Securing Azure Lighthouse with Azure Policy and PIM](https://securecloud.blog/2020/11/13/securing-azure-lighthouse-with-azure-policy-and-azure-privileged-identity-management-for-msps-and-customers/)
-
 
 ## :police_car: Compliance
 
@@ -346,7 +343,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Azure VM sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-general)
 - [Start / Stop VMs 1](https://automys.com/library/asset/scheduled-virtual-machine-shutdown-startup-microsoft-azure)
-- [*Start / Stop VMs 2](https://github.com/tomasrudh/AutoShutdownSchedule#automation-account-configuration)
+- [Start / Stop VMs 2](https://github.com/tomasrudh/AutoShutdownSchedule#automation-account-configuration)
 - [Azureprice](https://azureprice.net/)
 - [Virtual machines selector](https://azure.microsoft.com/en-us/pricing/vm-selector/) :fire:
 - [Automanage Machine Configuration](https://github.com/HolgerWache/MachineConfiguration)
@@ -377,11 +374,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Monitor Community](https://github.com/microsoft/AzureMonitorCommunity) :fire:
 - [Log Analytics cost](https://trstringer.com/log-analytics-expensive-part-1-discovery/)
 - [azure-monitoring-certificates](https://blog.smartcloudarchitect.fr/azure-monitoring-certificates)
+- [Query collection](https://github.com/globalbao/azure-resource-graph)
 
 ## :ninja: Security
 
 [Back To Top](#table-of-contents)
 
+- [Microsoft Cybersecurity Reference Architectures (MCRA)](https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra) :fire:
 - [Azucar](https://github.com/nccgroup/azucar)
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 - [Secure DevOps Kit](https://github.com/azsk/DevOpsKit-docs)
@@ -456,6 +455,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Demo Labs Network Journey](https://github.com/mattfeltonma/azure-network-journey)
 - [Application Gateway of Firewall](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gateway/firewall-application-gateway)
 - [Using Azure Firewall with Web Application behind WAF/Application Gateway?](https://learn.microsoft.com/en-us/answers/questions/774683/using-azure-firewall-with-web-application-behind-w)
+- [Cellenza comment-deployer-une-architecture-hub-and-spoke-avec-azure-firewall](https://blog.cellenza.com/cloud-2/comment-deployer-une-architecture-hub-and-spoke-avec-azure-firewall/)
 
 ## :globe_with_meridians: Routing and NVA
 
@@ -470,20 +470,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 [Back To Top](#table-of-contents)
 
-- [Query collection](https://github.com/globalbao/azure-resource-graph)
 
-## :page_with_curl: Others
-
-[Back To Top](#table-of-contents)
-
-- [Wiki Tech](https://wiki-tech.io/)
 
 ## :page_with_curl: Migration
 
 [Back To Top](#table-of-contents)
 
 - [Migration Execution Guide](https://github.com/Azure/migration)
-
 
 ## Fun Images
 
