@@ -8,10 +8,11 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## Table Of Contents
 
+- [New To Check](#new-to-check)
 - [Certifications](#medal_sports-certifications)
-- [FinOps](#euro-FinOps)
-- [Informations](#information_source-Informations)
-- [Services](#information_source-Services)
+- [FinOps](#dollar-finops)
+- [Informations](#information_source-informations)
+- [Services](#information_source-services)
 - [Policies](#cop-Policies)
 - [Services state](#sun_behind_small_cloud-Services-state)
 - [Cloud Services Comparison](#heavy_plus_sign-Cloud-Services-Comparison)
@@ -44,6 +45,12 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 > Links below are from official and custom sources.
 
+## :new: To Check
+
+[Back To Top](#table-of-contents)
+
+- [Azure Deployment Environments](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-azure-deployment-environments/ba-p/3412095)
+
 ## :medal_sports: Certifications
 
 [Back To Top](#table-of-contents)
@@ -55,10 +62,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft learn community](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn)
 - [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Practice Assessments for Microsoft Certifications 2](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/prep-for-certification-exams-with-free-practice-assessments-on/ba-p/3666866)
-- [Azure Deployment Environments](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-azure-deployment-environments/ba-p/3412095)
 
-
-## :euro: FinOps
+## :dollar: FinOps
 
 [Back To Top](#table-of-contents)
 
@@ -70,11 +75,10 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Defender for Cloud Price Estimation Dashboard](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-price-estimation-dashboard/ba-p/3247622)
 - [Cost optimization pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/overview)
 - [Azure Cost Reporting PBI](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
-- [Project Bose: Cost of an Enterprise by cost centers, divisions](https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295)
-- [The Azure FinOps guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
-- [Azure Cost Cli](https://github.com/mivano/azure-cost-cli)
+- [Project Bose: Cost of an Enterprise by cost centers, divisions, projects](https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295)
+- [The Azure FinOps guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132) :fire:
+- [Azure Cost Cli](https://github.com/mivano/azure-cost-cli) :fire:
 - [FinOps whitepaper](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/)
-
 
 ## :information_source: Informations
 
@@ -84,7 +88,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
 - [Azure Weekly](https://azureweekly.info/)
 - [AzureFeeds](https://azurefeeds.com/)
-- [Official Microsoft Team Blogs](https://docs.microsoft.com/en-us/archive/blogs/blogms/official-microsoft-team-blogs-microsoft-blogs) :fire:
+- [Official Microsoft Team Blogs](https://docs.microsoft.com/en-us/archive/blogs/blogms/official-microsoft-team-blogs-microsoft-blogs)
 
 ## :information_source: Services
 
@@ -225,8 +229,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/?mode=home)
 - [docsupdatetracker](https://docsupdatetracker.net/)
 - [Landing Zone mission-critical](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-landing-zone)
-- [Azure Quick Review](https://github.com/Azure/azqr)
+- [Azure Quick Review](https://github.com/Azure/azqr) :fire:
 - [Azure Sandbox](https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox)
+- [Azure Dev Center](https://github.com/Azure-Samples/DevCenter)
 - [CAF Additionnal resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/staying-current?tabs=AdditionalResources#tabpanel_1_AdditionalResources)
 - [Cloud Adoption Framework Tools and Templates](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates)
 - [MOAW](https://microsoft.github.io/moaw/) :fire:
@@ -393,7 +398,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Security Control Mappings to MITRE ATT&CK®](https://center-for-threat-informed-defense.github.io/security-stack-mappings/Azure/README.html)
 - [Azure Hunter](https://github.com/darkquasar/AzureHunter)
 - [Microsoft Security Response Center (MSRC)](https://msrc.microsoft.com/update-guide/vulnerability)
-- [Azure Review CheckList](https://github.com/Azure/review-checklists)
+- [Azure Review CheckList](https://github.com/Azure/review-checklists) :fire:
 - [CloudSploit Security Remediation Guides](https://github.com/aquasecurity/cloud-security-remediation-guides)
 - [Identifying & Exploiting Leaked Azure Storage Keys](https://notsosecure.com/identifying-exploiting-leaked-azure-storage-keys)
 - [cloud security vulnerabilities](https://github.com/hashishrajan/cloud-security-vulnerabilities)
@@ -478,6 +483,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#table-of-contents)
 
 - [Wiki Tech](https://wiki-tech.io/)
+
+## :page_with_curl: Migration
+
+[Back To Top](#table-of-contents)
+
+- [Migration Execution Guide](https://github.com/Azure/migration)
+
 
 ## Fun Images
 
