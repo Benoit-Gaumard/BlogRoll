@@ -8,7 +8,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## Table Of Contents
 
-- [Certifications](#medal_sports-Certifications)
+- [Certifications](#medal_sports-certifications)
 - [FinOps](#euro-FinOps)
 - [Informations](#information_source-Informations)
 - [Services](#information_source-Services)
