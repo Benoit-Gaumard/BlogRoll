@@ -455,6 +455,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [Azure Vnet  Overlap](https://github.com/ElanShudnow/AzureCode/tree/main/PowerShell/AzVNETOverlap)
 - [Azure Demo Labs Network Journey](https://github.com/mattfeltonma/azure-network-journey)
+- [Application Gateway of Firewall](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gateway/firewall-application-gateway)
+- [Using Azure Firewall with Web Application behind WAF/Application Gateway?](https://learn.microsoft.com/en-us/answers/questions/774683/using-azure-firewall-with-web-application-behind-w)
 
 ## :globe_with_meridians: Routing and NVA
 
