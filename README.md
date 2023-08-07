@@ -20,12 +20,12 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Misc](#open_file_folder-misc)
 - [Sustainability](#seedling-sustainability)
 - [HA and DR](#cloud-ha-and-dr)
-- [HA and DR](#classical_building-portals)
+- [Portals](#notebook-portals)
 - [Architecture](#classical_building-architecture)
 - [Support](#fire-engine-support)
 - [Governance](#school-governance)
 - [Tags](#label-tags)
-- [Videos](#books-videos)
+- [Videos](#movie-camera-videos)
 - [DashBoards](#books-dashBoards)
 - [GitHub](#octocat-gitHub)
 - [Stencils and icons](#black_nib-stencils-and-icons)
@@ -196,7 +196,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure cross regions replication](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure)
 - [Azure regions and availability zones](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
 
-## :classical_building: Portals
+## :notebook: Portals
 
 [Back To Top](#table-of-contents)
 
@@ -277,7 +277,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Naming and tagging conventions tracking template](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates#ready)
 - [How to tag your resources on AWS / GCP / Azure?](https://lota.cloud/en/bien-taguer/)
 
-## :books: Videos
+## :movie_camera: Videos
 
 [Back To Top](#table-of-contents)
 
@@ -419,7 +419,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Terraform labs](https://github.com/letmetechyou/terraform)
 - [How to run PowerShell scripts on Azure VMs with Terraform](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-run-powershell-scripts-on-azure-vms-with-terraform/ba-p/3827573)
 
-## :technologist: Terraform Deployment
+## :arrows_counterclockwise: Terraform Deployment
 
 [Back To Top](#table-of-contents)
 
